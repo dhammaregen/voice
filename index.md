@@ -9,6 +9,7 @@ SuttaCentral ist eine internationale Webseite mit frühen buddhistischen Texten 
 - [Inhaltsverzeichnis](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/voice-inhalt)
   - [Offline hören](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/offline-horen)
   - [Suche](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/suche)
+  - [Tipitaka-Kategorien](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/tipitaka-kategorien)
   - [Einstellungen](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/einstellungen)
   - [Segmentierungstechnik](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/segmentierung)
   - [Support-Richtlinien](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/support)
