@@ -27,8 +27,8 @@ Dhammaregen ist eine deutschsprachige Begleitwebseite zu SuttaCentral Voice. Sie
 - [Lizenzen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/lizenzen)
 - [Zum Herunterladen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/herunterladen)
 - [Spenden](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/spenden-sc)
-### Der Tipitaka
-### Essays von Bhante Sujato zu den Pali-Suttas
+### Die drei Körbe
+### Essays von Bhikkhu Sujato zu den Pali-Suttas
 - [Ein Leitfaden zu den Pali‐Suttas](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas)
 ### Über die deutschen Übersetzungen
 
