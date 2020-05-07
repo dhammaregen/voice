@@ -3,7 +3,7 @@ Die buddhistischen Texte, ob in den Originalsprachen oder als Übersetzung, werd
 
 Unsere Quelldateien sind auf [SuttaCentrals GitHub-Depot](https://github.com/suttacentral) frei verfügbar. SuttaCentral ist stolz darauf, zur *Open Source*-Gemeinschaft zu gehören.
 
-Das Material auf SuttaCentral fällt im Hinblick auf das Urheberrecht in drei verschiedene Kategorien, die weiter unten aufgeführt sind. Wenn Sie bezüglich eines Inhalts von SuttaCentral Urheberrecht geltend machen wollen oder über das Urheberrecht auf SuttaCentral diskutieren wollen, zögern Sie bitte nicht, uns [auf unserem Forum](https://discourse.suttacentral.net/) zu kontaktieren.
+Das Material auf SuttaCentral fällt im Hinblick auf das Urheberrecht in drei verschiedene Kategorien, die weiter unten aufgeführt sind. Wenn Sie bezüglich eines Inhalts von SuttaCentral ein Urheberrecht geltend machen wollen oder über das Urheberrecht auf SuttaCentral diskutieren wollen, zögern Sie bitte nicht, uns [auf unserem Forum](https://discourse.suttacentral.net/) zu kontaktieren.
 
 #### 1. Originalmaterial, das von SuttaCentral neu erstellt wurde
 
