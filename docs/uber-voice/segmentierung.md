@@ -5,7 +5,7 @@ Die Segmentierung wurde erstmals eingeführt, als Bhante Sujato an seiner neuen 
 
 Als nun segmentierte Texte auf SuttaCentral vorlagen, stellte sich heraus, dass diese Technik noch eine Fülle weiterer Anwendungsmöglichkeiten eröffnet. Sie macht es zum Beispiel möglich, Quelltext und Übersetzung nebeneinander auf der SuttaCentral-Webseite darzustellen. Durch die Angabe von Segmentnummern werden Suttaverweise viel feinkörniger. Die Technik erleichtert es auch, neue Übersetzungen in andere Sprachen als Englisch anzufertigen, indem man die zusammengehörigen Segmente auf Pali und Englisch zum Vergleich nebeneinanderstellt und von hier aus in eine dritte Sprache übersetzt.
 
-Die Entwicklung von SuttaCentral Voice beruht ganz auf dieser Segmentierungstechnik; das ist der Grund, weshalb nur segmentierte Texte voll unterstützt werden können (siehe [Support-Richtlinien](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/support)).
+Die Entwicklung von SuttaCentral Voice beruht ganz auf dieser Segmentierungstechnik; das ist der Grund, weshalb nur segmentierte Texte voll unterstützt werden können (siehe [Support-Richtlinien](https://sc-voice.github.io/dhammaregen/docs/uber-voice/support)).
 
 Segmente sind in SuttaCentral Voice mehrsprachig angelegt und erscheinen in der Praxis zweisprachig. Das heißt, jedes Segment besteht aus zwei Zeilen, einer in der Quellsprache (Pali) und einer in der Sprache der Übersetzung (Deutsch):
 
@@ -13,4 +13,4 @@ Segmente sind in SuttaCentral Voice mehrsprachig angelegt und erscheinen in der 
 pli: Chando hi mūlaṁ dukkhassa.
 de: Denn Sehnen ist die Wurzel des Leidens.
 ```
-Dadurch wird es möglich, dass Sie ein Sutta, Segment für Segment, abwechselnd auf Pali und Deutsch hören können (siehe [Einstellungen](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/einstellungen)).
+Dadurch wird es möglich, dass Sie ein Sutta, Segment für Segment, abwechselnd auf Pali und Deutsch hören können (siehe [Einstellungen](https://sc-voice.github.io/dhammaregen/docs/uber-voice/einstellungen)).
