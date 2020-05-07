@@ -19,4 +19,4 @@ In den Einstellungen können Sie den Suttaplayer konfigurieren:
 
 ### Grenzen
 
-Die Wiedergabe mit dem Suttaplayer erfordert eine Internetverbindung, da der Ton für jedes gesprochene Textsegment nach Bedarf abgerufen wird. Diese "Sprache-auf-Abruf"-Interaktion erlaubt, schnell durch ein Sutta zu springen, indem von verschiedenen Stellen Tonhäppchen genommen werden. Das geht allerdings nicht ohne Internetverbindung. Wenn Sie z. B. Suttas im Gehen hören wollen, können Sie [Offline hören](https://github.com/sc-voice/sc-voice/wiki/Offline-h%C3%B6ren) versuchen.
+Die Wiedergabe mit dem Suttaplayer erfordert eine Internetverbindung, da der Ton für jedes gesprochene Textsegment nach Bedarf abgerufen wird. Diese "Sprache-auf-Abruf"-Interaktion erlaubt, schnell durch ein Sutta zu springen, indem von verschiedenen Stellen Tonhäppchen genommen werden. Das geht allerdings nicht ohne Internetverbindung. Wenn Sie z. B. Suttas im Gehen hören wollen, können Sie [Offline hören](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/offline-horen) versuchen.
