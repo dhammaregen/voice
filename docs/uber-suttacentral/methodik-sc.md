@@ -380,6 +380,6 @@ SC ID: skt-sv-bu-pm-finot.
 [http://yifertwtw.blogspot.tw/](http://yifertwtw.blogspot.com/).
 * Bollée, Willem B. *Reverse Index of the Dhammapada, Suttanipāta, Thera- and Therīgāthā Pādas with Parallels from the Āyāraṅga, Sūyagaḍa, Uttarajjhāyā Dasaveyāliya and Isibhāsiyāiṁ*.. Verlag für Orientalistische Fachpublikationen,
 Reinbek 1983.
-* Falk, Harry. *A new Gāndhārī Dharmapada (Texts from the Split Collection 3)*. [Annual Report of the International Research Institute for Advanced Buddhology, at Soka University for the Academic Year 2014. Vol. XVIII (2015)](iriab.soka.ac.jp/content/pdf/aririab/Vol.%20XVIII%20(2015).pdf).
+* Falk, Harry. *A new Gāndhārī Dharmapada (Texts from the Split Collection 3)*. [Annual Report of the International Research Institute for Advanced Buddhology, at Soka University for the Academic Year 2014. Vol. XVIII (2015)](http://iriab.soka.ac.jp/content/pdf/aririab/Vol.%20XVIII%20(2015).pdf).
 * Braarvig, Jens & Liland, Fredrik. University of Oslo, Faculty of Humanities.  
 [Udānavarga](https://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=71).
