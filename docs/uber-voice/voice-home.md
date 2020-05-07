@@ -10,16 +10,16 @@ SuttaCentral Voice ermöglicht es, die Worte des Buddha über ein Lesegerät zu 
 <details>
 <summary>Mehr über SuttaCentral</summary>
 
-* <a href="https://github.com/sc-voice/sc-voice/wiki/%C3%9Cber-SuttaCentral">Über SuttaCentral</a>
-* <a href="https://github.com/sc-voice/sc-voice/wiki/Einf%C3%BChrung-zu-SuttaCentral" target="_blank">Einführung zu SuttaCentral</a> 
-* <a href="https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen" target="_blank">SuttaCentrals Methodik</a>
-* <a href="https://github.com/sc-voice/sc-voice/wiki/Nummerierung-der-Suttas" target="_blank">SuttaCentrals Nummerierungssystem</a>
-* <a href="https://github.com/sc-voice/sc-voice/wiki/Abk%C3%BCrzungen" target="_blank">Von SuttaCentral benutzte Abkürzungen</a>
-* <a href="https://github.com/sc-voice/sc-voice/wiki/Sprachen-auf-SuttaCentral">Sprachen auf SuttaCentral</a>
-* <a href="https://github.com/sc-voice/sc-voice/wiki/W%C3%BCrdigung" target="_blank">Würdigung</a>
-* <a href="https://github.com/sc-voice/sc-voice/wiki/Lizenzen">Lizenzen</a>
-* <a href="https://github.com/sc-voice/sc-voice/wiki/Zum-Herunterladen">Zum Herunterladen</a>
-* <a href="https://github.com/sc-voice/sc-voice/wiki/Spenden-an-SuttaCentral">Spenden</a>
+- <a href="https://github.com/sc-voice/sc-voice/wiki/%C3%9Cber-SuttaCentral">Über SuttaCentral</a>
+- <a href="https://github.com/sc-voice/sc-voice/wiki/Einf%C3%BChrung-zu-SuttaCentral" target="_blank">Einführung zu SuttaCentral</a> 
+- <a href="https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen" target="_blank">SuttaCentrals Methodik</a>
+- <a href="https://github.com/sc-voice/sc-voice/wiki/Nummerierung-der-Suttas" target="_blank">SuttaCentrals Nummerierungssystem</a>
+- <a href="https://github.com/sc-voice/sc-voice/wiki/Abk%C3%BCrzungen" target="_blank">Von SuttaCentral benutzte Abkürzungen</a>
+- <a href="https://github.com/sc-voice/sc-voice/wiki/Sprachen-auf-SuttaCentral">Sprachen auf SuttaCentral</a>
+- <a href="https://github.com/sc-voice/sc-voice/wiki/W%C3%BCrdigung" target="_blank">Würdigung</a>
+- <a href="https://github.com/sc-voice/sc-voice/wiki/Lizenzen">Lizenzen</a>
+- <a href="https://github.com/sc-voice/sc-voice/wiki/Zum-Herunterladen">Zum Herunterladen</a>
+- <a href="https://github.com/sc-voice/sc-voice/wiki/Spenden-an-SuttaCentral">Spenden</a>
 
 </details>
 
@@ -35,29 +35,29 @@ Lesen Sie auf dem Diskussionsforum von SuttaCentral, <a href="https://discourse.
 
 Auf SuttaCentral finden Sie allgemeine Einführungen zu den beiden Abschnitten des Palikanon, in denen die Unterweisungen des Buddha niedergelegt sind: 
 
-* <a href="https://suttacentral.net/discourses" target="_blank">Introduction to the Discourses</a>
-* <a href="https://suttacentral.net/vinaya" target="_blank">Introduction to the Vinaya (Monastic Code)</a>
+- <a href="https://suttacentral.net/discourses" target="_blank">Introduction to the Discourses</a>
+- <a href="https://suttacentral.net/vinaya" target="_blank">Introduction to the Vinaya (Monastic Code)</a>
 
 Ebenso gibt es auf SuttaCentral umfangreiche Leitfäden zu den Palisammlungen, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln:
 
-* [Ein Leitfaden zu den Pali-Suttas](https://github.com/sc-voice/sc-voice/wiki/Ein-Leitfaden-zu-den-Pali%E2%80%90Suttas)
-* <a href="https://suttacentral.net/dn-guide-sujato" target="_blank">The Long Discourses: Dhamma as literature and compilation</a>
-* <a href="https://suttacentral.net/mn-guide-sujato" target="_blank">The Middle Discourses: conversations on matters of deep truth</a>
-* <a href="https://suttacentral.net/sn-guide-sujato" target="_blank">The Linked Discourses: the blueprint for Buddhist philosophy</a>
-* <a href="https://suttacentral.net/an-guide-sujato" target="_blank">The Numbered Discourses: things that are useful every day</a>
+- [Ein Leitfaden zu den Pali-Suttas](https://github.com/sc-voice/sc-voice/wiki/Ein-Leitfaden-zu-den-Pali%E2%80%90Suttas)
+- <a href="https://suttacentral.net/dn-guide-sujato" target="_blank">The Long Discourses: Dhamma as literature and compilation</a>
+- <a href="https://suttacentral.net/mn-guide-sujato" target="_blank">The Middle Discourses: conversations on matters of deep truth</a>
+- <a href="https://suttacentral.net/sn-guide-sujato" target="_blank">The Linked Discourses: the blueprint for Buddhist philosophy</a>
+- <a href="https://suttacentral.net/an-guide-sujato" target="_blank">The Numbered Discourses: things that are useful every day</a>
 
 Die folgenden Indexe sowie ein Pali-Glossar können ebenfalls helfen, das zu finden, was Sie suchen:
 
-* <a href="https://suttacentral.net/subjects" target="_blank">Index of Subjects</a>
-* <a href="https://suttacentral.net/similes" target="_blank">Index of Similes</a>
-* <a href="https://suttacentral.net/names" target="_blank">Index of Names</a>
-* <a href="https://suttacentral.net/terminology" target="_blank">Basic Pali Terminology</a>
+- <a href="https://suttacentral.net/subjects" target="_blank">Index of Subjects</a>
+- <a href="https://suttacentral.net/similes" target="_blank">Index of Similes</a>
+- <a href="https://suttacentral.net/names" target="_blank">Index of Names</a>
+- <a href="https://suttacentral.net/terminology" target="_blank">Basic Pali Terminology</a>
 
 </details>
 
 ### Mehr Informationen (Englisch)
-* <a href="https://github.com/sc-voice/sc-voice/wiki/Inhaltsverzeichnis#Technik-und-Entwicklung" target="_blank">Technik und Entwicklung</a>
-* <a href="https://discourse.suttacentral.net/tags/sc-voice" target="_blank">Feedback</a>
+- <a href="https://github.com/sc-voice/sc-voice/wiki/Inhaltsverzeichnis#Technik-und-Entwicklung" target="_blank">Technik und Entwicklung</a>
+- <a href="https://discourse.suttacentral.net/tags/sc-voice" target="_blank">Feedback</a>
 
 ### Dank
 [Bitte hier klicken](https://github.com/sc-voice/sc-voice/wiki/Dank)
