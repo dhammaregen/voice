@@ -1,5 +1,5 @@
 # Ein Leitfaden zu den Pali‐Suttas
-Bhikkhu Sujato, 2019; [Originaltext](https://suttacentral.net/general-guide-sujato))
+Bhikkhu Sujato, 2019; ([Originaltext](https://suttacentral.net/general-guide-sujato))
 
 1. **[Über diese Leitfäden](https://github.com/sc-voice/sc-voice/wiki/Ein-Leitfaden-zu-den-Pali%E2%80%90Suttas#item1)**
 1. **[Eine barrierefreie Übersetzung](https://github.com/sc-voice/sc-voice/wiki/Ein-Leitfaden-zu-den-Pali%E2%80%90Suttas#item2)**
