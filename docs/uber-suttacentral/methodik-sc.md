@@ -1,10 +1,10 @@
 # Methodik und Quellen
-1. [Hintergrund](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Hintergrund)
-1. [Suttaparallelen](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Suttaparallelen)
-1. [Vinayaparallelen](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Vinayaparallelen)
-1. [Textquellen](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Textquellen)
-1. [Markup](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Markup)
-1. [Bibliografie](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Bibliografie)
+1. [Hintergrund](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/methodik-sc#Hintergrund)
+1. [Suttaparallelen](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/methodik-sc#Suttaparallelen)
+1. [Vinayaparallelen](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/methodik-sc#Vinayaparallelen)
+1. [Textquellen](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/methodik-sc#Textquellen)
+1. [Markup](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/methodik-sc#Markup)
+1. [Bibliografie](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/methodik-sc#Bibliografie)
 
 ## Hintergrund
 
