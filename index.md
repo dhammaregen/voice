@@ -1,7 +1,7 @@
 # Dhammaregen
-Dhammaregen ist eine deutschsprachige Begleitwebseite zu [SuttaCentral Voice](https://voice.suttacentral.net/scv/index.html#/sutta). Sie enthält Informationen und Hintergründe zu SuttaCentral Voice, [SuttaCentral](https://suttacentral.net/), der "großen Schwester" von Voice, den Pali-Quelltexten und den deutschen Übersetzungen.
+Dhammaregen ist eine deutschsprachige Begleitwebseite zu SuttaCentral Voice. Sie enthält Informationen und Hintergründe zu SuttaCentral Voice, SuttaCentral, der "großen Schwester" von Voice, den Pali-Quelltexten und den deutschen Übersetzungen.
 
-SuttaCentral ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen. SuttaCentral Voice ist eine Anwendung zur Sprachausgabe für Quelltexte auf Pali und verschiedene Übersetzungen.
+[SuttaCentral](https://suttacentral.net/) ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen. [SuttaCentral Voice](https://voice.suttacentral.net/scv/index.html#/sutta) ist eine Anwendung zur Sprachausgabe für Quelltexte auf Pali und verschiedene Übersetzungen.
 
 ## Inhalt
 ### Über SuttaCentral Voice
