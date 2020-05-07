@@ -30,6 +30,3 @@ SuttaCentral ist eine internationale Webseite mit frühen buddhistischen Texten 
 ### Essays von Bhante Sujato zu den Pali-Suttas
 - [Ein Leitfaden zu den Pali‐Suttas](https://sc-voice.github.io/Dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas)
 ### Über die deutschen Übersetzungen
-
----
-Alle deutschen Übersetzungen von Essays und anderen Texten von SuttaCentral sind, soweit nicht anders angegeben, von Sabbamitta Anagarika.
