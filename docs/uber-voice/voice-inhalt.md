@@ -1,13 +1,13 @@
 # Inhaltsverzeichnis
 ### Wie funktioniert SuttaCentral Voice?
 
-* [Offline hören](https://github.com/sc-voice/sc-voice/wiki/Offline-h%C3%B6ren) erklärt, wie Sie Suttas auf Ihrem Handy oder einem anderen Audiogerät anhören können.
-* [Suche](https://github.com/sc-voice/sc-voice/wiki/Suche) gibt Ihnen Tipps, wie Sie die Suttas finden, die Sie hören möchten.
-* [Einstellungen](https://github.com/sc-voice/sc-voice/wiki/Einstellungen) beschreibt, wie Sie Voice nach Ihren Wünschen konfigurieren können.
-* [Segmentierungstechnik](https://github.com/sc-voice/sc-voice/wiki/Segmentierungstechnik) erläutert die technische Grundlage, auf der SuttaCentral Voice aufgebaut ist.
-* [Support-Richtlinien](https://github.com/sc-voice/sc-voice/wiki/Support%E2%80%90Richtlinien) erklärt den Unterschied zwischen Texten, die unterstützt werden, und Alttexten.
-* [Der Suttaplayer](https://github.com/sc-voice/sc-voice/wiki/Suttaplayer) spielt jedes Sutta als zweisprachige Audiowiedergabe Segment für Segment ab.
-* [Lesestimmen](https://github.com/sc-voice/sc-voice/wiki/Lesestimmen) gibt eine Beschreibung der verschiedenen Lesestimmen, die SuttaCentral Voice benutzt.
+* [Offline hören](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/offline-horen) erklärt, wie Sie Suttas auf Ihrem Handy oder einem anderen Audiogerät anhören können.
+* [Suche](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/suche) gibt Ihnen Tipps, wie Sie die Suttas finden, die Sie hören möchten.
+* [Einstellungen](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/einstellungen) beschreibt, wie Sie Voice nach Ihren Wünschen konfigurieren können.
+* [Segmentierungstechnik](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/segmentierung) erläutert die technische Grundlage, auf der SuttaCentral Voice aufgebaut ist.
+* [Support-Richtlinien](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/support) erklärt den Unterschied zwischen Texten, die unterstützt werden, und Alttexten.
+* [Der Suttaplayer](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/suttaplayer) spielt jedes Sutta als zweisprachige Audiowiedergabe Segment für Segment ab.
+* [Lesestimmen](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/lesestimmen) gibt eine Beschreibung der verschiedenen Lesestimmen, die SuttaCentral Voice benutzt.
 
 ### Technik und Entwicklung
 
