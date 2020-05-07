@@ -37,23 +37,29 @@ Lesen Sie auf dem Diskussionsforum von SuttaCentral, <a href="https://discourse.
 
 Auf SuttaCentral finden Sie allgemeine Einführungen zu den beiden Abschnitten des Palikanon, in denen die Unterweisungen des Buddha niedergelegt sind: 
 
-- <a href="https://suttacentral.net/discourses" target="_blank">Introduction to the Discourses</a>
-- <a href="https://suttacentral.net/vinaya" target="_blank">Introduction to the Vinaya (Monastic Code)</a>
+<ul>
+<li><a href="https://suttacentral.net/discourses" target="_blank">Introduction to the Discourses</a></li>
+-<li><a href="https://suttacentral.net/vinaya" target="_blank">Introduction to the Vinaya (Monastic Code)</a></li>
+</ul>
 
 Ebenso gibt es auf SuttaCentral umfangreiche Leitfäden zu den Palisammlungen, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln:
 
-- [Ein Leitfaden zu den Pali-Suttas](https://github.com/sc-voice/sc-voice/wiki/Ein-Leitfaden-zu-den-Pali%E2%80%90Suttas)
-- <a href="https://suttacentral.net/dn-guide-sujato" target="_blank">The Long Discourses: Dhamma as literature and compilation</a>
-- <a href="https://suttacentral.net/mn-guide-sujato" target="_blank">The Middle Discourses: conversations on matters of deep truth</a>
-- <a href="https://suttacentral.net/sn-guide-sujato" target="_blank">The Linked Discourses: the blueprint for Buddhist philosophy</a>
-- <a href="https://suttacentral.net/an-guide-sujato" target="_blank">The Numbered Discourses: things that are useful every day</a>
+<ul>
+<li><a href="https://sc-voice.github.io/Dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas" target="_blank">Ein Leitfaden zu den Pali-Suttas</a></li>
+<li><a href="https://suttacentral.net/dn-guide-sujato" target="_blank">The Long Discourses: Dhamma as literature and compilation</a></li>
+<li><a href="https://suttacentral.net/mn-guide-sujato" target="_blank">The Middle Discourses: conversations on matters of deep truth</a></li>
+<li><a href="https://suttacentral.net/sn-guide-sujato" target="_blank">The Linked Discourses: the blueprint for Buddhist philosophy</a></li>
+<li><a href="https://suttacentral.net/an-guide-sujato" target="_blank">The Numbered Discourses: things that are useful every day</a></li>
+</ul>
 
 Die folgenden Indexe sowie ein Pali-Glossar können ebenfalls helfen, das zu finden, was Sie suchen:
 
-- <a href="https://suttacentral.net/subjects" target="_blank">Index of Subjects</a>
-- <a href="https://suttacentral.net/similes" target="_blank">Index of Similes</a>
-- <a href="https://suttacentral.net/names" target="_blank">Index of Names</a>
-- <a href="https://suttacentral.net/terminology" target="_blank">Basic Pali Terminology</a>
+<ul>
+<li><a href="https://suttacentral.net/subjects" target="_blank">Index of Subjects</a></li>
+<li><a href="https://suttacentral.net/similes" target="_blank">Index of Similes</a></li>
+<li><a href="https://suttacentral.net/names" target="_blank">Index of Names</a></li>
+<li><a href="https://suttacentral.net/terminology" target="_blank">Basic Pali Terminology</a></li>
+</ul>
 
 </details>
 
