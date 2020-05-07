@@ -79,7 +79,7 @@ Sie können die Suche mit erweiterten Einstellungen anpassen. Erweiterten Einste
 * **-sl ISO_LANG_2**  Legt die Sprache für die Suche fest, z. B.: <kbd>-sl de</kbd> wählt Deutsch
 * **-d NUMBER**  Legt die maximale Zahl der Ergebnisse fest, z. B.: <kbd>-d 50</kbd> findet bis zu 50 Suttas
 * **-ml 3**  Zeigt nur Ergebnisse, die in drei Sprachen vorliegen
-* **-tc:mn** Beschränkt Suchergebnisse auf Majjhima Nikaya. Siehe [Tipitaka-Kategorien](https://github.com/sc-voice/sc-voice/wiki/Tipitaka%E2%80%90Kategorien)
+* **-tc:mn** Beschränkt Suchergebnisse auf Majjhima Nikaya. Siehe [Tipitaka-Kategorien](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/tipitaka-kategorien)
 
 ### FAQ
 ##### Warum unterscheiden sich meine Suchergebnisse von denen auf SuttaCentral.net?
