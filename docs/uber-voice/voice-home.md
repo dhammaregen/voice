@@ -10,16 +10,18 @@ SuttaCentral Voice ermöglicht es, die Worte des Buddha über ein Lesegerät zu 
 <details>
 <summary>Mehr über SuttaCentral</summary>
 
-- <a href="https://github.com/sc-voice/sc-voice/wiki/%C3%9Cber-SuttaCentral">Über SuttaCentral</a>
-- <a href="https://github.com/sc-voice/sc-voice/wiki/Einf%C3%BChrung-zu-SuttaCentral" target="_blank">Einführung zu SuttaCentral</a> 
-- <a href="https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen" target="_blank">SuttaCentrals Methodik</a>
-- <a href="https://github.com/sc-voice/sc-voice/wiki/Nummerierung-der-Suttas" target="_blank">SuttaCentrals Nummerierungssystem</a>
-- <a href="https://github.com/sc-voice/sc-voice/wiki/Abk%C3%BCrzungen" target="_blank">Von SuttaCentral benutzte Abkürzungen</a>
-- <a href="https://github.com/sc-voice/sc-voice/wiki/Sprachen-auf-SuttaCentral">Sprachen auf SuttaCentral</a>
-- <a href="https://github.com/sc-voice/sc-voice/wiki/W%C3%BCrdigung" target="_blank">Würdigung</a>
-- <a href="https://github.com/sc-voice/sc-voice/wiki/Lizenzen">Lizenzen</a>
-- <a href="https://github.com/sc-voice/sc-voice/wiki/Zum-Herunterladen">Zum Herunterladen</a>
-- <a href="https://github.com/sc-voice/sc-voice/wiki/Spenden-an-SuttaCentral">Spenden</a>
+<ul>
+<li><a href="https://github.com/sc-voice/sc-voice/wiki/%C3%9Cber-SuttaCentral">Über SuttaCentral</a></li>
+<li><a href="https://github.com/sc-voice/sc-voice/wiki/Einf%C3%BChrung-zu-SuttaCentral" target="_blank">Einführung zu SuttaCentral</a></li>
+<li><a href="https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen" target="_blank">SuttaCentrals Methodik</a></li>
+<li><a href="https://github.com/sc-voice/sc-voice/wiki/Nummerierung-der-Suttas" target="_blank">SuttaCentrals Nummerierungssystem</a></li>
+<li><a href="https://github.com/sc-voice/sc-voice/wiki/Abk%C3%BCrzungen" target="_blank">Von SuttaCentral benutzte Abkürzungen</a></li>
+<li><a href="https://github.com/sc-voice/sc-voice/wiki/Sprachen-auf-SuttaCentral">Sprachen auf SuttaCentral</a></li>
+<li><a href="https://github.com/sc-voice/sc-voice/wiki/W%C3%BCrdigung" target="_blank">Würdigung</a></li>
+<li><a href="https://github.com/sc-voice/sc-voice/wiki/Lizenzen">Lizenzen</a></li>
+<li><a href="https://github.com/sc-voice/sc-voice/wiki/Zum-Herunterladen">Zum Herunterladen</a></li>
+<li><a href="https://github.com/sc-voice/sc-voice/wiki/Spenden-an-SuttaCentral">Spenden</a></li>
+</ul>
 
 </details>
 
