@@ -1,5 +1,5 @@
 # Dank
-SuttaCentral Voice wurde als „kleine Schwester“ von [SuttaCentral](suttacentral.net) entwickelt. Das Projekt wurde 2018 von Karl Lew begonnen, dem sich bald Aminah Borg-Luck anschloss. Etwas später stieß Anagarika Sabbamitta als drittes Mitglied zum Team.
+SuttaCentral Voice wurde als „kleine Schwester“ von [SuttaCentral](https://suttacentral.net) entwickelt. Das Projekt wurde 2018 von Karl Lew begonnen, dem sich bald Aminah Borg-Luck anschloss. Etwas später stieß Anagarika Sabbamitta als drittes Mitglied zum Team.
 
 Die Anwendung Voice nutzt Inhalte von der Webseite SuttaCentral und gibt sie als Sprachausgabe wieder. Wir möchten [all denen](https://suttacentral.net/acknowledgments) danken, die zu dieser außergewöhnlichen Sammlung früher buddhistischer Texte beigetragen haben und beitragen.
 
