@@ -28,7 +28,7 @@ SuttaCentral Voice ermöglicht es, die Worte des Buddha über ein Lesegerät zu 
 ### Wie funktioniert SuttaCentral Voice?
 
 Um SuttaCentral Voice zu benutzen, geben Sie einfach etwas in das Suchfeld ein. Sie können einen Ausdruck oder mehrere Schlüsselwörter eingeben. Um ein bestimmmtes Sutta zu finden wie etwa MN 1 geben Sie einfach „mn1“ in das Suchfeld ein. Wenn Sie mehrere Suttas gleichzeitig suchen, trennen Sie die Sutta-Bezeichnungen mit Kommata ab (z. B. „an4.85 <span aria-label="Komma"> </span><span aria-hidden="true">,</span> mn23 <span aria-label="Komma"> </span><span aria-hidden="true">,</span> sn12.2“). Wenn Sie ein paar Suttas vorgeschlagen haben möchten, klicken Sie auf die Schaltfläche „Such mir etwas aus!“. Über den Zahnradknopf können Sie die Lesestimme und andere Einstellungen ändern. Sie können einzelne Suttas oder eine Wiedergabeliste herunterladen, um sie offline anzuhören. Über den Menüschalter finden Sie auf jeder Suttaseite Links zu weiteren Audio- und Textquellen.
-[Zum Inhaltsverzeichnis für weitere Informationen.](https://github.com/sc-voice/sc-voice/wiki/Inhaltsverzeichnis)
+[Zum Inhaltsverzeichnis für weitere Informationen.](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/voice-inhalt)
 
 Lesen Sie auf dem Diskussionsforum von SuttaCentral, <a href="https://discourse.suttacentral.net/t/how-do-you-use-suttacentral-voice/12384" target="_blank">wie andere SuttaCentral Voice nutzen</a> (Englisch).
 
@@ -64,8 +64,8 @@ Die folgenden Indexe sowie ein Pali-Glossar können ebenfalls helfen, das zu fin
 </details>
 
 ### Mehr Informationen (Englisch)
-- <a href="https://github.com/sc-voice/sc-voice/wiki/Inhaltsverzeichnis#Technik-und-Entwicklung" target="_blank">Technik und Entwicklung</a>
+- <a href="https://sc-voice.github.io/Dhammaregen/docs/uber-voice/voice-inhalt#Technik-und-Entwicklung" target="_blank">Technik und Entwicklung</a>
 - <a href="https://discourse.suttacentral.net/tags/sc-voice" target="_blank">Feedback</a>
 
 ### Dank
-[Bitte hier klicken](https://github.com/sc-voice/sc-voice/wiki/Dank)
+[Bitte hier klicken](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/dank)
