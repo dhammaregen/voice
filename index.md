@@ -33,4 +33,4 @@ SuttaCentral ist eine internationale Webseite mit frühen buddhistischen Texten 
 ### Über die deutschen Übersetzungen
 
 ---
-Für Fragen oder Anregungen zu den segmentierten deutschen Übersetzungen auf SuttaCentral Voice oder andere Fragen zu den frühen buddhistischen Texten senden Sie eine Email an dhammaregen@gmail.com oder wenden Sie sich an das SuttaCentral-Diskussionsforum https://discourse.suttacentral.net. (Das Forum ist englischsprachig, aber es gibt auch Leute im Forum, die Deutsch verstehen.)
+Für Fragen oder Anregungen zu den segmentierten deutschen Übersetzungen auf SuttaCentral Voice oder andere Fragen zu frühen buddhistischen Texten senden Sie eine Email an dhammaregen@gmail.com oder wenden Sie sich an das SuttaCentral-Diskussionsforum https://discourse.suttacentral.net. (Das Forum ist englischsprachig, aber es gibt auch Leute im Forum, die Deutsch verstehen.)
