@@ -17,7 +17,7 @@ SuttaCentral ist eine internationale Webseite mit frühen buddhistischen Texten 
 - [Dank](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/dank)
 ### Über SuttaCentral
 - [Über SuttaCentral](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/uber-suttacentral)
-- [Einführung zu SuttaCentral](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/einfurung-sc)
+- [Einführung zu SuttaCentral](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/einfuhrung-sc)
 - [SuttaCentrals Methodik](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/methodik-sc)
 - [SuttaCentrals Nummerierungssystem](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/nummerierung-sc)
 - [Von SuttaCentral benutzte Abkürzungen](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/abkurzungen)
