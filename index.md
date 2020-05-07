@@ -5,18 +5,28 @@ SuttaCentral ist eine internationale Webseite mit frühen buddhistischen Texten 
 
 ## Inhalt
 ### Über SuttaCentral Voice
+- [SuttaCentral Voice](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/voice-home)
+- [Inhaltsverzeichnis](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/voice-inhalt)
+  - [Offline hören](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/offline-horen)
+  - [Suche](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/suche)
+  - [Einstellungen](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/einstellungen)
+  - [Segmentierungstechnik](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/segmentierung)
+  - [Support-Richtlinien](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/support)
+  - [Der Suttaplayer](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/suttaplayer)
+  - [Lesestimmen](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/lesestimmen)
+- [Dank](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/dank)
 ### Über SuttaCentral
 - [Über SuttaCentral](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/uber-suttacentral)
-- [Einführung zu SuttaCentral](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/einfurung-zu-suttacentral.md)
-- [SuttaCentrals Methodik](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/methodik-und-quellen)
-- [SuttaCentrals Nummerierungssystem](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/nummerierung-der-suttas.md)
-- [Von SuttaCentral benutzte Abkürzungen](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/abkurzungen.md)
-- [Sprachen auf SuttaCentral](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/sprachen-auf-suttacentral.md)
-- [Würdigung](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/wurdigung.md)
-- [Lizenzen](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/lizenzen.md)
-- [Zum Herunterladen](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/zum-herunterladen.md)
-- [Spenden](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/spenden-an-suttacentral.md)
+- [Einführung zu SuttaCentral](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/einfurung-sc)
+- [SuttaCentrals Methodik](https://sc-voice.github.io/Dhammaregen/docs/uber-suttacentral/methodik-sc)
+- [SuttaCentrals Nummerierungssystem](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/nummerierung-sc)
+- [Von SuttaCentral benutzte Abkürzungen](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/abkurzungen)
+- [Sprachen auf SuttaCentral](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/sprachen-sc)
+- [Würdigung](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/wurdigung)
+- [Lizenzen](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/lizenzen)
+- [Zum Herunterladen](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/herunterladen)
+- [Spenden](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-suttacentral/spenden-sc)
 ### Der Tipitaka
 ### Essays von Bhante Sujato zu den Pali-Suttas
-- [Ein Leitfaden zu den Pali‐Suttas](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-die-pali-suttas/ein-leitfaden-zu-den-pali-suttas.md)
+- [Ein Leitfaden zu den Pali‐Suttas](https://github.com/sc-voice/Dhammaregen/blob/master/docs/uber-palisuttas/leitfaden-palisuttas)
 ### Über die deutschen Übersetzungen
