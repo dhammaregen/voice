@@ -1,4 +1,4 @@
-# Inhaltsverzeichnis
+# SuttaCentral Voice / Inhaltsverzeichnis
 ## Wie funktioniert SuttaCentral Voice?
 
 * [Offline hören](https://sc-voice.github.io/dhammaregen/docs/uber-voice/offline-horen) erklärt, wie Sie Suttas auf Ihrem Handy oder einem anderen Audiogerät anhören können.
