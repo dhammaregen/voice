@@ -3,7 +3,7 @@ Bhikkhu Sujato, 2019
 [Originaltext](https://suttacentral.net/general-guide-sujato)
 
 1. **[Über diese Leitfäden](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item1)**
-1. **[Eine barrierefreie Übersetzung](docs/uber-palisuttas/leitfaden-palisuttas#item2)**
+1. **[Eine barrierefreie Übersetzung](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item2)**
 1. **[Planen Sie Ihre Reise oder spazieren Sie durch den Garten](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item3)**
 1. **[Nachschlagen von Quellenangaben](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item4)**
 1. **[Strukturelemente](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item5)**
