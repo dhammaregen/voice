@@ -36,7 +36,7 @@ Lesen Sie auf dem Diskussionsforum von SuttaCentral, <a href="https://discourse.
 <details>
 <summary>Einen Weg durch die Texte finden</summary>
 
-Auf SuttaCentral finden Sie allgemeine Einführungen zu den drei Abschnitten des Palikanon, in denen die Unterweisungen des Buddha niedergelegt sind: 
+Auf SuttaCentral finden Sie allgemeine Einführungen zu den drei Abschnitten des Palikanon, in denen die Texte überliefert sind: 
 
 <ul>
 <li><a href="https://suttacentral.net/discourses" target="_blank">Introduction to the Discourses</a></li>
