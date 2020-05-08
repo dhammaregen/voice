@@ -1,5 +1,5 @@
 # Abkürzungen
-[Originaltext](https://suttacentral.net/abbreviations)
+<a href="https://suttacentral.net/abbreviations" target="_blank">Originaltext</a>
 
 SuttaCentral ist um die Idee von eindeutig definierten Einheiten herum aufgebaut — normalerweise ein Sutta, eine Vinayaregel oder ein Textabschnitt —, die jeweils eine einzigartige Identität haben. Diese Identität wird von einer Abkürzung dargestellt, die sowohl dazu dient, den Text zu benennen, als auch, die URL für diesen Text zu bilden. Diese Abkürzungen sind so kurz und so flexibel wie wir sie machen können. Wir weichen nicht beliebig von anerkannten Gewohnheiten ab, jedoch in besonderen Fällen war es aufgrund der speziellen Erfordernisse von SuttaCentral notwendig, neue Abkürzungen einzusetzen. Alle Abkürzungen müssen die folgenden Kriterien erfüllen:
 
