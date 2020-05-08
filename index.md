@@ -3,10 +3,10 @@
 
 [SuttaCentral](https://suttacentral.net/) ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen. [SuttaCentral Voice](https://voice.suttacentral.net/scv/index.html#/sutta) ist eine Anwendung zur Sprachausgabe für Quelltexte auf Pali und verschiedene Übersetzungen.
 
-**SuttaCentral Voice**
-**SuttaCentral**
-**Die drei Körbe**
-**Essays von Bhikkhu Sujato zu den Pali-Suttas**
+**SuttaCentral Voice**  
+**SuttaCentral**  
+**Die drei Körbe**  
+**Essays von Bhikkhu Sujato zu den Pali-Suttas**  
 **Die deutschen Übersetzungen**
 
 ---
