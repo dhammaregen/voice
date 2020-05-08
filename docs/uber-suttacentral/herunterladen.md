@@ -14,7 +14,7 @@ Die neuesten Versionen der wichtigsten Übersetzungen auf SuttaCentral (englisch
 
 ## Rohdaten und Texte
 
-Alle Rohdaten von SuttaCentral (json, html etc.) sind [auf unserem GitHub-Depot verfügbar](https://github.com/suttacentral/).
+Alle Rohdaten von SuttaCentral (json, html etc.) sind [in unserem GitHub-Repo verfügbar](https://github.com/suttacentral/).
 
 ## The Book of the Discipline (englisch)
 
