@@ -4,7 +4,7 @@
 - [Über SuttaCentral](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/uber-suttacentral): Idee und Entstehung der Webseite SuttaCentral.
 - [SuttaCentrals Methodik](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc): Die Entdeckung von Parallelen zwischen frühen buddhistischen Texten aus verschiedenen Überlieferungen als Keim, aus dem SuttaCentral sich entwickelt hat; Textquellen und Bibliografie.
 - [SuttaCentrals Nummerierungssystem](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/nummerierung-sc): Richtlinien für die Kennziffern früher buddhistischer Texte.
-- [Von SuttaCentral benutzte Abkürzungen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/abkurzungen)
+- [Von SuttaCentral benutzte Abkürzungen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/abkurzungen): Unverwechselbare Kürzel für alle Texteinheiten.
 - [Sprachen auf SuttaCentral](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/sprachen-sc)
 - [Würdigung](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/wurdigung)
 - [Lizenzen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/lizenzen)
