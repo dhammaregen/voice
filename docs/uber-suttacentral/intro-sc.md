@@ -8,5 +8,5 @@
 - [Sprachen auf SuttaCentral](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/sprachen-sc): Alte Sprachen (Quellsprachen) und Sprachen, in die übersetzt wurde.
 - [Würdigung](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/wurdigung): Menschen und Organisationen, die SuttaCentral möglich gemacht haben.
 - [Lizenzen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/lizenzen): Urheberrecht auf SuttaCentral.
-- [Zum Herunterladen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/herunterladen)
-- [Spenden](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/spenden-sc)
+- [Zum Herunterladen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/herunterladen): EPUBs, PDFs und mehr.
+- [Spenden](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/spenden-sc): Wie Sie SuttaCentral unterstützen können.
