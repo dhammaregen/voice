@@ -8,7 +8,7 @@ Wir versuchen, den einfachsten, logischsten und einheitlichsten Ansatz für unse
 Hier sind die allgemeinen Prinzipien, an denen wir uns orientieren:
 
 * Die weiter akzeptierten Nummerierungssysteme werden vorgezogen.
-* Semantische Nummerierung, die einer sinnvollen Strukturierung des Inhalts folgt (Kapitel/Abschnitt), wird vorgezogen vor Strukturen gedruckter Ausgaben (Band/Seite).
+* Semantische Nummerierung, die einer sinnvollen Strukturierung des Inhalts folgt (Kapitel/Abschnitt), wird vorgezogen vor Strukturen, die gedruckten Ausgaben folgen (Band/Seite).
 * Alte Nummerierungssysteme werden durch mehr Detailgenauigkeit aufgewertet, ohne sie inkompatibel zu machen.
 * Wo es sinnvoll ist, werden verschiedene Referenzsysteme bereitgestellt.
 * Das primäre Nummerierungssystem wird für die URLs verwendet, die einfach, stabil und sinnvoll sind.
