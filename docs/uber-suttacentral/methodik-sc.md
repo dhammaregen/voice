@@ -1,4 +1,6 @@
 # Methodik und Quellen
+[Originaltext](https://suttacentral.net/methodology)
+
 1. [Hintergrund](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Hintergrund)
 1. [Suttaparallelen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Suttaparallelen)
 1. [Vinayaparallelen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Vinayaparallelen)
