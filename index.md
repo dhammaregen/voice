@@ -9,5 +9,8 @@
 **Essays von Bhikkhu Sujato zu den Pali-Suttas**  
 **Die deutschen Übersetzungen**
 
----
+Alle deutschen Übersetzungen von Texten und Essays auf *Dhammaregen* sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.
+
 Für Fragen oder Anregungen zu den segmentierten deutschen Übersetzungen auf SuttaCentral Voice oder andere Fragen zu frühen buddhistischen Texten senden Sie eine Email an dhammaregen@gmail.com oder wenden Sie sich an das SuttaCentral-Diskussionsforum https://discourse.suttacentral.net.
+
+Sie können unser [GitHub-Repo]() einsehen und auch auf diesem Weg Verbesserungsvorschläge als Pull Request einreichen.
