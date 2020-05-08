@@ -11,7 +11,7 @@
 
 <h2 id="Technik und Entwicklung">Technik und Entwicklung</h2>
 
-* [Installation: Entwickler](https://github.com/sc-voice/sc-voice/wiki/Installation:-Developer) enthält Instruktionen, wie man eine Entwicklerumgebung für Voice einrichtet (Englisch).
-* [Die Voice-Benutzeroberfläche übersetzen](https://github.com/sc-voice/sc-voice/wiki/Translating-Voice-UI) enthält einige Richtlinien für die Übersetzung der Voice-Benutzeroberfläche in andere Sprachen (Englisch).
-* [Aussprachefehler](https://github.com/sc-voice/sc-voice/wiki/Mispronunciations) zählt Wörter auf, die von Amy oder Raveena (englische Stimmen) falsch ausgesprochen werden (Englisch).
-* [URL-Format:](https://github.com/sc-voice/sc-voice/wiki/URL-Format) über Links zu externen Webseiten (Englisch).
+* [Installation: Entwickler](https://sc-voice.github.io/sc-voice/en/Installation:-Developer) enthält Instruktionen, wie man eine Entwicklerumgebung für Voice einrichtet (Englisch).
+* [Die Voice-Benutzeroberfläche übersetzen](https://sc-voice.github.io/sc-voice/en/Translating-Voice-UI) enthält einige Richtlinien für die Übersetzung der Voice-Benutzeroberfläche in andere Sprachen (Englisch).
+* [Aussprachefehler](https://sc-voice.github.io/sc-voice/en/Mispronunciations) zählt Wörter auf, die von Amy oder Raveena (englische Stimmen) falsch ausgesprochen werden (Englisch).
+* [URL-Format:](https://sc-voice.github.io/sc-voice/en/URL-format) über Links zu externen Webseiten (Englisch).
