@@ -1,4 +1,4 @@
-# Ein Leitfaden zu den Pali‐Suttas..
+# Ein Leitfaden zu den Pali‐Suttas  
 Bhikkhu Sujato, 2019
 [Originaltext](https://suttacentral.net/general-guide-sujato)
 
