@@ -6,7 +6,7 @@
 1. [Markup](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Markup)
 1. [Bibliografie](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Bibliografie)
 
-## Hintergrund
+<h2 id="Hintergrund">Hintergrund</h2>
 
 Seit dem 19. Jahrhundert haben Wissenschaftler erkannt, dass viele buddhistische Texte, die man im Palikanon findet, Gegenstücke oder Parallelen in den chinesischen und anderen Sammlungen haben. Die erste Dokumentation dieser Parallelen wurde von Nanjio Bunyiu (Nanjō Bun’yū, 南條文雄) in seinem Werk *A Catalogue of the Chinese Translation of the Buddhist Tripiṭaka* von 1883 publiziert. Nanjio führte 24 Dīgha Nikāya-Lehrreden als Parallelen zum chinesischen Dīrghāgama auf. Diese keimhaften Tabellen stellen einen wichtigen ersten Schritt dar, zeigen sie doch, dass der Vergleich der chinesischen *Āgamas* mit den Pali-*Nikāyas* ein fruchtbares Unterfangen sein kann. Ein Jahr später beschrieb Samuel Beal Ähnlichkeiten zwischen verschiedenen buddhistischen Texten auf Pali und Chinesisch und bemerkte:
 
@@ -20,7 +20,7 @@ Die Daten zu den Parallelen werden in einer einzigen Datei verwaltet, [parallels
 
 Neben den Parallelen beherbergt SuttaCentral Originaltexte und Übersetzungen, sofern verfügbar. Eine kurze Notiz zu den Quellen dieser Texte findet sich weiter unten.
 
-## Suttaparallelen
+<h2 id="Suttaparallelen">Suttaparallelen</h2>
 
 *Rod Bucknell, aktualisiert von Sujato*
 
@@ -50,7 +50,7 @@ Von Lehrreden, die vollständige Parallelen zu einer bestimmten Pali-Lehrrede si
 
 Hingegen kann man solche Schlussfolgerungen nicht für Lehrreden ziehen, die als Teilparallelen zu einer bestimmten Pali-Lehrrede aufgeführt sind. Zum Beispiel wurde für DN 22 gezeigt, dass es Teilparallelen in MN 141, MA 31 und T 32 hat. Daraus kann man nicht auf irgendeine Entsprechung zwischen MA 31 und T 32 schließen (tatsächlich sind die beiden vollständige Parallelen), oder zwischen MA 31 und EA 12.1 (die tatsächlich keine Verwandtschaft aufweisen).
 
-## Vinayaparallelen
+<h2 id="Vinayaparallelen">Vinayaparallelen</h2>
 
 *Bhikkhu Sujato*
 
@@ -74,7 +74,7 @@ In diesem Fall ist die wichtigste Ausnahme der Mahāsaṅghika-Vinaya, der über
 
 Man beachte, dass es aufgrund der Natur der Vinayatexte keine Notwendigkeit für die verschiedenen Arten von Beziehungen gibt, wie sie für die Suttas definiert wurden. In fast allen Fällen ist es klar, dass eine bestimmte Regel eine vollständige Parallele zu anderen Regeln ist, in dem Sinn, dass sie verschiedene Versionen derselben „Sache“ sind. Es gibt dazu natürlich gelegentliche Ausnahmen, aber ich denke nicht, dass etwas gewonnen würde, wenn man versuchen würde, diese wenigen Grenzfälle in den Daten zu präzisieren.
 
-## Textquellen
+<h2 id="Textquellen">Textquellen</h2>
 
 ### Pali
 
@@ -104,7 +104,7 @@ Da die Texte auf Sanskrit und in anderen indischen Sprachen keinen zusammenhäng
 
 Übersetzungen stammen aus vielen verschiedenen Quellen, wie in jedem Text angegeben.
 
-## Markup
+<h2 id="Markup">Markup</h2>
 
 Die Texte auf SuttaCentral haben ein klares, akkurates und ausführliches Markup und benutzen gültiges semantisches Normen-kompatibles HTML5. Es war eine unserer größten Aufgaben, die vielen Texte, die wir aus verschiedenen Quellen geerbt haben, umzuwandeln und sie alle in das gleiche Format zu bringen. Das ist außerordentlich komplex, da die Quelltexte selten ein irgendwie geartetes klares semantisches Markup haben. Sie reichen von nicht markiertem gewöhnlichem Text bis zu wortreichem Durcheinander, wie es von Textverarbeitungsprogrammen produziert wird. Unser Ziel ist, diese ganze komplexe Mischung in ein klares und einfaches Markup zu bringen, ohne dass Elemente verlorengehen.
 
@@ -136,7 +136,7 @@ Wir benutzen semantisches Markup mit etwa hundert verschiedenen Klassen, um die 
 
 [Siehe Liste der Markup-Klassen für Strukturmerkmale und Sonstiges](https://suttacentral.net/zz3/zz/test) (englisch).
 
-## Bibliografie
+<h2 id="Bibliografie">Bibliografie</h2>
 
 ### Suttaparallelen
 Hier sind die wichtigsten bibliografischen Quellen, die von Rod Bucknell bereitgestellt wurden; sie stellen die primären Bezugsquellen für die Suttaparallelen und die Ausgaben der verschiedenen Texte dar. Man beachte, dass diese Bibliografie nicht als umfassend oder gleichbleibend gedacht ist. Sie zeigt vielmehr eine Momentaufnahme des akademischen Hintergrunds für Rods grundlegende Recherche.
