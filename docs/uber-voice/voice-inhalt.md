@@ -12,11 +12,11 @@
 <h2 id="Technik und Entwicklung">Technik und Entwicklung</h2>
 
 * [Installation: Entwickler](https://sc-voice.github.io/sc-voice/en/Installation:-Developer) enthält Instruktionen, wie man eine Entwicklerumgebung für Voice einrichtet (Englisch).
-* [Installation: AWS-Server](https://sc-voice.github.io/sc-voice/en/AWS-Installation) (English)
-* [AWS Staging-911](https://sc-voice.github.io/sc-voice/en/AWS-Staging-911) (English)
-* [Architektur: Speicher](https://sc-voice.github.io/sc-voice/en/Architecture:-Storage) beschreibt die Langzeitstrategie zum Speicherplatz für Voice (English).
-* [Anleitung zum Benutzen der Voice-ZenHubtafel](https://sc-voice.github.io/sc-voice/en/Notes-on-using-the-Voice-ZenHub-board) (Englisch)
-* [SuttaCentral Voice-Administration](https://sc-voice.github.io/sc-voice/en/SuttaCentral-Voice-Administration) (Englisch)
 * [Die Voice-Benutzeroberfläche übersetzen](https://sc-voice.github.io/sc-voice/en/Translating-Voice-UI) enthält einige Richtlinien für die Übersetzung der Voice-Benutzeroberfläche in andere Sprachen (Englisch).
 * [Aussprachefehler](https://sc-voice.github.io/sc-voice/en/Mispronunciations) zählt Wörter auf, die von Amy oder Raveena (englische Stimmen) falsch ausgesprochen werden (Englisch).
 * [URL-Format:](https://sc-voice.github.io/sc-voice/en/URL-format) über Links zu externen Webseiten (Englisch).
+* [Architecture:-Storage](https://sc-voice.github.io/sc-voice/en/Architecture:-Storage) (English).
+* [AWS-Installation](https://sc-voice.github.io/sc-voice/en/AWS-Installation) (English)
+* [AWS-Staging-911](https://sc-voice.github.io/sc-voice/en/AWS-Staging-911) (English)
+* [Notes-on-using-the-Voice-ZenHub-board](https://sc-voice.github.io/sc-voice/en/Notes-on-using-the-Voice-ZenHub-board) (Englisch)
+* [SuttaCentral-Voice-Administration](https://sc-voice.github.io/sc-voice/en/SuttaCentral-Voice-Administration) (Englisch)
