@@ -1,4 +1,6 @@
 # Zum Herunterladen
+[Originaltext](https://suttacentral.net/downloads)
+
 ## EPUBs herunterladen
 
 Die neuesten Versionen der wichtigsten Übersetzungen auf SuttaCentral (englisch).
