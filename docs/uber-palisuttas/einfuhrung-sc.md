@@ -10,7 +10,7 @@ Es gibt mehrere buddhistische Traditionen, von denen jede einen Satz alter Schri
 
 SuttaCentral beherbergt Texte in den Originalsprachen, Übersetzungen in moderne Sprachen sowie komplexe Reihen von Parallelen, die die Beziehung zwischen den Genannten aufzeigen.
 
-![download link](/sc-voice/docs/assets/img/Life_of_Buddha_Burmese_Manuscript_22_Volume_1_Wellcom.webp?raw=true)
+![download link](/sc-voice/assets/img/Life_of_Buddha_Burmese_Manuscript_22_Volume_1_Wellcom.webp?raw=true)
 
 ## Themen
 
@@ -22,7 +22,7 @@ Es gibt wohl zahlreiche Zusammenfassungen und Interpretationen seiner Lehre, abe
 
 ## Inhalt
 
-![download link](/sc-voice/docs/assets/img/birchbark_w400.webp?raw=true)
+![download link](/sc-voice/assets/img/birchbark_w400.webp?raw=true)
 
 Buddhistische Texte werden üblicherweise in die „Drei Körbe“ eingeordnet, die auf Pali *tipiṭaka* und auf Sanskrit *tripiṭaka* genannt werden. Das sind:
 
@@ -46,7 +46,7 @@ SuttaCentral stützt sich auf diese lange Geschichte und präsentiert hauptsäch
 
 ## Beziehungen
 
-![download link](/sc-voice/docs/assets/img/dn20.webp)
+![download link](/sc-voice/assets/img/dn20.webp)
 
 Suttas sind keine unabhängigen Einheiten. Sie formen ein ausgedehntes Netz von untereinander verwobenen Lehren. Oft liegt der Schlüssel zum Verständnis einer Passage in einem anderen Text. In dieser Weise gleichen die buddhistischen Kanons ein wenig dem Internet, in dem einzelne Seiten durch ein Netz verborgener Links verknüpft sind.
 
