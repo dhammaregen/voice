@@ -44,7 +44,7 @@ SuttaCentral stützt sich auf diese lange Geschichte und präsentiert hauptsäch
 
 ## Beziehungen
 
-![download link](https://suttacentral.net/img/static-pages/dn20.webp)
+![download link](https://raw.githubusercontent.com/sc-voice/sc-voice/master/docs/assets/img/dn20.webp)
 
 Suttas sind keine unabhängigen Einheiten. Sie formen ein ausgedehntes Netz von untereinander verwobenen Lehren. Oft liegt der Schlüssel zum Verständnis einer Passage in einem anderen Text. In dieser Weise gleichen die buddhistischen Kanons ein wenig dem Internet, in dem einzelne Seiten durch ein Netz verborgener Links verknüpft sind.
 
