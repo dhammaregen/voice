@@ -28,6 +28,7 @@ SuttaCentral Voice ermöglicht es, die Worte des Buddha über ein Lesegerät zu 
 ### Wie funktioniert SuttaCentral Voice?
 
 Um SuttaCentral Voice zu benutzen, geben Sie einfach etwas in das Suchfeld ein. Sie können einen Ausdruck oder mehrere Schlüsselwörter eingeben. Um ein bestimmmtes Sutta zu finden wie etwa MN 1 geben Sie einfach „mn1“ in das Suchfeld ein. Wenn Sie mehrere Suttas gleichzeitig suchen, trennen Sie die Sutta-Bezeichnungen mit Kommata ab (z. B. „an4.85 <span aria-label="Komma"> </span><span aria-hidden="true">,</span> mn23 <span aria-label="Komma"> </span><span aria-hidden="true">,</span> sn12.2“). Wenn Sie ein paar Suttas vorgeschlagen haben möchten, klicken Sie auf die Schaltfläche „Such mir etwas aus!“. Über den Zahnradknopf können Sie die Lesestimme und andere Einstellungen ändern. Sie können einzelne Suttas oder eine Wiedergabeliste herunterladen, um sie offline anzuhören. Über den Menüschalter finden Sie auf jeder Suttaseite Links zu weiteren Audio- und Textquellen.
+
 [Zum Inhaltsverzeichnis für weitere Informationen.](https://sc-voice.github.io/dhammaregen/docs/uber-voice/voice-inhalt)
 
 Lesen Sie auf dem Diskussionsforum von SuttaCentral, <a href="https://discourse.suttacentral.net/t/how-do-you-use-suttacentral-voice/12384" target="_blank">wie andere SuttaCentral Voice nutzen</a> (Englisch).
@@ -35,11 +36,12 @@ Lesen Sie auf dem Diskussionsforum von SuttaCentral, <a href="https://discourse.
 <details>
 <summary>Einen Weg durch die Texte finden</summary>
 
-Auf SuttaCentral finden Sie allgemeine Einführungen zu den beiden Abschnitten des Palikanon, in denen die Unterweisungen des Buddha niedergelegt sind: 
+Auf SuttaCentral finden Sie allgemeine Einführungen zu den drei Abschnitten des Palikanon, in denen die Unterweisungen des Buddha niedergelegt sind: 
 
 <ul>
 <li><a href="https://suttacentral.net/discourses" target="_blank">Introduction to the Discourses</a></li>
 <li><a href="https://suttacentral.net/vinaya" target="_blank">Introduction to the Vinaya (Monastic Code)</a></li>
+  <li>a href="https://suttacentral.net/abhidhamma" target="blank">Introduction to the Abhidhamma</a></li>
 </ul>
 
 Ebenso gibt es auf SuttaCentral umfangreiche Leitfäden zu den Palisammlungen, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln:
