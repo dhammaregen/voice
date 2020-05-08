@@ -66,6 +66,3 @@ Die folgenden Indexe sowie ein Pali-Glossar können ebenfalls helfen, das zu fin
 ### Mehr Informationen (Englisch)
 - <a href="https://sc-voice.github.io/dhammaregen/docs/uber-voice/voice-inhalt#Technik-und-Entwicklung" target="_blank">Technik und Entwicklung</a>
 - <a href="https://discourse.suttacentral.net/tags/sc-voice" target="_blank">Feedback</a>
-
-### Dank
-[Bitte hier klicken](https://sc-voice.github.io/Dhammaregen/docs/uber-voice/dank)
