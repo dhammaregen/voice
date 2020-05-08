@@ -1,4 +1,5 @@
 # Einführung zu SuttaCentral
+[Originaltext](https://suttacentral.net/introduction)
 
 ## Die Worte des Buddha
 
