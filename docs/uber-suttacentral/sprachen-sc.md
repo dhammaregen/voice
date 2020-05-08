@@ -1,4 +1,6 @@
 # Sprachen auf SuttaCentral
+[Originaltext](https://suttacentral.net/languages)
+
 ## Alte Sprachen (6)
 * [Pāli (7601)](https://suttacentral.net/languages/pli)
 * [Chinese (4619)](https://suttacentral.net/languages/lzh)
