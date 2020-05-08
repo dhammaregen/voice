@@ -1,5 +1,5 @@
 # Zum Herunterladen
-[Originaltext](https://suttacentral.net/downloads)
+<a href="https://suttacentral.net/downloads" target="_blank">Originaltext</a>
 
 ## EPUBs herunterladen
 
