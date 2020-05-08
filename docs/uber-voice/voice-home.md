@@ -41,7 +41,7 @@ Auf SuttaCentral finden Sie allgemeine Einführungen zu den drei Abschnitten des
 <ul>
 <li><a href="https://suttacentral.net/discourses" target="_blank">Introduction to the Discourses</a></li>
 <li><a href="https://suttacentral.net/vinaya" target="_blank">Introduction to the Vinaya (Monastic Code)</a></li>
-  <li>a href="https://suttacentral.net/abhidhamma" target="blank">Introduction to the Abhidhamma</a></li>
+  <li><a href="https://suttacentral.net/abhidhamma" target="_blank">Introduction to the Abhidhamma</a></li>
 </ul>
 
 Ebenso gibt es auf SuttaCentral umfangreiche Leitfäden zu den Palisammlungen, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln:
