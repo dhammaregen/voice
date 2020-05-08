@@ -13,4 +13,4 @@ Alle deutschen Übersetzungen von Texten und Essays auf *Dhammaregen* sind, sowe
 
 Für Fragen oder Anregungen zu den segmentierten deutschen Übersetzungen auf SuttaCentral Voice oder andere Fragen zu frühen buddhistischen Texten senden Sie eine Email an dhammaregen@gmail.com oder wenden Sie sich an das SuttaCentral-Diskussionsforum https://discourse.suttacentral.net.
 
-Sie können unser [GitHub-Repo](https://github.com/sc-voice/dhammaregen) einsehen und auch auf diesem Weg Verbesserungsvorschläge als Pull Request einreichen.
+Sie können auch unser [GitHub-Repo](https://github.com/sc-voice/dhammaregen) einsehen und mit [einem neuen Issue](https://github.com/sc-voice/dhammaregen/issues/new) Verbesserungsvorschläge einreichen.
