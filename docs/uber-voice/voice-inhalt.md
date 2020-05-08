@@ -1,5 +1,5 @@
 # Inhaltsverzeichnis
-### Wie funktioniert SuttaCentral Voice?
+## Wie funktioniert SuttaCentral Voice?
 
 * [Offline hören](https://sc-voice.github.io/dhammaregen/docs/uber-voice/offline-horen) erklärt, wie Sie Suttas auf Ihrem Handy oder einem anderen Audiogerät anhören können.
 * [Suche](https://sc-voice.github.io/dhammaregen/docs/uber-voice/suche) gibt Ihnen Tipps, wie Sie die Suttas finden, die Sie hören möchten.
@@ -9,7 +9,7 @@
 * [Der Suttaplayer](https://sc-voice.github.io/dhammaregen/docs/uber-voice/suttaplayer) spielt jedes Sutta als zweisprachige Audiowiedergabe Segment für Segment ab.
 * [Lesestimmen](https://sc-voice.github.io/dhammaregen/docs/uber-voice/lesestimmen) gibt eine Beschreibung der verschiedenen Lesestimmen, die SuttaCentral Voice benutzt.
 
-### Technik und Entwicklung
+<h2 id="Technik und Entwicklung">Technik und Entwicklung</h2>
 
 * [Installation: Entwickler](https://github.com/sc-voice/sc-voice/wiki/Installation:-Developer) enthält Instruktionen, wie man eine Entwicklerumgebung für Voice einrichtet (Englisch).
 * [Die Voice-Benutzeroberfläche übersetzen](https://github.com/sc-voice/sc-voice/wiki/Translating-Voice-UI) enthält einige Richtlinien für die Übersetzung der Voice-Benutzeroberfläche in andere Sprachen (Englisch).
