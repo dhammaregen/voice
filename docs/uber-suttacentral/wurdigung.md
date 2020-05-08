@@ -1,4 +1,6 @@
 # Würdigung
+[Originaltext](https://suttacentral.net/acknowledgments)
+
 SuttaCentral wurde von dem Ehrwürdigen Anālayo (Deutschland), Rod Bucknell (Australien) und Bhante Sujato (Australien) konzipiert; die Grundlage dazu waren Sutta-Korrespondenztabellen, die Rod Bucknell und der Ehrw. Anālayo zusammengestellt hatten. Die Begründer der Webseite waren Rod Bucknell, Bhante Sujato und John Kelly.
 
 ## Version 1 — 2005
