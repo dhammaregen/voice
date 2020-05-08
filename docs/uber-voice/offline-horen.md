@@ -7,7 +7,7 @@ Zum Offline hören mit einem Handy oder einem anderen Audiogerät laden Sie am b
 
 Öffnen Sie die SuttaCentral Voice-Webseite auf einem Desktop-Computer und suchen Sie ein oder mehrere Sutta(s). Neben der Wiedergabe-Schaltfläche sehen Sie einen Download-Pfeil, mit dem Sie das ausgewählte Sutta (die ausgewählten Suttas) herunterladen können.
 
-![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/download_sutta.png)
+![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/download_sutta.png?raw=true)
 
 Kopieren Sie die heruntergeladene Audiodatei auf Ihr Handy oder Audiogerät (zum Hören auf dem iPhone s. unten).
 
