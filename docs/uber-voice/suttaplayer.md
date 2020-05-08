@@ -1,5 +1,5 @@
 # Suttaplayer
-![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/sutta-player-de.png)
+![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/sutta-player-de.png?raw=true)
 
 Der Suttaplayer spielt Sutta-Textsegmente ab, wobei abwechselnd Pali und die Übersetzung gelesen wird. Mit der Wiedergabe/Pause-Schaltfläche links unten können Sie die Wiedergabe starten oder pausieren. Die Wiedergabe läuft segmentweise ab bis zum Ende des Sutta oder der Wiedergabeliste.
 
