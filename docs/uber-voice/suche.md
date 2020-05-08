@@ -69,7 +69,7 @@ Die Anzahl der Suchergebnisse ist zunächst auf 5 begrenzt. Die Ergebnisse zu be
 
 #### Sutta-Wiedergabelisten
 
-![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/wiedergabeliste.png)
+![download link](https://github.com/sc-voice/sc-voice/src/assets/wiedergabeliste.png?raw=true)
 
 Sie können die Suttas hören, die als Suchergebnisse aufgeführt sind. Klicken Sie einfach auf „Wiedergabe“ direkt unter der Zusammenfassung der Suchergebnisse.
 
