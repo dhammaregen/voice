@@ -1,9 +1,9 @@
 # Lizenzen
-[Originaltext](https://suttacentral.net/licensing)
+<a href="https://suttacentral.net/licensing" target="_blank">Originaltext</a>
 
 Die buddhistischen Texte, ob in den Originalsprachen oder als Übersetzung, werden von den buddhistischen Traditionen als „die Worte des Buddha“ angesehen. Sie sind ein spirituelles Erbe der Menschheit und gehören keinem Individuum. Auf SuttaCentral setzen wir diese Tradition fort, indem wir die Texte für jeden kostenlos zugänglich machen. Unsere Arbeit wäre ohne die großzügigen Beiträge zahlloser Menschen nicht möglich, und wir hoffen, dadurch, dass wir unsere Arbeit umsonst beisteuern, einen kleinen Teil dieser Freundlichkeit zurückzugeben.
 
-Unsere Quelldateien sind auf [SuttaCentrals GitHub-Depot](https://github.com/suttacentral) frei verfügbar. SuttaCentral ist stolz darauf, zur *Open Source*-Gemeinschaft zu gehören.
+Unsere Quelldateien sind auf [SuttaCentrals GitHub-Repo](https://github.com/suttacentral) frei verfügbar. SuttaCentral ist stolz darauf, zur *Open Source*-Gemeinschaft zu gehören.
 
 Das Material auf SuttaCentral fällt im Hinblick auf das Urheberrecht in drei verschiedene Kategorien, die weiter unten aufgeführt sind. Wenn Sie bezüglich eines Inhalts von SuttaCentral ein Urheberrecht geltend machen wollen oder über das Urheberrecht auf SuttaCentral diskutieren wollen, zögern Sie bitte nicht, uns [auf unserem Forum](https://discourse.suttacentral.net/) zu kontaktieren.
 
