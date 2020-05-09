@@ -18,7 +18,7 @@ Seit dem 19. Jahrhundert haben Wissenschaftler erkannt, dass viele buddhistische
 
 2014 erstellte Bhikkhu Sujato einen Parallelensatz für den Vinaya, der zu SuttaCentral hinzugefügt wurde, und 2016 fügte Ayya Vimala Versparallelen zu den Dhammapadas hinzu.
 
-Die Daten zu den Parallelen werden in einer einzigen Datei verwaltet, [parallels.json](https://github.com/suttacentral/sc-data/blob/master/relationship/parallels.json), die sich im [GitHub-Depot von SuttaCentral](https://github.com/suttacentral) befindet.
+Die Daten zu den Parallelen werden in einer einzigen Datei verwaltet, [parallels.json](https://github.com/suttacentral/sc-data/blob/master/relationship/parallels.json), die sich im [GitHub-Repo von SuttaCentral](https://github.com/suttacentral) befindet.
 
 Neben den Parallelen beherbergt SuttaCentral Originaltexte und Übersetzungen, sofern verfügbar. Eine kurze Notiz zu den Quellen dieser Texte findet sich weiter unten.
 
