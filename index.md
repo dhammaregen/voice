@@ -1,5 +1,5 @@
 # Dhammaregen
-<h2 style="text-align:center;">Willkommen!<h2>
+<h2 style="text-align:center;">Willkommen!</h2>
   
 *Dhammaregen* ist eine deutschsprachige Begleitwebseite zu SuttaCentral Voice. Sie enthält Informationen und Hintergründe zu SuttaCentral Voice, SuttaCentral, der "großen Schwester" von Voice, den Pali-Quelltexten und den deutschen Übersetzungen.
 
