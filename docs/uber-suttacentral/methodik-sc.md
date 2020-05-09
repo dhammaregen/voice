@@ -1,5 +1,5 @@
 # Methodik und Quellen
-[Originaltext](https://suttacentral.net/methodology)
+<a href="https://suttacentral.net/methodology" target="_blank">Originaltext</a>
 
 1. [Hintergrund](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Hintergrund)
 1. [Suttaparallelen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Suttaparallelen)
