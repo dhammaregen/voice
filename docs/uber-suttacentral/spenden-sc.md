@@ -1,5 +1,5 @@
 # Spenden an SuttaCentral
-[Originaltext](https://suttacentral.net/donations)
+<a href="https://suttacentral.net/donations" target="_blank">Originaltext</a>
 
 Ihre Spende ist äußerst willkommen. Sie wird die laufende Entwicklung von SuttaCentral unterstützen, so dass wir weiterhin die Worte des Buddha zu Menschen überall auf der Welt bringen können.
 
