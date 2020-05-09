@@ -1,5 +1,5 @@
 # Sprachen auf SuttaCentral
-[Originaltext](https://suttacentral.net/languages)
+<a href="https://suttacentral.net/languages" target="_blank">Originaltext</a>
 
 ## Alte Sprachen (6)
 * [Pāli (7601)](https://suttacentral.net/languages/pli)
