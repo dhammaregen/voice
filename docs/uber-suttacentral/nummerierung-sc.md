@@ -1,5 +1,5 @@
 # Nummerierung der Suttas
-[Originaltext](https://suttacentral.net/numbering)
+<a href"https://suttacentral.net/numbering" target="_blank">Originaltext</a>
 
 Ein Stolperstein für alle, die buddhistische Texte studieren, ist es, wie man sich darin zurechtfinden soll. Wie kommt man zu dem Sutta, zu dem man will? Das Problem entsteht zum Teil dadurch, dass es einfach so viele Texte sind, und zum Teil, weil es von jedem Text verschiedene Ausgaben gibt. Auf SuttaCentral verschärft sich das Problem noch, da wir Texte aus vielen verschiedenen kanonischen Quellen einbeziehen, die nie zuvor in einer kombinierten Ausgabe vorgelegt wurden.
 
