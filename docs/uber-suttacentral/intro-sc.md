@@ -1,5 +1,5 @@
 # SuttaCentral
-[SuttaCentral](https://suttacentral.net) ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen in frühen Texten. In diesen einführenden Texten können Sie mehr über die Idee und den Aufbau von SuttaCentral erfahren:
+<a href="https://suttacentral.net" target="_blank">SuttaCentral</a> ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen in frühen Texten. In diesen einführenden Texten können Sie mehr über die Idee und den Aufbau von SuttaCentral erfahren:
 
 - [Über SuttaCentral](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/uber-suttacentral): Idee und Entstehung der Webseite SuttaCentral.
 - [SuttaCentrals Methodik](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc): Die Entdeckung von Parallelen zwischen frühen buddhistischen Texten aus verschiedenen Überlieferungen als Keim, aus dem SuttaCentral sich entwickelt hat; Textquellen und Bibliografie.
