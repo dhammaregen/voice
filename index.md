@@ -1,10 +1,10 @@
-<h1 style="text-align:center;">Willkommen bei <em>Dhammaregen</em>!</h1>
-
 > „Es ist, wie wenn es auf einem Berggipfel stark regnet, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie den Ozean.
 > 
 > Ebenso füllt der Faktor des Umgangs mit guten Menschen, wenn er voll wird, den Faktor auf, der wahren Lehre zuzuhören. Wenn der Faktor, der wahren Lehre zuzuhören, voll wird, füllt er den Faktor Vertrauen auf … den Faktor genaue Aufmerksamkeit … den Faktor Achtsamkeit und Umsicht … den Faktor Zügelung der Sinne … den Faktor der drei Arten von gutem Verhalten … den Faktor der vier Arten der Achtsamkeitsmeditation … den Faktor der sieben Faktoren des Erwachens. Wenn die sieben Faktoren des Erwachens voll werden, füllen sie Wissen und Freiheit auf.“
 
 ---
+<h1 style="text-align:center;">Willkommen bei <em>Dhammaregen</em>!</h1>
+
 *Dhammaregen* ist eine deutschsprachige Begleitwebseite zu SuttaCentral Voice. Sie enthält Informationen und Hintergründe zu SuttaCentral Voice, SuttaCentral, der "großen Schwester" von Voice, den Pali-Quelltexten und den deutschen Übersetzungen.
 
 <a href="https://suttacentral.net/" target="_blank">SuttaCentral</a> ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen. <a href="https://voice.suttacentral.net/" target="_blank">SuttaCentral Voice</a> ist eine Anwendung zur Sprachausgabe für Quelltexte auf Pali und verschiedene Übersetzungen.
