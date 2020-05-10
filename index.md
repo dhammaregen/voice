@@ -12,9 +12,9 @@ Auf *Dhammaregen* finden Sie:
 
 - [**Über SuttaCentral Voice**](https://sc-voice.github.io/dhammaregen/docs/uber-voice/voice-home)  
 - [**Über SuttaCentral**](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/intro-sc)  
-- **Die drei Körbe**  
+- [**Die drei Körbe**](https://sc-voice.github.io/dhammaregen/docs/tipitaka/intro-tipitaka)  
 - [**Essays von Bhikkhu Sujato zu den Pali-Suttas**](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/intro-palisuttas)  
-- **Zu den deutschen Übersetzungen**
+- [**Zu den deutschen Übersetzungen**](https://sc-voice.github.io/dhammaregen/docs/deutsche-ubersetzungen/intro-deutsche-ubersetzungen)
 
 Alle deutschen Übersetzungen von Texten und Essays auf *Dhammaregen* sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.
 
