@@ -1,4 +1,4 @@
-# SuttaCentral Voice
+# Über SuttaCentral Voice
 [English](https://sc-voice.github.io/sc-voice/en/Home-EN)  |  [Português](https://sc-voice.github.io/sc-voice/pt/Home-PT)  |  [日本語](https://sc-voice.github.io/sc-voice/ja/Home-JA)  |  [Français](https://sc-voice.github.io/sc-voice/fr/Home-FR)
 
 ### Willkommen bei SuttaCentral Voice! 
