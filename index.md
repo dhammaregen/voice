@@ -1,7 +1,7 @@
 > „Es ist, wie wenn es auf einem Berggipfel stark regnet, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie den Ozean.
 > 
 > Ebenso füllt der Faktor des Umgangs mit guten Menschen, wenn er voll wird, den Faktor auf, der wahren Lehre zuzuhören. Wenn der Faktor, der wahren Lehre zuzuhören, voll wird, füllt er … Wissen und Freiheit auf.“
-<p style="text-align: right;"><a href="https://voice.suttacentral.net/scv/index.html?r=0.9228589951168996#/sutta?search=wie%20wenn%20es%20auf%20einem%20berggipfel" target="_blank>Auf SuttaCentral Voice hören</a></p>
+<p style="text-align: right;"><a href="https://voice.suttacentral.net/scv/index.html?r=0.9228589951168996#/sutta?search=wie%20wenn%20es%20auf%20einem%20berggipfel" target="_blank">Auf SuttaCentral Voice hören</a></p>
 
 <h1 style="text-align:center;">Willkommen bei <em>Dhammaregen</em>!</h1>
 
