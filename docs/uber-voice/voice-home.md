@@ -3,7 +3,7 @@
 
 ### Willkommen bei SuttaCentral Voice! 
 
-Die App <a href="https://voice.suttacentral.net" target="_blank">SuttaCentral Voice</a>wird für Benutzer von Bildschirmlesern entwickelt wie JAWS, NVDA oder ChromeVox, aber Sehende können sie ebenfalls nützlich finden, um die Lehren des Buddha zu erkunden.
+Die App <a href="https://voice.suttacentral.net" target="_blank">SuttaCentral Voice</a> wird für Benutzer von Bildschirmlesern entwickelt wie JAWS, NVDA oder ChromeVox, aber Sehende können sie ebenfalls nützlich finden, um die Lehren des Buddha zu erkunden.
 
 SuttaCentral Voice ermöglicht es, die Worte des Buddha über ein Lesegerät zu hören, das an die Texte, die sie bewahren, angepasst ist. Die App ist eine Partneranwendung von <a href="https://suttacentral.net" target="_blank">SuttaCentral</a>, einer Webseite, die zum Ziel hat, den gewaltigen Ozean der frühen buddhistischen Texte frei zugänglich zu machen. Die vier wichtigsten Lehrredensammlungen auf Pali — über die weiter unten noch mehr zu finden ist — und ihre von SuttaCentral veröffentlichten segmentierten Übersetzungen stellen den Hauptfokus von SuttaCentral Voice dar.
 
