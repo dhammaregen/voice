@@ -2,18 +2,18 @@
 Bhikkhu Sujato, 2019  
 <a href="https://suttacentral.net/general-guide-sujato" target="_blank">Originaltext</a>
 
-1. **[Über diese Leitfäden](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item1)**
-1. **[Eine barrierefreie Übersetzung](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item2)**
-1. **[Planen Sie Ihre Reise oder spazieren Sie durch den Garten](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item3)**
-1. **[Nachschlagen von Quellenangaben](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item4)**
-1. **[Strukturelemente](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item5)**
-1. **[In den Tagen des Buddha: Eine Zeit des Umbruchs](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item6)**
-1. **[Wirtschaft und Politik](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item7)**
-1. **[Gesellschaftliches Leben](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item8)**
-1. **[Die zahlreichen spirituellen Pfade des alten Indien](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item9)**
-1. **[Kosmologie](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item10)**
-1. **[Über die Pali-Kommentare](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item11)**
-1. **[Eine kurze und unvollständige Textgeschichte](https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas#item12)**
+1. **[Über diese Leitfäden](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item1)**
+1. **[Eine barrierefreie Übersetzung](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item2)**
+1. **[Planen Sie Ihre Reise oder spazieren Sie durch den Garten](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item3)**
+1. **[Nachschlagen von Quellenangaben](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item4)**
+1. **[Strukturelemente](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item5)**
+1. **[In den Tagen des Buddha: Eine Zeit des Umbruchs](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item6)**
+1. **[Wirtschaft und Politik](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item7)**
+1. **[Gesellschaftliches Leben](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item8)**
+1. **[Die zahlreichen spirituellen Pfade des alten Indien](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item9)**
+1. **[Kosmologie](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item10)**
+1. **[Über die Pali-Kommentare](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item11)**
+1. **[Eine kurze und unvollständige Textgeschichte](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item12)**
 
 Die Suttas des Palikanon (Tipiṭaka), besonders die vier Haupt-*Nikāyas*, sind eine unerlässliche Lektüre für jeden, der den Buddha und seine Lehre verstehen möchte. Sie wurden von der Theravāda-Tradition des Buddhismus als das Wort des Buddha bewahrt und in der Palisprache weitergegeben.
 
