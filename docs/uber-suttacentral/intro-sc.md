@@ -11,3 +11,9 @@
 - [Lizenzen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/lizenzen): Urheberrecht auf SuttaCentral.
 - [Zum Herunterladen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/herunterladen): EPUBs, PDFs und mehr.
 - [Spenden](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/spenden-sc): Wie Sie SuttaCentral unterstützen können.
+
+#### Indexe
+- <a href="https://suttacentral.net/subjects" target="_blank">Index of Subjects</a> (Englisch)
+- <a href="https://suttacentral.net/similes" target="_blank">Index of Similes</a> (Englisch)
+- <a href="https://suttacentral.net/names" target="_blank">Index of Names</a> (Englisch)
+- <a href="https://suttacentral.net/terminology" target="_blank">Basic Pali Terminologya</a> (Englisch)
