@@ -1,5 +1,5 @@
 # Über SuttaCentral Voice
-[English](https://sc-voice.github.io/sc-voice/en/Home-EN)  |  [Português](https://sc-voice.github.io/sc-voice/pt/Home-PT)  |  [日本語](https://sc-voice.github.io/sc-voice/ja/Home-JA)  |  [Français](https://sc-voice.github.io/sc-voice/fr/Home-FR)
+<a href="https://sc-voice.github.io/sc-voice/en/Home-EN" target="_blank">English</a>  |  <a href="https://sc-voice.github.io/sc-voice/pt/Home-PT" target="_blank">Português</a>  |  <a href="https://sc-voice.github.io/sc-voice/ja/Home-JA" target="_blank">日本語</a>  |  <a href="https://sc-voice.github.io/sc-voice/fr/Home-FR" target="_blank">Français</a>
 
 ### Willkommen bei SuttaCentral Voice! 
 
