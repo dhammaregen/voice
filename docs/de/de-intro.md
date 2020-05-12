@@ -55,4 +55,4 @@ Rückmeldungen zu den Übersetzungen sind äußerst willkommen. Sie können eine
     
   Die Übersetzung wurde auf der Grundlage <a href="https://suttacentral.net/kp9/en/amaravati" target="_blank">der englischen Übersetzung des Amaravati-Sangha</a> erstellt.  
     
-  <a href="/sc-voice/assets/mettasutta-sld.mp3">Audio</a>
+  <a href="/sc-voice/assets/mettasutta-sld.mp3" target="_blank">Audio</a>
