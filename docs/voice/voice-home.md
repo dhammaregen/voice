@@ -11,16 +11,16 @@ SuttaCentral Voice ermöglicht es, die Worte des Buddha über ein Lesegerät zu 
 <summary>Mehr über SuttaCentral</summary>
 
 <ul>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/uber-suttacentral" target="_blank">Über SuttaCentral</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/einfuhrung-sc" target="_blank">Einführung zu SuttaCentral</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/methodik-sc" target="_blank">SuttaCentrals Methodik</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/nummerierung-sc" target="_blank">SuttaCentrals Nummerierungssystem</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/abkurzungen" target="_blank">Von SuttaCentral benutzte Abkürzungen</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/sprachen-sc" target="_blank">Sprachen auf SuttaCentral</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/wurdigung" target="_blank">Würdigung</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/lizenzen" target="_blank">Lizenzen</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/herunterladen" target="_blank">Zum Herunterladen</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/spenden-sc" target="_blank">Spenden</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/uber-suttacentral"></a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/einfuhrung-sc">Einführung zu SuttaCentral</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/methodik-sc">SuttaCentrals Methodik</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/nummerierung-sc">SuttaCentrals Nummerierungssystem</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/abkurzungen">Von SuttaCentral benutzte Abkürzungen</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/sprachen-sc"">Sprachen auf SuttaCentral</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/wurdigung">Würdigung</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/lizenzen">Lizenzen</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/herunterladen">Zum Herunterladen</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/spenden-sc">Spenden</a></li>
 </ul>
 
 </details>
@@ -47,7 +47,7 @@ Auf SuttaCentral finden Sie allgemeine Einführungen zu den drei Abschnitten des
 Ebenso gibt es auf SuttaCentral umfangreiche Leitfäden zu den Palisammlungen, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln:
 
 <ul>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas" target="_blank">Ein Leitfaden zu den Pali-Suttas</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas">Ein Leitfaden zu den Pali-Suttas</a></li>
 <li><a href="https://suttacentral.net/dn-guide-sujato" target="_blank">The Long Discourses: Dhamma as literature and compilation</a></li>
 <li><a href="https://suttacentral.net/mn-guide-sujato" target="_blank">The Middle Discourses: conversations on matters of deep truth</a></li>
 <li><a href="https://suttacentral.net/sn-guide-sujato" target="_blank">The Linked Discourses: the blueprint for Buddhist philosophy</a></li>
@@ -66,5 +66,5 @@ Die folgenden Indexe sowie ein Pali-Glossar können ebenfalls helfen, das zu fin
 </details>
 
 ### Mehr Informationen (Englisch)
-- <a href="https://sc-voice.github.io/dhammaregen/docs/voice/voice-inhalt#Technik-und-Entwicklung" target="_blank">Technik und Entwicklung</a>
+- <a href="https://sc-voice.github.io/dhammaregen/docs/voice/voice-inhalt#Technik-und-Entwicklung">Technik und Entwicklung</a>
 - <a href="https://discourse.suttacentral.net/tags/sc-voice" target="_blank">Feedback</a>
