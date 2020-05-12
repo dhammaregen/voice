@@ -11,7 +11,7 @@ SuttaCentral Voice ermöglicht es, die Worte des Buddha über ein Lesegerät zu 
 <summary>Mehr über SuttaCentral</summary>
 
 <ul>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/uber-suttacentral"></a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/uber-suttacentral">Über SuttaCentral</a></li>
 <li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/einfuhrung-sc">Einführung zu SuttaCentral</a></li>
 <li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/methodik-sc">SuttaCentrals Methodik</a></li>
 <li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/nummerierung-sc">SuttaCentrals Nummerierungssystem</a></li>
