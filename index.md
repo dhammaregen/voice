@@ -11,10 +11,10 @@
 
 Auf *Dhammaregen* finden Sie:
 
-- [**Über SuttaCentral Voice**](https://sc-voice.github.io/dhammaregen/docs/uber-voice/voice-home)  
-- [**Über SuttaCentral**](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/intro-sc)  
+- [**Über SuttaCentral Voice**](https://sc-voice.github.io/dhammaregen/docs/voice/voice-home)  
+- [**Über SuttaCentral**](https://sc-voice.github.io/dhammaregen/docs/sc/intro-sc)  
 - [**Essays auf SuttaCentral**](https://sc-voice.github.io/dhammaregen/docs/essays/intro-essays)  
-- [**Zu den deutschen Übersetzungen**](https://sc-voice.github.io/dhammaregen/docs/deutsche-ubersetzungen/intro-deutsche-ubersetzungen)
+- [**Zu den deutschen Übersetzungen**](https://sc-voice.github.io/dhammaregen/docs/de/de-intro)
 
 Alle deutschen Übersetzungen von Texten und Essays auf *Dhammaregen* sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.
 
