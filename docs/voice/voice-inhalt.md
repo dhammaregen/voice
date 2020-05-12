@@ -23,4 +23,4 @@
 * <a href="https://sc-voice.github.io/sc-voice/en/SuttaCentral-Voice-Administration" target="_blank">SuttaCentral-Voice-Administration</a> (Englisch)
 
 ## Sonstiges
-* [Dank](https://sc-voice.github.io/dhammaregen/docs/uber-voice/dank): Menschen, die zur Entwicklung von SuttaCentral Voice beigetragen haben und beitragen.
+* [Dank](https://sc-voice.github.io/dhammaregen/docs/voice/dank): Menschen, die zur Entwicklung von SuttaCentral Voice beigetragen haben und beitragen.
