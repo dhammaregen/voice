@@ -52,4 +52,5 @@ Rückmeldungen zu den Übersetzungen sind äußerst willkommen. Sie können eine
   Die Übersetzung wurde auf der Grundlage <a href="https://www.buddhismuskunde.uni-hamburg.de/" target="_blank">von Bhikkhu Anālayos englischer Übersetzung</a> erstellt.
 - Saarländisch: Es Metta-Sutta in <a href="https://suttacentral.net/snp1.8/sld/sabbamitta" target="_blank">Snp 1.8</a> und <a href="https://suttacentral.net/kp9/sld/sabbamitta" target="_blank">Kp 9</a>  
   Die Übersetzung wurde auf der Grundlage <a href="https://suttacentral.net/kp9/en/amaravati" target="_blank">der englischen Übersetzung des Amaravati-Sangha</a> erstellt.  
+    
   <a href="/sc-voice/assets/mettasutta-sld.mp3">Audio</a>
