@@ -11,16 +11,16 @@ SuttaCentral Voice ermöglicht es, die Worte des Buddha über ein Lesegerät zu 
 <summary>Mehr über SuttaCentral</summary>
 
 <ul>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/uber-suttacentral" target="_blank">Über SuttaCentral</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/einfuhrung-sc" target="_blank">Einführung zu SuttaCentral</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc" target="_blank">SuttaCentrals Methodik</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/nummerierung-sc" target="_blank">SuttaCentrals Nummerierungssystem</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/abkurzungen" target="_blank">Von SuttaCentral benutzte Abkürzungen</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/sprachen-sc" target="_blank">Sprachen auf SuttaCentral</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/wurdigung" target="_blank">Würdigung</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/lizenzen" target="_blank">Lizenzen</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/herunterladen" target="_blank">Zum Herunterladen</a></li>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/spenden-sc" target="_blank">Spenden</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/uber-suttacentral" target="_blank">Über SuttaCentral</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/einfuhrung-sc" target="_blank">Einführung zu SuttaCentral</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/methodik-sc" target="_blank">SuttaCentrals Methodik</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/nummerierung-sc" target="_blank">SuttaCentrals Nummerierungssystem</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/abkurzungen" target="_blank">Von SuttaCentral benutzte Abkürzungen</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/sprachen-sc" target="_blank">Sprachen auf SuttaCentral</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/wurdigung" target="_blank">Würdigung</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/lizenzen" target="_blank">Lizenzen</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/herunterladen" target="_blank">Zum Herunterladen</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/sc/spenden-sc" target="_blank">Spenden</a></li>
 </ul>
 
 </details>
@@ -29,7 +29,7 @@ SuttaCentral Voice ermöglicht es, die Worte des Buddha über ein Lesegerät zu 
 
 Um SuttaCentral Voice zu benutzen, geben Sie einfach etwas in das Suchfeld ein. Sie können einen Ausdruck oder mehrere Schlüsselwörter eingeben. Um ein bestimmmtes Sutta zu finden wie etwa MN 1 geben Sie einfach „mn1“ in das Suchfeld ein. Wenn Sie mehrere Suttas gleichzeitig suchen, trennen Sie die Sutta-Kennziffern mit Kommata ab (z. B. „an4.85 <span aria-label="Komma"> </span><span aria-hidden="true">,</span> mn23 <span aria-label="Komma"> </span><span aria-hidden="true">,</span> sn12.2“). Wenn Sie Suttas zum Hören vorgeschlagen haben möchten, klicken Sie auf die Schaltfläche „Such mir etwas aus!“. Über den Zahnradknopf können Sie die Lesestimme und andere Einstellungen ändern. Sie können einzelne Suttas oder eine Wiedergabeliste herunterladen, um sie offline anzuhören. Über den Menüschalter finden Sie auf jeder Suttaseite Links zu weiteren Audio- und Textquellen.
 
-[Zum Inhaltsverzeichnis für weitere Informationen.](https://sc-voice.github.io/dhammaregen/docs/uber-voice/voice-inhalt)
+[Zum Inhaltsverzeichnis für weitere Informationen.](https://sc-voice.github.io/dhammaregen/docs/voice/voice-inhalt)
 
 Lesen Sie auf dem Diskussionsforum von SuttaCentral, <a href="https://discourse.suttacentral.net/t/how-do-you-use-suttacentral-voice/12384" target="_blank">wie andere SuttaCentral Voice nutzen</a> (Englisch).
 
@@ -47,7 +47,7 @@ Auf SuttaCentral finden Sie allgemeine Einführungen zu den drei Abschnitten des
 Ebenso gibt es auf SuttaCentral umfangreiche Leitfäden zu den Palisammlungen, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln:
 
 <ul>
-<li><a href="https://sc-voice.github.io/dhammaregen/docs/uber-palisuttas/leitfaden-palisuttas" target="_blank">Ein Leitfaden zu den Pali-Suttas</a></li>
+<li><a href="https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas" target="_blank">Ein Leitfaden zu den Pali-Suttas</a></li>
 <li><a href="https://suttacentral.net/dn-guide-sujato" target="_blank">The Long Discourses: Dhamma as literature and compilation</a></li>
 <li><a href="https://suttacentral.net/mn-guide-sujato" target="_blank">The Middle Discourses: conversations on matters of deep truth</a></li>
 <li><a href="https://suttacentral.net/sn-guide-sujato" target="_blank">The Linked Discourses: the blueprint for Buddhist philosophy</a></li>
@@ -66,5 +66,5 @@ Die folgenden Indexe sowie ein Pali-Glossar können ebenfalls helfen, das zu fin
 </details>
 
 ### Mehr Informationen (Englisch)
-- <a href="https://sc-voice.github.io/dhammaregen/docs/uber-voice/voice-inhalt#Technik-und-Entwicklung" target="_blank">Technik und Entwicklung</a>
+- <a href="https://sc-voice.github.io/dhammaregen/docs/voice/voice-inhalt#Technik-und-Entwicklung" target="_blank">Technik und Entwicklung</a>
 - <a href="https://discourse.suttacentral.net/tags/sc-voice" target="_blank">Feedback</a>
