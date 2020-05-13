@@ -1,5 +1,5 @@
 # Ein Leitfaden zu den Pali‐Suttas
-Bhikkhu Sujato, 2019  
+von Bhikkhu Sujato, 2019  
 <a href="https://suttacentral.net/general-guide-sujato" target="_blank">Originaltext</a>
 
 1. **[Über diese Leitfäden](https://sc-voice.github.io/dhammaregen/docs/essays/leitfaden-palisuttas#item1)**
