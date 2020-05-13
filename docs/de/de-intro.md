@@ -1,6 +1,6 @@
 # Zu den deutschen Übersetzungen
 
-Voice beherbergt neue segmentierte deutsche Übersetzungen von Anagarika Sabbamitta sowie auch alle bestehenden deutschen Übersetzungen, die auf SuttaCentral zu finden sind.
+SuttaCentral Voice beherbergt neue segmentierte deutsche Übersetzungen von Anagarika Sabbamitta sowie auch alle bestehenden deutschen Übersetzungen, die auf SuttaCentral zu finden sind.
 
 ## Weshalb neue Übersetzungen?
 
