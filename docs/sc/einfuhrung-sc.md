@@ -1,5 +1,5 @@
 # Einführung zu SuttaCentral
-Bhikkhu Sujato  
+von Bhikkhu Sujato  
 <a href="https://suttacentral.net/introduction" target="_blank">Originaltext</a>
 
 ## Die Worte des Buddha
