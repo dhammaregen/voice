@@ -12,9 +12,9 @@ Mit dieser Situation war ich lange Zeit sehr zufrieden und dachte nicht daran, d
 
 Bis… ja, bis ich Bhikkhu Bodhis englische Übersetzungen in die Hand bekam. Das war das erste Mal, dass ich mit den bestehenden deutschen Übersetzungen weniger zufrieden war; und von da an las ich die Suttas eigentlich fast nur noch auf Englisch.
 
-Als dann Bhante Sujato 2018 seine neuen englischen Übersetzungen auf SuttaCentral veröffentlichte, war das für mich eine weitere Erfahrung, die in die gleiche Richtung wirkte. Die Suttas klangen in dieser Fassung so frisch und lebendig, und ich ganoss das Lesen sehr. Und nach und nach entstend der Wunsch, meine Landsleute, die kein Englisch verstehen, an dieser Freude teilhaben zu lassen.
+Als dann Bhante Sujato 2018 seine neuen englischen Übersetzungen auf SuttaCentral veröffentlichte, war das für mich eine weitere Erfahrung, die in die gleiche Richtung wirkte. Die Suttas klangen in dieser Fassung so frisch und lebendig, und ich genoss das Lesen sehr. Und nach und nach entstend der Wunsch, meine Landsleute, die kein Englisch verstehen, an dieser Freude teilhaben zu lassen.
 
-Dabei möchte ich in keiner Weise die großartige Leistung der bisherigen deutschen Übersetzer abwerten. Sie haben es mit ihrer Arbeit ermöglicht, dass die Buddhalehre im deutschsprachigen Raum bereits vor langer Zeit bekannt geworden ist und viele Menschen inspiriert hat. Und neue Übersetzungen werden immer auch auf der Basis des bereits Bestehenden entstehen. Wie es Bhante Sujato einmal gesagt hat: Eine neue Übersetzerin steht auf den Schultern von Riesen!
+Dabei möchte ich in keiner Weise die großartige Leistung der bisherigen deutschen Übersetzer abwerten. Sie haben es mit ihrer Arbeit ermöglicht, dass die Buddhalehre im deutschsprachigen Raum bereits vor langer Zeit bekannt geworden ist und viele Menschen inspiriert hat. Und neue Übersetzungen werden immer auch auf der Basis des bereits Bestehenden entstehen. Wie es Bhante Sujato einmal gesagt hat: Als neue Übersetzerin steht man auf den Schultern von Riesen!
 
 Außerdem kann es nie eine „perfekte“ Übersetzung geben, die für alle Zeiten das Maß aller Dinge sein wird. Die Gesellschaft verändert sich, die Sprache verändert sich, Lesegewohnheiten verändern sich… vielleicht wird jede Generation wieder neue Übersetzungen hervorbringen müssen.
 
