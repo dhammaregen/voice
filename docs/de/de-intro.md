@@ -36,10 +36,10 @@ SuttaCentral Voice beherbergt neue segmentierte deutsche Übersetzungen von Anag
 > Zusätzlich ermöglicht das von Karl Lew entwickelte und auch in SuttaCentral Voice genutzte <a href="https://www.npmjs.com/package/scv-bilara" target="_blank">SCV-bilara</a> eine dreisprachige Suchfunktion, die ebenfalls sehr hilfreich ist.
 > 
 > Etwa Mitte 2019 habe ich mit dem Übersetzungsprojekt begonnen. Bisher liegen folgende Suttas vor:
-> - AN: Einer-, Zweier- und Dreierbuch, Viererbuch in Arbeit; AN 5.57; AN 7.36; AN 10.48, 10.60, 10.61
-> - SN: SN 1.1; SN 3.21; SN 5.2; SN 10.8; SN 12.1-33; SN 22.59; SN 35.28; SN 42.11; SN 45.8; SN 56.11
-> - MN: MN 2, 7, 23, 33
-> - DN: DN 33
+> - **AN**: Einer-, Zweier- und Dreierbuch; Viererbuch in Arbeit; AN 5.57; AN 7.36; AN 10.48, 10.60-61
+> - **SN**: SN 1.1; SN 3.21; SN 5.2; SN 10.8; SN 12.1-33; SN 22.59; SN 35.28; SN 42.11; SN 45.8; SN 56.11
+> - **MN**: MN 2, MN 7, MN 23, MN 33
+> - **DN**: DN 33
 > 
 > Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
 > 
