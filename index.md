@@ -22,5 +22,7 @@ Für Fragen oder Anregungen zu den segmentierten deutschen Übersetzungen auf Su
 
 Sie können auch unser <a href="https://github.com/sc-voice/dhammaregen" target="_blank">GitHub-Repo</a> einsehen und mit <a href="https://github.com/sc-voice/dhammaregen/issues/new" target="_blank">einem neuen Issue</a> Verbesserungsvorschläge einreichen.
 
+<a style="text-align: center;" href="https://sc-voice.github.io/sc-voice/" target="-blank">&#x2b95; Zur Sprachauswahl</a>
+
 ---
 *Dhammaregen* nutzt Google Analytics für statistische Erhebungen, die der Weiterentwicklung der Webseite dienen. Das schließt keine personenbezogenen Daten ein.
