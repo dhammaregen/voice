@@ -3,18 +3,19 @@
 
 @import 'jekyll-theme-dinky';
 
+ .header-link {
+    font-size:0.64em; 
+    font-style: italic;
+    line-height: 0.64em;
+    margin-top: 0.2em;
+}
+.header-main {
+    font-size: 1.2em;
+    line-height: 1.2em;
+    margin-top: 0.2em;
+}
 h1.header {
     font-size: 20px;
-}
-
-.header {
-    font-size: 120%;
-    padding-top: -20px;
-    padding-left: -20px;
-}
-
-.header > p {
-    margin-bottom: 10px;
 }
 
 a {
