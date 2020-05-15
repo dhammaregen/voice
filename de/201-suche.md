@@ -4,7 +4,7 @@ next_href: '200-using-voice'
 next_aria: 'voice benutzen'
 ---
 # Die Suchfunktion
-**Die Voice-Suchfunktion erfasst nur unterstützte Texte; Alttexte werden nicht durchsucht.**
+Die Voice-Suchfunktion erfasst nur unterstützte Texte; Alttexte werden nicht durchsucht.
 
 <details><summary><h4>Nach einem Sutta suchen</h4></summary>
 Um ein bestimmtes Sutta anzuzeigen, geben Sie das entsprechende Kürzel ein, wie etwa: 
