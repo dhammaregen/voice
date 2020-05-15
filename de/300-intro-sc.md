@@ -51,9 +51,10 @@ Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas ve
 </details>
 
 ## Indexe
+SuttaCentral hat verschiedene Indexe und ein Verzeichnis der wichtigsten Palitermini, die ebenfalls helfen können, zu finden, was man sucht.
+
 <details>
 <summary><h4>Indexe und Glossar</h4></summary>
-SuttaCentral hat verschiedene Indexe und ein Verzeichnis der wichtigsten Palitermini, die ebenfalls helfen können, zu finden, was man sucht:
 
 * <a href="https://suttacentral.net/subjects" target="_blank">Index of Subjects</a> (Englisch)
 * <a href="https://suttacentral.net/similes" target="_blank">Index of Similes</a> (Englisch)
