@@ -7,6 +7,7 @@ next_aria: 'voice benutzen'
 Die Voice-Suchfunktion erfasst nur unterstützte Texte; Alttexte werden nicht durchsucht.
 
 <details><summary><h4>Nach einem Sutta suchen</h4></summary>
+
 Um ein bestimmtes Sutta anzuzeigen, geben Sie das entsprechende Kürzel ein, wie etwa: 
 <kbd>AN12.23</kbd>
 
