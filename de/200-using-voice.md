@@ -7,7 +7,7 @@ next_href: '300-using-suttacentral'
 next_aria: 'über sutttacentral'
 ---
 # Wie funktioniert Voice?
-Am einfachsten kann man Voice benutzen, indem man auf die Schaltfläche <span class="kbd" aria-label="schaltfläche such-mir-etwas-aus">Such mir etwas aus!</span> klickt. Dadurch erhält man eine kleine Auswahl an Suchergebnissen:
+Am einfachsten kann man Voice benutzen, indem man auf die Schaltfläche <kbd><span class="kbd" aria-label="schaltfläche such-mir-etwas-aus">Such mir etwas aus!</span></kbd> klickt. Dadurch erhält man eine kleine Auswahl an Suchergebnissen:
 
 <img aria-label="bild schaltfläche such-mir-etwas-aus"
   src="/sc-voice/assets/img/such-mir-etwas-aus.png?raw=true" style="height:8em"/>
@@ -26,4 +26,3 @@ Wenn Sie ein bestimmtes <span aria-label="sutta">Sutta</span> wie etwas MN 23 fi
 * [Support-Richtlinien](/dhammaregen/de/201-support) erklärt den Unterschied zwischen unterstützten Texten und Alttexten.
 
 Wenn Sie Hilfe von der Online-Gemeinschaft suchen, gehen Sie zum <a href="https://discourse.suttacentral.net/t/how-do-you-use-suttacentral-voice/12384" target="_blank">Diskussionsforum von SuttaCentral</a> (Englisch).
-
