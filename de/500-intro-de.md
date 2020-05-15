@@ -43,7 +43,7 @@ Etwa Mitte 2019 habe ich mit dem Übersetzungsprojekt begonnen. Bisher liegen fo
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
 
-Alle Suttas können auf Voice angehört oder gelesen werden, wahlweise mit oder ohne den zugehörigen Palitext.
+Alle Suttas können auf Voice angehört oder gelesen werden, wahlweise mit oder ohne den zugehörigen Palitext. Wenn Sie in das Suchfeld die Kennziffer für ein Sutta eingeben, das noch nicht von mir übersetzt wurde, wird ein Alttext angezeigt. Bei allen Suchbegriffen, die keine Suttakennziffer sind, sowie auch beim Gebrauch der <kbd>Such mir etwas aus!</kbd>-Schaltfläche werden aus technischen Gründen lediglich segmentierte Texte durchsucht.
 
 Rückmeldungen zu den Übersetzungen sind äußerst willkommen. Sie können eine Email an dhammaregen@gmail.com senden oder sich auf dem SuttaCentral-Diskussionsforum <a href="https://discourse.suttacentral.net" target="_blank">Discourse.SuttaCentral</a> an mich wenden.
 
