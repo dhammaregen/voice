@@ -36,7 +36,7 @@ Geben Sie eine exakte Wendung ein (unabhängig von Groß- oder Kleinschreibung),
 
 Für Wendungen auf Pali können Sie Wörter in lateinischer Schrift ohne diakritische Zeichen eingeben: <kbd>chando hi mūlaṃ dukkhassa</kbd>
 
-Wenn man sich über Wortendungen nicht sicher ist, kann man auch Teile einer Wendung eingeben:<kbd>mūlaṃ dukkha</kbd>
+Wenn man sich über Wortendungen nicht sicher ist, kann man auch Teile einer Wendung eingeben: <kbd>mūlaṃ dukkha</kbd>
 </details><!--COMMENT: Phrase Search-->
 
 <details><summary><h4>Nach Schlüsselwörtern suchen</h4></summary>
@@ -57,7 +57,7 @@ Voice zeigt normalerweise bis zu fünf Suchergebnisse an. Benutzen Sie die [Eins
 
 #### Reguläre Ausdrücke
 
-Viele Benutzer von SuttaCentral haben `grep` für die Suche benutzt. `grep` ist sehr leistungsstarkes Suchprogramm und unterstützt auch die Möglichkeit, [Treffer](https://www.google.com/search?q=grep+-E+option) über [reguläre Ausdrücke](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) zu finden. SuttaCentral Voice unterstützt [Ripgrep](https://github.com/BurntSushi/ripgrep) mit regulären Ausdrücken (z. B. `wurzel.*leiden`).
+Viele Benutzer von SuttaCentral nutzen `grep` für die Suche. `grep` ist ein sehr leistungsstarkes Suchprogramm und unterstützt auch die Möglichkeit, [Treffer](https://www.google.com/search?q=grep+-E+option) über [reguläre Ausdrücke](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) zu finden. Voice unterstützt [Ripgrep](https://github.com/BurntSushi/ripgrep) mit regulären Ausdrücken (z. B. <kbd>wurzel.\*leiden</kbd>).
 
 #### Suchparameter
 
@@ -65,8 +65,8 @@ Sie können Ihre Suche mit erweiterten Einstellungen anpassen. Erweiterten Einst
 
 * **-sl ISO_LANG_2**  Legt die Sprache für die Suche fest, z. B.: <kbd>-sl de</kbd> durchsucht deutsche Texte.
 * **-d NUMBER**  Legt die maximale Zahl der Ergebnisse fest, z. B.: <kbd>-d 50</kbd> findet bis zu 50 Suttas.
-* **-ml 3**  Zeigt nur Ergebnisse, die in drei Sprachen vorliegen.
-* **-tc:mn** Beschränkt Suchergebnisse auf den Majjhima Nikaya.
+* <kbd>-ml 3</kbd>  Zeigt nur Ergebnisse, die in drei Sprachen vorliegen.
+* <kbd>-tc:mn</kbd> Beschränkt Suchergebnisse auf den Majjhima Nikaya.
 
 | Parameter | Zu durchsuchende Texte |
 | :-----: | :-----: |
