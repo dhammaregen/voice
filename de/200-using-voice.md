@@ -17,7 +17,6 @@ Man kann auch eigene Suchbegriffe eingeben wie etwa <kbd>Wurzel des Leidens</kbd
 Wenn Sie ein bestimmtes <span aria-label="sutta">Sutta</span> wie etwa MN 23 finden wollen, geben Sie die Kennziffer in das Suchfeld ein. Schreiben Sie <kbd>mn23</kbd> und drücken Sie <kbd>ENTER</kbd>. Wenn Sie mehrere Suttas gleichzeitig möchten, trennen Sie die Suttakennziffern mit Kommas ab (zum Beispiel <kbd>an10.61<span aria-label="komma"></span><span aria-hidden="true">,</span>mn23<span aria-label="komma"></span><span aria-hidden="true">,</span>sn56.11</kbd>). Wenn Sie gerne ein paar Suttas vorgeschlagen haben möchten, klicken sie auf die Schaltfläche <kbd>Such mir etwas aus!</kbd>. Sie können die Lesestimme und andere Einstellungen über das Zahradsymbol in der oberen rechten Ecke der Webseite ändern.
 
 * [Die Suchfunktion](/dhammaregen/de/201-suche) gibt Tipps, wie man die Suttas findet, die man sucht.
-* [Tipitaka-Kategorien](/dhammaregen/de/201-tipitaka) enthält die Abkürzungen für diese Kategorien für die erweiterte Suchfunktion.
 * [Suttaplayer](/dhammaregen/de/201-suttaplayer) erklärt die zweisprachige segmentweise Audiowiedergabe, die Voice für jedes Sutta ermöglicht.
 * [Einstellungen](/dhammaregen/de/201-einstellungen) beschreibt die möglichen Einstellungen.
 * [Offline Hören](/dhammaregen/de/201-offline-horen) zeigt Ihnen, wie Sie Suttas auf Ihrem Handy oder einem anderen Gerät hören können.
