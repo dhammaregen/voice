@@ -8,7 +8,7 @@ prev_aria: 'suttacentral Info'
 
 Ihre Spende ist äußerst willkommen. Sie wird die laufende Entwicklung von SuttaCentral unterstützen, so dass wir weiterhin die Worte des Buddha zu Menschen überall auf der Welt bringen können.
 
-<p style="text-align:center;"><kbd style="padding:15px;"><a href="https://suttacentral.net/donate-now">SPENDEN</a></kbd></p>
+<p style="text-align:center;"><kbd style="padding:15px;"><a href="https://suttacentral.net/donate-now" target="_blank">SPENDEN</a></kbd></p>
 
 ## Wofür verwendet SuttaCentral Geld?
 
@@ -19,7 +19,7 @@ Ihre Spende ist äußerst willkommen. Sie wird die laufende Entwicklung von Sutt
 
 ## Ethisches Banking
 
-Der *SuttaCentral Development Trust* nutzt das [*Adelaide Bendigo community sector banking*](https://www.communitysectorbanking.com.au/), das ethische und grüne Investitionsrichtlinien hat. [Die Bendigo-Bank hat sich öffentlich von fossilen Brennstoffen distanziert](https://www.climatecouncil.org.au/what-you-need-to-know-about-fossil-fuel-divestment/).
+Der *SuttaCentral Development Trust* nutzt das <a href="https://www.communitysectorbanking.com.au/" target="_blank"><em>Adelaide Bendigo community sector banking</em></a>, das ethische und grüne Investitionsrichtlinien hat. <a ref="https://www.climatecouncil.org.au/what-you-need-to-know-about-fossil-fuel-divestment/" target="_blank">Die Bendigo-Bank hat sich öffentlich von fossilen Brennstoffen distanziert</a>.
 
 <table>
 <tr>
@@ -42,12 +42,12 @@ Der *SuttaCentral Development Trust* nutzt das [*Adelaide Bendigo community sect
 <td><b>BENDAU3B</b></td></tr>
 </table>
 
-Für Fragen wenden Sie sich bitte an unsere Verantwortliche für Finanzen Deepika Weerakoon (suttacentraldevelopmenttrust@gmail.com). Deepika verwaltet die Gelder im Interesse des *SuttaCentral Development Trust*.
+Für Fragen wenden Sie sich bitte an unsere Verantwortliche für Finanzen <a href="suttacentraldevelopmenttrust@gmail.com" target="_blank">Deepika Weerakoon</a>. Deepika verwaltet die Gelder im Interesse des *SuttaCentral Development Trust*.
 
 ## SuttaCentral Development Trust
 
 Der *SuttaCentral Development Trust* ist eine gemeinnützige Organisation. Ihre Gründungsmitglieder sind Bhante Sujato, Bhante Brahmali und John Kelly. Der Trust wird von Deepika Weerakoon verwaltet.
 
-Buchhaltung und Buchprüfung des Trust werden von [Randolph Alwis & Co Pty Ltd](https://www.alwisco.com.au/) durchgeführt. Die [ABN (Australian Business Number) lautet 858 188 75744](https://abr.business.gov.au/ABN/View/858%20188%2075744).
+Buchhaltung und Buchprüfung des Trust werden von <a href="https://www.alwisco.com.au/" target="_blank">Randolph Alwis & Co Pty Ltd</a> durchgeführt. Die <a href="https://abr.business.gov.au/ABN/View/858%20188%2075744" target="_blank">ABN (Australian Business Number) lautet 858 188 75744</a>.
 
 Wenn Sie Fragen haben, können Sie nähere Angaben über die Finanzen des Trust erhalten. Der Trust wurde einzig zu dem Zweck gegründet, die Entwicklung von SuttaCentral zu unterstützen. Alle Gelder des Trust werden nur für SuttaCentral verwendet, nicht für die Verwaltung des Trust, die ehrenamtlich geleistet wird.
