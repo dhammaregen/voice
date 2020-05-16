@@ -1,7 +1,7 @@
 ---
-prev: 'Über SuttaCentral'
+prev: 'SuttaCentral Info'
 prev_href: '300-intro-sc'
-prev_aria: 'über suttacentral'
+prev_aria: 'suttacentral Info'
 ---
 # Methodik und Quellen
 <a href="https://suttacentral.net/methodology" target="_blank">Originaltext</a>
