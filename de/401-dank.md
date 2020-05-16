@@ -4,11 +4,11 @@ prev_href: '400-other'
 prev_aria: 'sonstiges'
 ---
 # Dank
-SuttaCentral Voice wurde als „kleine Schwester“ von [SuttaCentral](https://suttacentral.net) entwickelt. Das Projekt wurde 2018 von Karl Lew begonnen, dem sich bald Aminah Borg-Luck anschloss. Etwas später stieß Anagarika Sabbamitta als drittes Mitglied zum Team.
+SuttaCentral Voice wurde als „kleine Schwester“ von <a href="https://suttacentral.net" target="_blank">SuttaCentral</a> entwickelt. Das Projekt wurde 2018 von Karl Lew begonnen, dem sich bald Aminah Borg-Luck anschloss. Etwas später stieß Anagarika Sabbamitta als drittes Mitglied zum Team.
 
-Die Anwendung Voice nutzt Inhalte von der Webseite SuttaCentral und gibt sie als Sprachausgabe wieder. Wir möchten [all denen](https://suttacentral.net/acknowledgments) danken, die zu dieser außergewöhnlichen Sammlung früher buddhistischer Texte beigetragen haben und beitragen.
+Die Anwendung Voice nutzt Inhalte von der Webseite SuttaCentral und gibt sie als Sprachausgabe wieder. Wir möchten <a href="https://suttacentral.net/acknowledgments" target="_blank">all denen</a> danken, die zu dieser außergewöhnlichen Sammlung früher buddhistischer Texte beigetragen haben und beitragen.
 
-Voice nutzt Stimmen von [AWS Polly](https://aws.amazon.com/de/polly/?nc2=type_a), die an seine speziellen Bedürfnisse angepasst sind. Besonders die Anpassung der Palistimme war nicht einfach, und wir sind [vielen geduldigen Aussprachegutachtern](https://discourse.suttacentral.net/t/sc-voice-raveena-meets-slow-amy/10410) für ihre Hilfe zu Dank verpflichtet.
+Voice nutzt Stimmen von <a href="https://aws.amazon.com/de/polly/?nc2=type_a" target="_blank">AWS Polly</a>, die an seine speziellen Bedürfnisse angepasst sind. Besonders die Anpassung der Palistimme war nicht einfach, und wir sind <a href="https://discourse.suttacentral.net/t/sc-voice-raveena-meets-slow-amy/10410" target="_blank">vielen geduldigen Aussprachegutachtern</a> für ihre Hilfe zu Dank verpflichtet.
 
 Voice nutzt Google Analytics für statistische Erhebungen, die der Weiterentwicklung der Webseite dienen.
 
