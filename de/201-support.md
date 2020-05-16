@@ -1,3 +1,8 @@
+---
+prev: 'Voice benutzen'
+prev_href: '200-using-voice'
+prev_aria: 'voice benutzen'
+---
 # Support‐Richtlinien
 SuttaCentral Voice hat folgende Stufen der Unterstützung:
 
