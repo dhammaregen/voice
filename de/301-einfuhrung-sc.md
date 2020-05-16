@@ -1,3 +1,8 @@
+---
+prev: 'Über SuttaCentral'
+prev_href: '300-intro-sc'
+prev_aria: 'über suttacentral'
+---
 # Einführung zu SuttaCentral
 von Bhikkhu Sujato  
 <a href="https://suttacentral.net/introduction" target="_blank">Originaltext</a>
