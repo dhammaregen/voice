@@ -1,3 +1,8 @@
+---
+prev: 'Voice benutzen'
+prev_href: '200-using-voice'
+prev_aria: 'voice benutzen'
+---
 # Segmentierungstechnik
 Große Teile des Palikanon auf SuttaCentral liegen in segmentierter Form vor. Das heißt, der Palitext wurde in kleine semantische Einheiten zerlegt, deren Umfang von einer kurzen Wendung bis zu ein paar Sätzen reichen kann, in einigen Fällen sogar bis zu einem etwas längeren Abschnitt.
 
