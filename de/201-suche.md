@@ -57,7 +57,7 @@ Voice zeigt normalerweise bis zu fünf Suchergebnisse an. Benutzen Sie die [Eins
 
 #### Reguläre Ausdrücke
 
-Viele Benutzer von SuttaCentral nutzen `grep` für die Suche. `grep` ist ein sehr leistungsstarkes Suchprogramm und unterstützt auch die Möglichkeit, [Treffer](https://www.google.com/search?q=grep+-E+option) über [reguläre Ausdrücke](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) zu finden. Voice unterstützt [Ripgrep](https://github.com/BurntSushi/ripgrep) mit regulären Ausdrücken (z. B. <kbd>wurzel.\*leiden</kbd>).
+Viele Benutzer von SuttaCentral nutzen `grep` für die Suche. `grep` ist ein sehr leistungsstarkes Suchprogramm und unterstützt auch die Möglichkeit, <a href="https://www.google.com/search?q=grep+-E+option" target="_blank">Treffer</a> über <a href="https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck" target="-blank">reguläre Ausdrücke</a> zu finden. Voice unterstützt <a href="https://github.com/BurntSushi/ripgrep" target="_blank">Ripgrep</a> mit regulären Ausdrücken (z. B. <kbd>wurzel.\*leiden</kbd>).
 
 #### Suchparameter
 
