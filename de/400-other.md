@@ -9,7 +9,7 @@ next_aria: 'zu voice webseite'
 # Sonstiges
 
 ## Wie Sie Voice helfen können
-* <a href="https://discourse.suttacentral.net/tags/sc-voice" target="_blank">Feedback</a>: Sagen Sie uns, was Ihnen auffällt oder was Sie an Voice mögen.
+* <a href="https://discourse.suttacentral.net/tags/sc-voice" target="_blank">Feedback</a>: Sagen Sie uns, was Ihnen auffällt oder was Sie an Voice mögen; SuttaCentral-Diskussionsforum (Englisch).
 * <a href="https://sc-voice.github.io/sc-voice/en/401-translating-voice-ui" target="_blank">Translating Voice UI</a>: Helfen Sie uns, Voice international zu machen; enthält einige Richtlinien für die Übersetzung der Voice-Benutzeroberfläche in andere Sprachen (Englisch).
 
 ## Technik und Entwicklung
