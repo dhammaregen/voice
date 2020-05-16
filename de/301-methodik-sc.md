@@ -6,12 +6,12 @@ prev_aria: 'suttacentral Info'
 # Methodik und Quellen
 <a href="https://suttacentral.net/methodology" target="_blank">Originaltext</a>
 
-1. [Hintergrund](https://sc-voice.github.io/dhammaregen/docs/sc/methodik-sc#Hintergrund)
-1. [Suttaparallelen](https://sc-voice.github.io/dhammaregen/docs/sc/methodik-sc#Suttaparallelen)
-1. [Vinayaparallelen](https://sc-voice.github.io/dhammaregen/docs/sc/methodik-sc#Vinayaparallelen)
-1. [Textquellen](https://sc-voice.github.io/dhammaregen/docs/sc/methodik-sc#Textquellen)
-1. [Markup](https://sc-voice.github.io/dhammaregen/docs/sc/methodik-sc#Markup)
-1. [Bibliografie](https://sc-voice.github.io/dhammaregen/docs/sc/methodik-sc#Bibliografie)
+1. [Hintergrund](/dhammaregen/de/301-methodik-sc#Hintergrund)
+1. [Suttaparallelen](/dhammaregen/de/301-methodik-sc#Suttaparallelen)
+1. [Vinayaparallelen](/dhammaregen/de/301-methodik-sc#Vinayaparallelen)
+1. [Textquellen](/dhammaregen/de/301-methodik-sc#Textquellen)
+1. [Markup](/dhammaregen/de/301-methodik-sc#Markup)
+1. [Bibliografie](/dhammaregen/de/301-methodik-sc#Bibliografie)
 
 <h2 id="Hintergrund">Hintergrund</h2>
 
@@ -23,7 +23,7 @@ Seit dem 19. Jahrhundert haben Wissenschaftler erkannt, dass viele buddhistische
 
 2014 erstellte Bhikkhu Sujato einen Parallelensatz für den Vinaya, der zu SuttaCentral hinzugefügt wurde, und 2016 fügte Ayya Vimala Versparallelen zu den Dhammapadas hinzu.
 
-Die Daten zu den Parallelen werden in einer einzigen Datei verwaltet, [parallels.json](https://github.com/suttacentral/sc-data/blob/master/relationship/parallels.json), die sich im [GitHub-Repo von SuttaCentral](https://github.com/suttacentral) befindet.
+Die Daten zu den Parallelen werden in einer einzigen Datei verwaltet, <a href="https://github.com/suttacentral/sc-data/blob/master/relationship/parallels.json" target="_blank">parallels.json</a>, die sich im <a href="https://github.com/suttacentral" target="_blank">GitHub-Repo von SuttaCentral</a> befindet.
 
 Neben den Parallelen beherbergt SuttaCentral Originaltexte und Übersetzungen, sofern verfügbar. Eine kurze Notiz zu den Quellen dieser Texte findet sich weiter unten.
 
@@ -129,7 +129,7 @@ Unsere Texte in Originalsprachen enthalten eine Reihe textkritischer Information
 
 Textkritische Informationen sind in den Dateien mit Klassen markiert wie „var“ für abweichende Lesarten, „supplied“ für hinzugefügten Text usw. Typischerweise machen wir das optisch über den Stil erkennbar und zeigen ein Pop-up-Fenster, das die Bedeutung erklärt. Das meiste kann optional aktiviert werden.
 
-[Siehe Liste der textkritischen Markup-Klassen](https://suttacentral.net/zz1/zz/test) (englisch).
+<a href="https://suttacentral.net/zz1/zz/test" target="_blank">Siehe Liste der textkritischen Markup-Klassen</a> (englisch).
 
 ### Strukturmerkmale und Sonstiges
 
@@ -141,7 +141,7 @@ Wir benutzen semantisches Markup mit etwa hundert verschiedenen Klassen, um die 
 * Verse.
 * Titel am Ende eines Sutta oder Abschnittes. Buddhistische Texte haben gewöhnlich den Titel am Ende eines Abschnittes, statt der modernen Überschrift.
 
-[Siehe Liste der Markup-Klassen für Strukturmerkmale und Sonstiges](https://suttacentral.net/zz3/zz/test) (englisch).
+<a href="https://suttacentral.net/zz3/zz/test" target="_blank">Siehe Liste der Markup-Klassen für Strukturmerkmale und Sonstiges</a> (englisch).
 
 <h2 id="Bibliografie">Bibliografie</h2>
 
@@ -344,49 +344,49 @@ Hier sind die wichtigsten bibliografischen Quellen, die von Rod Bucknell bereitg
 
 * Banerjee, Anukul Chandra. *Sarvāstivāda Literature*, The World Press Private Limited, 1979.
 * Banerjee, Anukul Chandra. *Two Buddhist Vinaya Texts in Sanskrit (Prātimokṣa sūtra and Bhikṣukarmavākya)*, The World Press Private Limited, 1977.  
-[skt-mu-bu-pm-gbm3.pdf](https://discourse.suttacentral.net/uploads/default/original/2X/5/5cc698a7147e40ce8e6efa6354cf4e63bf4289df.pdf) (11.7 MB)  
+<a href="https://discourse.suttacentral.net/uploads/default/original/2X/5/5cc698a7147e40ce8e6efa6354cf4e63bf4289df.pdf" target="_blank">skt-mu-bu-pm-gbm3.pdf</a> (11.7 MB)  
 SC ID: skt-mu-bu-pm-gbm3.
 * Beal, Samuel. *A Catena of Buddhist Scriptures from the Chinese*, Trubner & Co., 1871.
 * Chandra, Lokesh. *Unpublished Gilgit Fragment of the Prātimokṣa Sūtra*  
-[skt-mu-bu-pm-gbm2.pdf](https://discourse.suttacentral.net/uploads/default/original/2X/a/a36850452675e4fabea360d3ad601ba496920bce.pdf) (3.0 MB)  
+<a href="https://discourse.suttacentral.net/uploads/default/original/2X/a/a36850452675e4fabea360d3ad601ba496920bce.pdf" target="_blank">skt-mu-bu-pm-gbm2.pdf</a> (3.0 MB)  
 SC ID: skt-mu-bu-pm-gbm2.
 * Clarke, Shayne. *Vinaya Mātṛkā—Mother of the Monastic codes, or Just Another Set of Lists?*, Indo-Iranian Journal, 44: 77–120, 2004.
 * Finot, Louis. *Le Prātimokṣasūtra des Sarvāstivādins*, Journale Asiatique, Nov–Dec, 1913, 465–558. (Including fragment of *bhikṣuṇī prātimokṣa*.)  
-[skt-sv-bu-pm-finot.pdf](https://discourse.suttacentral.net/uploads/default/original/2X/0/0de2b67dae51dcec8e29eee49c6890037253de88.pdf) (3.4 MB)
+<a href="https://discourse.suttacentral.net/uploads/default/original/2X/0/0de2b67dae51dcec8e29eee49c6890037253de88.pdf" target="_blank">skt-sv-bu-pm-finot.pdf</a> (3.4 MB)
 SC ID: skt-sv-bu-pm-finot.
 * Frauwallner, E. *The Earliest Vinaya and the Beginnings of Buddhist Literature*, Is. M.E.O. 1956.
 * Akira Hirakawa, in collaboration with Zenno Ikuno and Paul Groner: *Monastic Discipline for the Buddhist Nuns, an English translation of the Chinese text of the Mahāsaṁghika Bhiksuṇī Vinaya*, K. P. Jayaswal Research Institute, Patna, 1982.
 * Horner, I. B. *The Book of the Discipline*, Pali Text Society, vols. 1–6.
 * Kabalsingh, Chatsumarn. *The Bhikkhunī Patimokkha of the Six Schools*, Thammasat University, 1991.
 * R. Nishimoto, *Rajū-yaku Jūju Bikuni Haradaimokusha Kaihon no Shutsugen narabini Shobu Sō-Ni Kaihon no Taishō Kenkyū* (a recently discovered Bhipra of the Sarvāstivādins, translated by Kumārajīva, and a comparative study with the Bhipras of the other schools), Ōtani Gakuhō 9.2, 1928, pp. 27 (245)–60 (278) (with comprehensive comparative charts).  
-[nishimoto-all-compressed.zip](https://discourse.suttacentral.net/uploads/default/original/2X/9/9cd49b0ed139b2af3457c2475b155edd801bc72e.zip) (27.3 MB).
+<a href="https://discourse.suttacentral.net/uploads/default/original/2X/9/9cd49b0ed139b2af3457c2475b155edd801bc72e.zip" target="_blank">nishimoto-all-compressed.zip</a> (27.3 MB).
 * Nolot, Edith. *Regles de Discipline des Nonnes Bouddhistes*, College de France, 1991.
 * Prebish, Charles S. *A Survey of Vinaya Literature*, Jin Luen Publishing House, Taipei, 1994.
 * Pachow, W. *A Comparative Study of the Pratimoksa: On the Basis of its Chinese, Tibetan, Sanskrit and Pali Versions* , Motilal Banarsidass Publishers, 1955.
 * Rosen, Valentina. *Comparative Tables of Pratimoksha*  
-[Valentina Rosen, comparative tables of pratimoksa.pdf](https://discourse.suttacentral.net/uploads/default/original/2X/6/69e671680c0d219e7d14585209abae0b384c8809.pdf) (1.6 MB).
+<a href="https://discourse.suttacentral.net/uploads/default/original/2X/6/69e671680c0d219e7d14585209abae0b384c8809.pdf" target="_blank">Valentina Rosen, comparative tables of pratimoksa.pdf</a> (1.6 MB).
 * Tsomo, Karma Lekshe. *Sisters in Solitude*, State University of New York Press, 1996.
 * Rosen, Valentina. *Upāliparipṛcchāsūtra*, Vandenhoeck & Ruprecht, 1984.
 * Roth, Gustav. *Bhikṣuṇī Vinaya, including Bhikhṣuṇī Prakīrṇaka and a summary of the Bhikhṣu Prakīrṇaka of the Ārya Mahāsaṁghika Lokuttaravādin*, K. P. Jayaswal Research Institute, Patna, 1970.
 * Singh and Kenryo Minow, Sanghasen. *A Critical Edition and Translation of Abhisamācārikā Nāma Bhikhṣu-Prakīrṇakaḥ*, Buddhist Studies, Department of Buddhist Studies, University of Delhi, Vol. XII, 1988.  
-[Abhisamacarika ed with trs by Sanghasen and Minowa.pdf](https://discourse.suttacentral.net/uploads/default/original/2X/7/75496923e12ba733c684fa6a55f98653a0dc48e6.pdf) (13.8 MB).
+<a href="https://discourse.suttacentral.net/uploads/default/original/2X/7/75496923e12ba733c684fa6a55f98653a0dc48e6.pdf" target="_blank">Abhisamacarika ed with trs by Sanghasen and Minowa.pdf</a> (13.8 MB).
 * Tathaaloka, Ayya. *Vinaya Matrix—Reference key to precept numbering*, 2003.
 * Vidyabhusana, Satis Chandra. *So-sor-thar-pa; or, a Code of Buddhist Monastic Laws: Being the Tibetan version of Prātimokṣa of the Mūlasarvāstivāda School*, Journal of the Asiatic Society of Bengal, vol. xi, 1915, p. 29ff.  
-[bo-mu-bu-pm.pdf](https://discourse.suttacentral.net/uploads/default/original/2X/a/a8a6be946f3ea0bf2dec552df8c15952f241c9bf.pdf) (9.0 MB).
+<a href="https://discourse.suttacentral.net/uploads/default/original/2X/a/a8a6be946f3ea0bf2dec552df8c15952f241c9bf.pdf" target="_blank">bo-mu-bu-pm.pdf</a> (9.0 MB).
 * Waldschmidt, Ernst. *Bruchstücke des Bhikṣuṇī- Prātimokṣa der Sarvāstivādins, mit einer darstellung der Überlieferung des Bhikṣuṇī-Prātimokṣa in den verschiedenen Schulen*, Leipzig, 1926.  
-[(Google books)](https://books.google.com.tw/books/about/Bruchst%C3%BCcke_des_Bhik%E1%B9%A3u%E1%B9%87%C4%AB_Pr%C4%81timok.html?id=7UvhOwAACAAJ&redir_esc=y)  
-[Waldschmidt, Bruchstucke der Bhiksunipratimoksa.pdf](https://discourse.suttacentral.net/uploads/default/original/2X/9/96f85c4e0d8d1f9105e9c34334adfede261ad383.pdf) (55.2 MB).
+<a href="https://books.google.com.tw/books/about/Bruchst%C3%BCcke_des_Bhik%E1%B9%A3u%E1%B9%87%C4%AB_Pr%C4%81timok.html?id=7UvhOwAACAAJ&redir_esc=y" target="_blank">(Google books)</a>  
+<a href="https://discourse.suttacentral.net/uploads/default/original/2X/9/96f85c4e0d8d1f9105e9c34334adfede261ad383.pdf" target="_blank">Waldschmidt, Bruchstucke der Bhiksunipratimoksa.pdf</a> (55.2 MB).
 * Wille, Klaus. *Survey of the Sanskrit Manuscripts in the Turfan Collection*, Vortrag anläßlich des Workshops Digitalisierung der chinesischen, tibetischen, syrischen und Sanskrit-Texte der Berliner Turfansammlung, Berlin, 02.06.2005  
-[Willie - Survey of Buddhist manuscripts in the Turfan collection.pdf](https://discourse.suttacentral.net/uploads/default/original/2X/9/9e4ffab8ef1fb6d9614c00d84d3164efedc0a513.pdf) (96.2 KB).
+<a href="https://discourse.suttacentral.net/uploads/default/original/2X/9/9e4ffab8ef1fb6d9614c00d84d3164efedc0a513.pdf" target="_blank">Willie - Survey of Buddhist manuscripts in the Turfan collection.pdf</a> (96.2 KB).
 
 ### Dhammapadaparallelen
 
 * Ānandajoti, Bhikkhu. *Parallels to the Dhammapada Verses* (version 2.3, June 2016). Available, with a list of sources, on the author’s website:  
-[www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-Parallels/index.htm](https://www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-Parallels/index.htm).
+<a href="https://www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-Parallels/index.htm" target="_blank">www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-Parallels/index.htm</a>.
 * Su, Ken. *Correspondence Tables of Chinese Verses among T210, T212 and T213*. Āgama research group.  
-[http://yifertwtw.blogspot.tw/](http://yifertwtw.blogspot.com/).
+<a href="http://yifertwtw.blogspot.com/" target="_blank">http://yifertwtw.blogspot.tw/</a>.
 * Bollée, Willem B. *Reverse Index of the Dhammapada, Suttanipāta, Thera- and Therīgāthā Pādas with Parallels from the Āyāraṅga, Sūyagaḍa, Uttarajjhāyā Dasaveyāliya and Isibhāsiyāiṁ*.. Verlag für Orientalistische Fachpublikationen,
 Reinbek 1983.
-* Falk, Harry. *A new Gāndhārī Dharmapada (Texts from the Split Collection 3)*. [Annual Report of the International Research Institute for Advanced Buddhology, at Soka University for the Academic Year 2014. Vol. XVIII (2015)](http://iriab.soka.ac.jp/content/pdf/aririab/Vol.%20XVIII%20(2015).pdf).
+* Falk, Harry. *A new Gāndhārī Dharmapada (Texts from the Split Collection 3)*. <a href="http://iriab.soka.ac.jp/content/pdf/aririab/Vol.%20XVIII%20(2015).pdf" target="_blank">Annual Report of the International Research Institute for Advanced Buddhology, at Soka University for the Academic Year 2014. Vol. XVIII (2015)</a>.
 * Braarvig, Jens & Liland, Fredrik. University of Oslo, Faculty of Humanities.  
-[Udānavarga](https://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=71).
+<a href="https://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=71" target="_blank">Udānavarga</a>.
