@@ -14,7 +14,7 @@ SuttaCentral eröffnet einen Zugang zu diesem Material, indem es Benutzern die M
 
 Während unser Hauptfokus die Webseite ist, publizieren wir auch einige Texte in Buchform.
 
-SuttaCentral ist in ständiger Entwicklung begriffen und wird regelmäßig aktualisiert. Um über die Neuerungen auf dem Laufenden zu bleiben, [können Sie in der Kategorie *Updates* auf unserem Forum nachschauen](https://discourse.suttacentral.net/c/meta/updates).
+SuttaCentral ist in ständiger Entwicklung begriffen und wird regelmäßig aktualisiert. Um über die Neuerungen auf dem Laufenden zu bleiben, <a href="https://discourse.suttacentral.net/c/meta/updates" target="_blank">können Sie in der Kategorie *Updates* auf unserem Forum nachschauen</a>.
 
 ## Privatsphäre und Sicherheit
 
