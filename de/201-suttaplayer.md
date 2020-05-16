@@ -1,3 +1,8 @@
+---
+prev: 'Voice benutzen'
+prev_href: '200-using-voice'
+prev_aria: 'voice benutzen'
+---
 # Suttaplayer
 ![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/sutta-player-de.png?raw=true)
 
