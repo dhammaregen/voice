@@ -3,7 +3,8 @@ prev: 'Voice benutzen'
 prev_href: '200-using-voice'
 prev_aria: 'voice benutzen'
 ---
-# Segmentierungstechnik
+# Was ist ein Textsegment?
+### Segmentierungstechnik auf SuttaCentral und Voice
 Große Teile des Palikanon auf SuttaCentral liegen in segmentierter Form vor. Das heißt, der Palitext wurde in kleine semantische Einheiten zerlegt, deren Umfang von einer kurzen Wendung bis zu ein paar Sätzen reichen kann, in einigen Fällen sogar bis zu einem etwas längeren Abschnitt.
 
 Die Segmentierung wurde erstmals eingeführt, als Bhante Sujato an seiner neuen englischen Übersetzung der vier Hauptnikayas des Palikanon arbeitete; sie war erforderlich, um eine Software zur computergestützten Übersetzung zu nutzen. Jetzt wird sie auf die frühen Teile des Khuddaka Nikaya und die Vinaya-Texte ausgeweitet.
