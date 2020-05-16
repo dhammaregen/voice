@@ -22,6 +22,6 @@ next_aria: 'zu voice webseite'
 * <a href="https://sc-voice.github.io/sc-voice/en/490-zenhub" target="_blank">Notes-on-using-the-Voice-ZenHub-board</a>: (Englisch)
 
 
-## Sonstiges
+## Anderes
 * <a href="https://sc-voice.github.io/sc-voice/en/401-mispronunciations" target="_blank">Mispronunciations</a>: Aussprachefehler von Amy oder Raveena (englische Stimmen), die von Voice nicht behoben werden können (Englisch).
 * [Dank](/dhammaregen/de/401-dank): Menschen, die zur Entwicklung von SuttaCentral Voice beigetragen haben und beitragen.
