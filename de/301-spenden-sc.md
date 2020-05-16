@@ -8,7 +8,7 @@ prev_aria: 'suttacentral Info'
 
 Ihre Spende ist äußerst willkommen. Sie wird die laufende Entwicklung von SuttaCentral unterstützen, so dass wir weiterhin die Worte des Buddha zu Menschen überall auf der Welt bringen können.
 
-<kbd style="text-align: center; padding: 10px;"><a href="https://suttacentral.net/donate-now">SPENDEN</a></kbd>
+<kbd style="text-align: center; padding: 20px;"><a href="https://suttacentral.net/donate-now">SPENDEN</a></kbd>
 
 ## Wofür verwendet SuttaCentral Geld?
 
