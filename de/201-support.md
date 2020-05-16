@@ -14,7 +14,7 @@ Unterstützte Inhalte werden von SuttaCentral aktiv gepflegt, und alle Änderung
 * Wenn gewünscht, können sie mit den entsprechenden Pali-Segmenten zusammengeführt und als zweisprachiger Text Zeile für Zeile vorgelesen werden (Einstellungen > Sprachen > Zeige Palitext und Übersetzung).
 * Unterstützte Texte sind die Texte, die von der SuttaCentral Voice-Suche durchsucht werden, wenn Sie etwas in das Suchfeld eingeben.
 
-Bitte melden Sie Fehler, die Ihnen auffallen sollten, auf dem [Diskussionsforum von SuttaCentral](https://discourse.suttacentral.net/) unter „Feedback“. Fehler können vielfältige Ursachen haben und die Mittel, sie zu behenben, sind ebenfalls vielfältig. Probleme, die auf dem Diskussionsforum gemeldet werden, werden gesichtet und entsprechenden Issues auf GitHub zugeordnet oder direkt angegangen.
+Bitte melden Sie Fehler, die Ihnen auffallen sollten, auf dem <a href="https://discourse.suttacentral.net/" target="_blank">Diskussionsforum von SuttaCentral</a> unter „Feedback“. Fehler können vielfältige Ursachen haben und die Mittel, sie zu behenben, sind ebenfalls vielfältig. Probleme, die auf dem Diskussionsforum gemeldet werden, werden gesichtet und entsprechenden Issues auf GitHub zugeordnet oder direkt angegangen.
 
 ### Alt
 
@@ -24,4 +24,4 @@ Alt-Inhalte umfassen alle Texte auf SuttaCentral, die nicht segmentiert sind. Di
 * Sie können nicht mit den entsprechenden Pali-Segmenten zusammengeführt und als zweisprachiger Text Zeile für Zeile vorgelesen werden
 * Alttexte werden nicht von der SuttaCentral Voice-Suche durchsucht.
 
-Sollten Sie Fehler bemerken, die möglicherweise beim Hinzufügen dieser Dokumente zu SuttaCentral aufgetreten sind, melden Sie diese bitte auf dem [Diskussionsforum von SuttaCentral](https://discourse.suttacentral.net/) unter „Feedback“.
+Sollten Sie Fehler bemerken, die möglicherweise beim Hinzufügen dieser Dokumente zu SuttaCentral aufgetreten sind, melden Sie diese bitte auf dem <a href="https://discourse.suttacentral.net/" target="_blank">Diskussionsforum von SuttaCentral</a> unter „Feedback“.
