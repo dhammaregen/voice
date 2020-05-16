@@ -1,3 +1,8 @@
+---
+prev: 'Über SuttaCentral'
+prev_href: '300-intro-sc'
+prev_aria: 'über suttacentral'
+---
 # Sprachen auf SuttaCentral
 <a href="https://suttacentral.net/languages" target="_blank">Originaltext</a>
 
