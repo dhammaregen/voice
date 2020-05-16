@@ -1,3 +1,8 @@
+---
+prev: 'Über SuttaCentral'
+prev_href: '300-intro-sc'
+prev_aria: 'über suttacentral'
+---
 # Ein Leitfaden zu den Pali‐Suttas
 von Bhikkhu Sujato, 2019  
 <a href="https://suttacentral.net/general-guide-sujato" target="_blank">Originaltext</a>
