@@ -12,16 +12,16 @@ next_aria: 'deutsch'
 <details>
 <summary><h4>Einführende Texte zu SuttaCentral</h4></summary>
 
-* <a href="/dhammaregen/de/301-uber-sc" target="_blank">Über SuttaCentral</a>: Idee und Entstehung der Webseite SuttaCentral.
-* <a href="/dhammaregen/de/301-einfuhrung" target="_blank">Einführung zu SuttaCentral</a>: Über die Inhalte von SuttaCentral.
-* <a href="/dhammaregen/de/301-methodik" target="_blank">Methodik und Quellen</a>: Die Entdeckung von Parallelen zwischen frühen buddhistischen Texten aus verschiedenen Überlieferungen als Keim, aus dem SuttaCentral sich entwickelt hat; Textquellen und Bibliografie.
-* <a href="/dhammaregen/de/301-nummerierung" target="_blank">Nummerierung der Suttas</a>: Richtlinien für die Kennziffern früher buddhistischer Texte.
-* <a href="/dhammaregen/de/301-abkurzungen" target="_blank">Abkürzungen</a>: Unverwechselbare Kürzel für alle Texteinheiten.
-* <a href="/dhammaregen/de/301-sprachen" target="_blank">Sprachen auf SuttaCentral</a>: Alte Sprachen (Quellsprachen) und Sprachen, in die übersetzt wurde.
-* <a href="/dhammaregen/de/301-lizenzen" target="_blank">Lizenzen</a>: Urheberrecht auf SuttaCentral.
-* <a href="/dhammaregen/de/301-herunterladen" target="_blank">Zum Herunterladen</a>: EPUBs, PDFs und mehr.
-* <a href="/dhammaregen/de/301-wurdigung" target="_blank">Würdigung</a>: Menschen und Organisationen, die SuttaCentral möglich gemacht haben.
-* <a href="/dhammaregen/de/301-spenden" target="_blank">Spenden an SuttaCentral</a>: Wie Sie SuttaCentral unterstützen können.
+* [Über SuttaCentral](/dhammaregen/de/301-uber-sc): Idee und Entstehung der Webseite SuttaCentral.
+* [Einführung zu SuttaCentral](/dhammaregen/de/301-einfuhrung-sc): Über die Inhalte von SuttaCentral.
+* [Methodik und Quellen](/dhammaregen/de/301-methodik-sc): Die Entdeckung von Parallelen zwischen frühen buddhistischen Texten aus verschiedenen Überlieferungen als Keim, aus dem SuttaCentral sich entwickelt hat; Textquellen und Bibliografie.
+* [Nummerierung der Suttas](/dhammaregen/de/301-nummerierung-sc): Richtlinien für die Kennziffern früher buddhistischer Texte.
+* [Abkürzungen](/dhammaregen/de/301-abkurzungen-sc): Unverwechselbare Kürzel für alle Texteinheiten.
+* [Sprachen auf SuttaCentral](/dhammaregen/de/301-sprachen-sc): Alte Sprachen (Quellsprachen) und Sprachen, in die übersetzt wurde.
+* [Lizenzen](/dhammaregen/de/301-lizenzen-sc): Urheberrecht auf SuttaCentral.
+* [Zum Herunterladen](/dhammaregen/de/301-herunterladen-sc): EPUBs, PDFs und mehr.
+* [Würdigung](/dhammaregen/de/301-wurdigung-sc): Menschen und Organisationen, die SuttaCentral möglich gemacht haben.
+* [Spenden an SuttaCentral](/dhammaregen/de/301-spenden-sc): Wie Sie SuttaCentral unterstützen können.
 </details>
 
 ## Essays zu den frühen buddhistischen Texten auf SuttaCentral
