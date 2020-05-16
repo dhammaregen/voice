@@ -3,9 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title aria-label="dhammaregen">
+      Dhammaregen
+    </title>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166070564-1"></script>
+<script async 
+	src="https://www.googletagmanager.com/gtag/js?id=UA-166070564-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -50,6 +54,27 @@
 	<a class="menu" href="/dhammaregen/de/500-intro-de">Deutsche Übersetzungen</a>
         </p>
         {{ content }}
+	      <bottom-nav>
+{% if page.prev %}
+          <div style="inline-block">
+            <a href="{{page.prev_href}}" 
+              class="nav-button"
+              aria-label="zurück: {{page.prev_aria}}">
+                {{page.prev}}
+            </a>
+          </div>
+{% endif %}
+          <div style="inline-block">&nbsp;</div>
+{% if page.next %}
+          <div style="inline-block">
+            <a href="{{page.next_href}}" 
+              class="nav-button"
+              aria-label="weiter: {{page.next_aria}}">
+                &#x2b95; {{page.next}}
+            </a>
+          </div>
+{% endif %}
+        </bottom-nav>
       </section>
 
       <footer>
