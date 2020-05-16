@@ -2,9 +2,9 @@
 prev: 'Willkommen Voice'
 prev_href: '100-intro-voice'
 prev_aria: 'willkommen voice'
-next: 'Über SuttaCentral'
+next: 'SuttaCentral Info'
 next_href: '300-intro-sc'
-next_aria: 'über sutttacentral'
+next_aria: 'sutttacentral info'
 ---
 # Wie funktioniert Voice?
 Am einfachsten kann man Voice benutzen, indem man auf die Schaltfläche <kbd><span class="kbd" aria-label="schaltfläche such-mir-etwas-aus">Such mir etwas aus!</span></kbd> klickt. Dadurch erhält man eine kleine Auswahl an Suchergebnissen:
