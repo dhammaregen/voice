@@ -1,7 +1,7 @@
 ---
-next: 'Voice benutzen'
-next_href: '200-using-voice'
-next_aria: 'voice benutzen'
+prev: 'Voice benutzen'
+prev_href: '200-using-voice'
+prev_aria: 'voice benutzen'
 ---
 # Lesestimmen
 SuttaCentral Voice benutzt verschiedene Lesestimmen, je nach Vorliebe der Benutzer und/oder Kontext. Diese Stimmen erfüllen einen Zweck, aber sie stellen keine ideale Lösung dar. Sie sind einfach das Beste, was im Moment möglich ist. Wenn Sie eine gute Anleitung zum Chanten wünschen, wenden Sie sich bitte an ordinierte Personen.
