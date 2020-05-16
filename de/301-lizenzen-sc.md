@@ -1,3 +1,8 @@
+---
+prev: 'Über SuttaCentral'
+prev_href: '300-intro-sc'
+prev_aria: 'über suttacentral'
+---
 # Lizenzen
 <a href="https://suttacentral.net/licensing" target="_blank">Originaltext</a>
 
