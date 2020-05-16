@@ -3,7 +3,7 @@ prev: 'Willkommen Voice'
 prev_href: '100-intro-voice'
 prev_aria: 'willkommen voice'
 next: 'Über SuttaCentral'
-next_href: '300-using-suttacentral'
+next_href: '300-intro-sc'
 next_aria: 'über sutttacentral'
 ---
 # Wie funktioniert Voice?
