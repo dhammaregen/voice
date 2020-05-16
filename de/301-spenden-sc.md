@@ -42,7 +42,7 @@ Der *SuttaCentral Development Trust* nutzt das <a href="https://www.communitysec
 <td><b>BENDAU3B</b></td></tr>
 </table>
 
-Für Fragen wenden Sie sich bitte an unsere Verantwortliche für Finanzen Deepika Weerakoon (suttacentraldevelopmenttrust\@gmail.com). Deepika verwaltet die Gelder im Interesse des *SuttaCentral Development Trust*.
+Für Fragen wenden Sie sich bitte an unsere Verantwortliche für Finanzen Deepika Weerakoon (suttacentraldevelopmenttrust@gmail.com). Deepika verwaltet die Gelder im Interesse des *SuttaCentral Development Trust*.
 
 ## SuttaCentral Development Trust
 
