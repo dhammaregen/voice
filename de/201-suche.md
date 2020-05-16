@@ -1,7 +1,7 @@
 ---
-next: 'Voice benutzen'
-next_href: '200-using-voice'
-next_aria: 'voice benutzen'
+prev: 'Voice benutzen'
+prev_href: '200-using-voice'
+prev_aria: 'voice benutzen'
 ---
 # Die Suchfunktion
 Die Voice-Suchfunktion erfasst nur unterstützte Texte; Alttexte werden nicht durchsucht.
