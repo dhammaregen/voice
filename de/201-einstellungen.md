@@ -1,3 +1,8 @@
+---
+next: 'Voice benutzen'
+next_href: '200-using-voice'
+next_aria: 'voice benutzen'
+---
 # Einstellungen
 In SuttaCentral Voice können Sie viele Parameter nach Ihren Wünschen einstellen.
 
