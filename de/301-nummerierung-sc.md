@@ -1,7 +1,7 @@
 ---
-prev: 'Über SuttaCentral'
+prev: 'SuttaCentral Info'
 prev_href: '300-intro-sc'
-prev_aria: 'über suttacentral'
+prev_aria: 'suttacentral Info'
 ---
 # Nummerierung der Suttas
 <a href="https://suttacentral.net/numbering" target="_blank">Originaltext</a>
