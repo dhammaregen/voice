@@ -1,3 +1,8 @@
+---
+prev: 'Sonstiges'
+prev_href: '400-other'
+prev_aria: 'sonstiges'
+---
 # Dank
 SuttaCentral Voice wurde als „kleine Schwester“ von [SuttaCentral](https://suttacentral.net) entwickelt. Das Projekt wurde 2018 von Karl Lew begonnen, dem sich bald Aminah Borg-Luck anschloss. Etwas später stieß Anagarika Sabbamitta als drittes Mitglied zum Team.
 
