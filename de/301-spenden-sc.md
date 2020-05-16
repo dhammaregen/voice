@@ -1,3 +1,8 @@
+---
+prev: 'Über SuttaCentral'
+prev_href: '300-intro-sc'
+prev_aria: 'über suttacentral'
+---
 # Spenden an SuttaCentral
 <a href="https://suttacentral.net/donations" target="_blank">Originaltext</a>
 
