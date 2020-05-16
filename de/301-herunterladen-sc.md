@@ -1,3 +1,8 @@
+---
+prev: 'Über SuttaCentral'
+prev_href: '300-intro-sc'
+prev_aria: 'über suttacentral'
+---
 # Zum Herunterladen
 <a href="https://suttacentral.net/downloads" target="_blank">Originaltext</a>
 
