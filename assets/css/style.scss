@@ -51,6 +51,34 @@ a.menu {
     font-weight: bold;
 }
 
+bottom-nav {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  padding: 0.5rem;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+@media screen and (min-width: 768px) {
+  bottom-nav {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+.nav-button {
+  background: #754A00;
+  color: #fff;
+  border-radius: 3pt;
+  padding: 0.3em;
+  padding-left: 0.6em;
+  padding-left: 0.6em;
+}
+
 summary > h3 {
   display: inline-block;
 }
