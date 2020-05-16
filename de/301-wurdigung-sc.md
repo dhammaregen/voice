@@ -1,3 +1,8 @@
+---
+prev: 'SuttaCentral Info'
+prev_href: '300-intro-sc'
+prev_aria: 'suttacentral Info'
+---
 # Würdigung
 <a href="https://suttacentral.net/acknowledgments" target="_blank">Originaltext</a>
 
