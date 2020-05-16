@@ -19,7 +19,7 @@ Ihre Spende ist äußerst willkommen. Sie wird die laufende Entwicklung von Sutt
 
 ## Ethisches Banking
 
-Der *SuttaCentral Development Trust* nutzt das <a href="https://www.communitysectorbanking.com.au/" target="_blank"><em>Adelaide Bendigo community sector banking</em></a>, das ethische und grüne Investitionsrichtlinien hat. <a ref="https://www.climatecouncil.org.au/what-you-need-to-know-about-fossil-fuel-divestment/" target="_blank">Die Bendigo-Bank hat sich öffentlich von fossilen Brennstoffen distanziert</a>.
+Der *SuttaCentral Development Trust* nutzt das <a href="https://www.communitysectorbanking.com.au/" target="_blank"><em>Adelaide Bendigo community sector banking</em></a>, das ethische und grüne Investitionsrichtlinien hat. <a href="https://www.climatecouncil.org.au/what-you-need-to-know-about-fossil-fuel-divestment/" target="_blank">Die Bendigo-Bank hat sich öffentlich von fossilen Brennstoffen distanziert.</a>
 
 <table>
 <tr>
