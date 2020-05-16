@@ -12,7 +12,7 @@
 Auf *Dhammaregen* finden Sie:
 
 - [**Willkommen bei SuttaCentral Voice**](/dhammaregen/de-100-intro-voice)  
-- [**Übersicht über SuttaCentral**]/dhammaregen/de/300-intro-sc)   
+- [**Übersicht über SuttaCentral**](/dhammaregen/de/300-intro-sc)   
 - [**Zu den deutschen Übersetzungen**](/dhammaregen/de/500-intro-de)
 
 Alle deutschen Übersetzungen von Texten und Essays auf *Dhammaregen* sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.
