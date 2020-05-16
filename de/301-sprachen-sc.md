@@ -7,52 +7,52 @@ prev_aria: 'suttacentral Info'
 <a href="https://suttacentral.net/languages" target="_blank">Originaltext</a>
 
 ## Alte Sprachen (6)
-* [Pāli (7601)](https://suttacentral.net/languages/pli)
-* [Chinese (4619)](https://suttacentral.net/languages/lzh)
-* [Sanskrit (799)](https://suttacentral.net/languages/san)
-* [Tibetan (51)](https://suttacentral.net/languages/xct)
-* [Gāndhārī (35)](https://suttacentral.net/languages/pgd)
-* [Prākrit (23)](https://suttacentral.net/languages/pra)
+* <a href="https://suttacentral.net/languages/pli" target="_blank">Pāli (7601)</a>
+* <a href="https://suttacentral.net/languages/lzh" target="_">Chinese (4619)</a>
+* <a href="https://suttacentral.net/languages/san" target="_blank">Sanskrit (799)</a>
+* <a href="https://suttacentral.net/languages/xct" target="_blank">Tibetan (51)</a>
+* <a href="https://suttacentral.net/languages/pgd" target="_blank">Gāndhārī (35)</a>
+* <a href="https://suttacentral.net/languages/pra" target="_blank">Prākrit (23)</a>
 
 ## Moderne Sprachen (41)
-* [English (8413)](https://suttacentral.net/languages/en)
-* [Tiếng Việt (8162)](https://suttacentral.net/languages/vi)
-* [සිංහල (5460)](https://suttacentral.net/languages/si)
-* [Deutsch (4976)](https://suttacentral.net/languages/de)
-* [Indonesian (4262)](https://suttacentral.net/languages/id)
-* [ру́сский язы́к (3834)](https://suttacentral.net/languages/ru)
-* [မြန်မာဘာသာ (3697)](https://suttacentral.net/languages/my)
-* [汉语 (3400)](https://suttacentral.net/languages/zh)
-* [ไทย (3233)](https://suttacentral.net/languages/th)
-* [Español (2333)](https://suttacentral.net/languages/es)
-* [Norsk (2312)](https://suttacentral.net/languages/no)
-* [Português (1723)](https://suttacentral.net/languages/pt)
-* [Italiano (1116)](https://suttacentral.net/languages/it)
-* [Français (1093)](https://suttacentral.net/languages/fr)
-* [Bengali (838)](https://suttacentral.net/languages/bn)
-* [Català (556)](https://suttacentral.net/languages/ca)
-* [Nederlands (463)](https://suttacentral.net/languages/nl)
-* [日本語 (453)](https://suttacentral.net/languages/jpn)
-* [Magyar (409)](https://suttacentral.net/languages/hu)
-* [Čeština (329)](https://suttacentral.net/languages/cs)
-* [Slovenščina (206)](https://suttacentral.net/languages/sl)
-* [हिन्दी (186)](https://suttacentral.net/languages/hi)
-* [Srpski (142)](https://suttacentral.net/languages/sr)
-* [தமிழ் (110)](https://suttacentral.net/languages/ta)
-* [Hebrew (90)](https://suttacentral.net/languages/he)
-* [Svenska (74)](https://suttacentral.net/languages/sv)
-* [Afrikaans (73)](https://suttacentral.net/languages/af)
-* [Polski (47)](https://suttacentral.net/languages/pl)
-* [한국어/조선말 (29)](https://suttacentral.net/languages/ko)
-* [Latine (28)](https://suttacentral.net/languages/la)
-* [मराठी (27)](https://suttacentral.net/languages/mr)
-* [Română (20)](https://suttacentral.net/languages/ro)
-* [hrvatski (11)](https://suttacentral.net/languages/hr)
-* [Suomi (5)](https://suttacentral.net/languages/fi)
-* [Saarländisch (2)](https://suttacentral.net/languages/sld)
-* [Klingon (1)](https://suttacentral.net/languages/kln)
-* [Vulcan (1)](https://suttacentral.net/languages/vu)
-* [Farsi (1)](https://suttacentral.net/languages/fa)
-* [Sindarin (1)](https://suttacentral.net/languages/ev)
-* [Aurebesh (1)](https://suttacentral.net/languages/au)
-* [Arabic (1)](https://suttacentral.net/languages/ar)
+* <a href="https://suttacentral.net/languages/en" target="_blank">English (8413)</a>
+* <a href="https://suttacentral.net/languages/vi" target="_blank">Tiếng Việt (8162)</a>
+* <a href="https://suttacentral.net/languages/si" target="_blank">සිංහල (5460)</a>
+* <a href="https://suttacentral.net/languages/de" target="_blank">Deutsch (4976)</a>
+* <a href="https://suttacentral.net/languages/id" target="_blank">Indonesian (4262)</a>
+* <a href="https://suttacentral.net/languages/ru" target="_blank">ру́сский язы́к (3834)</a>
+* <a href="https://suttacentral.net/languages/my" target="_blank">မြန်မာဘာသာ (3697)</a>
+* <a href="https://suttacentral.net/languages/zh" target="_blank">汉语 (3400)</a>
+* <a href="https://suttacentral.net/languages/th" target="_blank">ไทย (3233)</a>
+* <a href="https://suttacentral.net/languages/es" target="_blank">Español (2333)</a>
+* <a href="https://suttacentral.net/languages/no" target="_blank">Norsk (2312)</a>
+* <a href="https://suttacentral.net/languages/pt" target="_blank">Português (1723)</a>
+* <a href="https://suttacentral.net/languages/it" target="_blank">Italiano (1116)</a>
+* <a href="https://suttacentral.net/languages/fr" target="_blank">Français (1093)</a>
+* <a href="https://suttacentral.net/languages/bn" target="_blank">Bengali (838)</a>
+* <a href="https://suttacentral.net/languages/ca" target="_blank">Català (556)</a>
+* <a href="https://suttacentral.net/languages/nl" target="_blank">Nederlands (463)</a>
+* <a href="https://suttacentral.net/languages/jpn" target="_blank">日本語 (453)</a>
+* <a href="https://suttacentral.net/languages/hu" target="_blank">Magyar (409)</a>
+* <a href="https://suttacentral.net/languages/cs" target="_blank">Čeština (329)</a>
+* <a href="https://suttacentral.net/languages/sl" target="_blank">Slovenščina (206)</a>
+* <a href="https://suttacentral.net/languages/hi" target="_blank">हिन्दी (186)</a>
+* <a href="https://suttacentral.net/languages/sr" target="_blank">Srpski (142)</a>
+* <a href="https://suttacentral.net/languages/ta" target="_blank">தமிழ் (110)</a>
+* <a href="https://suttacentral.net/languages/he" target="_blank">Hebrew (90)</a>
+* <a href="https://suttacentral.net/languages/sv" target="_blank">Svenska (74)</a>
+* <a href="https://suttacentral.net/languages/af" target="_blank">Afrikaans (73)</a>
+* <a href="https://suttacentral.net/languages/pl" target="_blank">Polski (47)</a>
+* <a href="https://suttacentral.net/languages/ko" target="_blank">한국어/조선말 (29)</a>
+* <a href="https://suttacentral.net/languages/la" target="_blank">Latine (28)</a>
+* <a href="https://suttacentral.net/languages/mr" target="_blank">मराठी (27)</a>
+* <a href="https://suttacentral.net/languages/ro" target="_blank">Română (20)</a>
+* <a href="https://suttacentral.net/languages/hr" target="_blank">hrvatski (11)</a>
+* <a href="https://suttacentral.net/languages/fi" target="_blank">Suomi (5)</a>
+* <a href="https://suttacentral.net/languages/sld" target="_blank">Saarländisch (2)</a>
+* <a href="https://suttacentral.net/languages/kln" target="_blank">Klingon (1)</a>
+* <a href="https://suttacentral.net/languages/vu" target="_blank">Vulcan (1)</a>
+* <a href="https://suttacentral.net/languages/fa" target="_blank">Farsi (1)</a>
+* <a href="https://suttacentral.net/languages/ev" target="_blank">Sindarin (1)</a>
+* <a href="https://suttacentral.net/languages/au" target="_blank">Aurebesh (1)</a>
+* <a href="https://suttacentral.net/languages/ar" target="_blank">Arabic (1)</a>
