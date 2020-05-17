@@ -3,14 +3,14 @@ prev: 'Voice benutzen'
 prev_href: '200-using-voice'
 prev_aria: 'voice benutzen'
 ---
-# Offline hören
-SuttaCentral Voice auf dem Handy anzuhören, ist nicht so einfach. Am lästigsten ist dabei, dass das Handy nach einer Weile auf Energiesparen umstellt und in den Ruhezustand schaltet. Es ist zwar möglich, diesen Zeitraum zu verlängern (z. B. Einstellungen > Anzeige > Ruhezustand), allerdings geht das mit einem hohen Energieverbrauch einher. Effizienter ist es, die Suttas zum Offline hören herunterzuladen.
+# Offlinehören
+Es ist nicht so einfach, Voice auf dem Handy anzuhören. Am lästigsten ist dabei, dass das Handy nach einer Weile auf Energiesparen umstellt und in den Ruhezustand schaltet. Es ist zwar möglich, diesen Zeitraum zu verlängern (z. B. Einstellungen > Anzeige > Ruhezustand), allerdings geht das mit einem hohen Energieverbrauch einher. Effizienter ist es, die Suttas zum Offlinehören herunterzuladen.
 
-Zum Offline hören mit einem Handy oder einem anderen Audiogerät laden Sie am besten eine Audiodatei von SuttaCentral Voice herunter. Diese Datei können Sie auf Ihr Handy oder Audiogerät kopieren. Die SuttaCentral Voice-Webseite ist nicht zum mobilen Hören ausgelegt. Mobile Geräte sind leistungsstark, aber ein Webbrowser verbraucht auf dem Handy viel Strom. Anstatt über den Browser auf dem Handy hören Sie Ihr Sutta besser direkt von einer heruntergeladenen Datei. Das gilt besonders für iPhones, da sie strenge Einschränkungen für HTML5-Audioelemente haben.
+Zum Offlinehören mit einem Handy oder einem anderen Audiogerät laden Sie am besten eine Audiodatei von Voice herunter. Diese Datei können Sie auf Ihr Handy oder Audiogerät kopieren. Die Voice-Webseite ist nicht zum mobilen Hören ausgelegt. Mobile Geräte sind leistungsstark, aber ein Webbrowser verbraucht auf dem Handy viel Strom. Anstatt über den Browser auf dem Handy hören Sie Ihr Sutta besser direkt von einer heruntergeladenen Datei. Das gilt besonders für iPhones, da sie deutliche Einschränkungen für HTML5-Audioelemente haben.
 
 ### Audiodateien herunterladen
 
-Öffnen Sie die SuttaCentral Voice-Webseite auf einem Desktop-Computer und suchen Sie ein oder mehrere Sutta(s). Neben der Wiedergabe-Schaltfläche sehen Sie einen Download-Pfeil, mit dem Sie das ausgewählte Sutta (die ausgewählten Suttas) herunterladen können.
+Öffnen Sie die Voice-Webseite auf einem Desktop-Computer und suchen Sie ein oder mehrere Suttas. Neben der Wiedergabe-Schaltfläche sehen Sie einen Download-Pfeil, mit dem Sie das ausgewählte Sutta (die ausgewählten Suttas) herunterladen können.
 
 ![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/download_sutta.png?raw=true)
 
@@ -25,7 +25,7 @@ Kopieren Sie die heruntergeladene Audiodatei auf Ihr Handy oder Audiogerät (zum
 1. Wählen Sie die entsprechende Offline-Option für Ihren Cloudanbieter aus (s. Tabelle 1).
 1. Klicken Sie „Start“ zum Abspielen.
 
-Offline hören über eine Cloudanbieter-App hat minimalen Stromverbrauch und ist die beste Möglichkeit, wie Sie auf einem iPhone ganze Suttas hören können.
+Offlinehören über eine Cloudanbieter-App hat minimalen Stromverbrauch und ist die beste Möglichkeit, wie Sie auf einem iPhone ganze Suttas hören können.
 
 ##### TABELLE 1
 
