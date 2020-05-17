@@ -19,7 +19,7 @@ Wenn Sie ein bestimmtes <span aria-label="sutta">Sutta</span> wie etwa MN 23 fin
 * [Die Suchfunktion](/dhammaregen/de/201-suche) gibt Tipps, wie man die Suttas findet, die man sucht.
 * [Suttaplayer](/dhammaregen/de/201-suttaplayer) erklärt die zweisprachige segmentweise Audiowiedergabe, die Voice für jedes Sutta ermöglicht.
 * [Einstellungen](/dhammaregen/de/201-einstellungen) beschreibt die möglichen Einstellungen.
-* [Offline Hören](/dhammaregen/de/201-offline-horen) zeigt Ihnen, wie Sie Suttas auf Ihrem Handy oder einem anderen Gerät hören können.
+* [Offlinehören](/dhammaregen/de/201-offlinehoren) zeigt Ihnen, wie Sie Suttas auf Ihrem Handy oder einem anderen Gerät hören können.
 * [Lesestimmen](/dhammaregen/de/201-lesestimmen) beschreibt die verschiedenen Lesestimmen, die von Voice benutzt werden.
 * [Was ist ein Textsegment?](/dhammaregen/de/201-segmentierung) erklärt die technische Grundlage, auf der SuttaCentral Voice aufgebaut ist.
 * [Support-Richtlinien](/dhammaregen/de/201-support) erklärt den Unterschied zwischen unterstützten Texten und Alttexten.
