@@ -78,6 +78,12 @@ bottom-nav {
   border-width: 2.5px;
   border-color: #754A00;
   padding: 0.3em;
+  padding-left: 0.6em;
+  padding-right: 0.6em;
+  font-weight: 600;
+}
+.nav-button:focus {
+  border-color: #c9e1f7; 
 }
 
 summary > h3 {
