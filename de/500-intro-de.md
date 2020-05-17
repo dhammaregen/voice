@@ -24,7 +24,7 @@ Als dann Bhante Sujato 2018 seine neuen englischen Übersetzungen auf SuttaCentr
 
 Dabei möchte ich in keiner Weise die großartige Leistung der bisherigen deutschen Übersetzer abwerten. Sie haben es mit ihrer Arbeit ermöglicht, dass die Buddhalehre im deutschsprachigen Raum bereits vor langer Zeit bekannt geworden ist und viele Menschen inspiriert hat. Und neue Übersetzungen werden immer auch auf der Basis des bereits Bestehenden entstehen. Wie es Bhante Sujato einmal gesagt hat: Als neue Übersetzerin steht man auf den Schultern von Riesen!
 
-Außerdem kann es nie eine „perfekte“ Übersetzung geben, die für alle Zeiten das Maß aller Dinge sein wird. Die Gesellschaft verändert sich, die Sprache verändert sich, Lesegewohnheiten verändern sich… vielleicht wird jede Generation wieder neue Übersetzungen hervorbringen müssen.
+Außerdem kann es nie *die* eine perfekte Übersetzung geben, die für alle Zeiten gültig ist. Die Gesellschaft verändert sich, die Sprache verändert sich, Lesegewohnheiten verändern sich… vielleicht wird jede Generation wieder neue Übersetzungen hervorbringen müssen.
 
 Meine eigene Arbeit sehe ich jedenfalls nicht als etwas an, das ein für allemal den buddhistischen Kanon in deutscher Sprache festschreiben soll. Was ich sicher sagen kann, ist, dass es für mich selbst ausgesprochen fruchtbar ist, diese Arbeit zu tun und in dieser Weise in die Suttas einzutauchen. Meine Hoffnung ist, dass auch andere von meinem Ansatz profitieren, und dass die Suttas wenigstens für manche Menschen ein bisschen leichter zugänglich werden, dass manche vielleicht die tiefe Freude nachempfinden können, die für mich mit diesen Texten verbunden ist.
 
