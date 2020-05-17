@@ -6,13 +6,13 @@ prev_aria: 'voice benutzen'
 # Suttaplayer
 ![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/sutta-player-de.png?raw=true)
 
-Der Suttaplayer spielt Sutta-Textsegmente ab, wobei abwechselnd Pali und die Übersetzung gelesen wird. Mit der Wiedergabe/Pause-Schaltfläche links unten können Sie die Wiedergabe starten oder pausieren. Die Wiedergabe läuft segmentweise ab bis zum Ende des Sutta oder der Wiedergabeliste.
+Der Suttaplayer spielt Sutta-Textsegmente ab, wobei abwechselnd Pali und die Übersetzung gelesen wird. Mit der <kbd>Wiedergabe/Pause</kbd>-Schaltfläche links unten können Sie die Wiedergabe starten oder pausieren. Die Wiedergabe läuft segmentweise ab bis zum Ende des Sutta oder der Wiedergabeliste.
 
 ### Navigation
 
 Wenn die Wiedergabe pausiert ist, können Sie zwischen Textsegmenten navigieren:
 
-* Klicken Sie auf den horizontalen Schieberegler oder wählen Sie ihn mit dem Bildschirmleser aus. Damit können Sie sich zwischen den Segmenten innerhalb des jeweiligen Abschnitts bewegen. Mit den links/rechts-Pfeiltasten bewegen Sie den Regler zum vorherigen/nächsten Segment. Mit UMSCHALTEN-links/UMSCHALTEN-rechts springen Sie in größeren Schritten.
+* Klicken Sie auf den horizontalen Schieberegler oder wählen Sie ihn mit dem Bildschirmleser aus. Damit können Sie sich zwischen den Segmenten innerhalb des jeweiligen Abschnitts bewegen. Mit den <kbd>links</kbd>/<kbd>rechts</kbd>-Pfeiltasten bewegen Sie den Regler zum vorherigen/nächsten Segment. Mit <kbd>UMSCHALTEN-links</kbd>/<kbd>UMSCHALTEN-rechts</kbd> springen Sie in größeren Schritten.
 * Klicken Sie auf schnellen Vorlauf oder Rücklauf, um zum vorherigen oder nächsten Abschnitt zu springen.
 
 ### Suttaplayer konfigurieren
