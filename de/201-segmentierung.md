@@ -14,7 +14,7 @@ Als nun segmentierte Texte auf SuttaCentral vorlagen, stellte sich heraus, dass 
 
 Die Entwicklung von SuttaCentral Voice beruht ganz auf dieser Segmentierungstechnik; das ist der Grund, weshalb nur segmentierte Texte voll unterstützt werden können (siehe [Support-Richtlinien](https://sc-voice.github.io/dhammaregen/docs/voice/support)).
 
-Segmente sind in SuttaCentral Voice mehrsprachig angelegt und erscheinen in der Praxis zweisprachig. Das heißt, jedes Segment besteht aus zwei Zeilen, einer in der Quellsprache (Pali) und einer in der Sprache der Übersetzung (Deutsch):
+Segmente sind in SuttaCentral Voice mehrsprachig angelegt und erscheinen in der Praxis zweisprachig. Das heißt, jedes Segment besteht aus zwei Zeilen, einer in der Quellsprache (Pali) und einer in der Übersetzungssprache (Deutsch):
 
 ```
 pli: Chando hi mūlaṁ dukkhassa.
