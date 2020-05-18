@@ -62,7 +62,9 @@
             <a href="{{page.prev_href}}" 
               class="nav-button"
               aria-label="zurück: {{page.prev_aria}}">
-                {{page.prev}} &#x2190;
+                {{page.prev}}&nbsp;<img
+                src="/sc-voice/assets/img/lft-arrow.png"
+                class="nav-img"/>
             </a>
           </div>
 {% endif %}
@@ -72,7 +74,9 @@
             <a href="{{page.next_href}}" 
               class="nav-button"
               aria-label="weiter: {{page.next_aria}}">
-                &#x2192; {{page.next}}
+               <img src="/sc-voice/assets/img/rht-arrow.png"
+                class="nav-img"
+                />&nbsp;{{page.next}}
             </a>
           </div>
 {% endif %}
