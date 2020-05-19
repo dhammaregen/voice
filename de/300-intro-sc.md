@@ -28,7 +28,7 @@ next_aria: 'deutsch'
 Auf SuttaCentral gibt es verschiedene Essays, die in die Texte einführen und sie erläutern.
 
 <details>
-<summary><h4>Die drei Körbe (Pali: <em>Tipiṭaka</em>)</h4></summary>
+<summary><h3>Die drei Körbe (Pali: <em>Tipiṭaka</em>)</h3></summary>
 Sie finden auf SuttaCentral allgemeine Einführungen zu den drei Abschnitten oder „Körben“ des Palikanon, in denen die Texte überliefert sind: 
 
 * <a href="https://suttacentral.net/discourses" target="_blank">
@@ -40,7 +40,7 @@ Sie finden auf SuttaCentral allgemeine Einführungen zu den drei Abschnitten ode
 </details>
 
 <details>
-<summary><h4>Essays von Bhikkhu Sujato zu den Pali-Suttas</h4></summary>
+<summary><h3>Essays von Bhikkhu Sujato zu den Pali-Suttas</h3></summary>
 Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas verfasst, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln:
 
 * [Ein Leitfaden zu den Pali‐Suttas](/dhammaregen/de/321-leitfaden-palisuttas)
@@ -54,7 +54,7 @@ Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas ve
 SuttaCentral hat verschiedene Indexe und ein Verzeichnis der wichtigsten Palitermini, die ebenfalls helfen können, zu finden, was man sucht.
 
 <details>
-<summary><h4>Indexe und Glossar</h4></summary>
+<summary><h3>Indexe und Glossar</h3></summary>
 
 * <a href="https://suttacentral.net/subjects" target="_blank">Index of Subjects</a> (Englisch)
 * <a href="https://suttacentral.net/similes" target="_blank">Index of Similes</a> (Englisch)
