@@ -6,6 +6,16 @@
 h1,h2,h3,h4,h5 {
   font-family: Helvetica, sans-serif;
   font-weight: 600;
+  margin-top: 1.5em;
+}
+h1 {
+  font-size: 24px;
+}
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-size: 16px;
 }
 
 .kbd,kbd {
@@ -29,33 +39,37 @@ blockquote > ul {
 
 header {
   min-width: 200px;
+  font-size: 24px;
+  font-family: Helvetica, sans-serif;
+  line-height: 1em;
+  padding: 24px 0px 30px 20px;
 }
-
+@media print, screen and (max-width: 720px)  {
+  header {
+    padding: 14px 0px 20px 20px;
+    margin-right: 0;
+  }
 .header-link {
-    font-size:0.64em; 
+    font-size:12.7px; 
     font-style: italic;
     color: #ce8400;
-    line-height: 0.64em;
+    line-height: 1em;
     margin-top: 0.2em;
 }
 .header-main {
-    font-size: 1.2em;
-    font-weight: 600;
-    line-height: 1.2em;
-    margin-top: 0.2em;
-}
-h1.header {
-    font-size: 20px;
-    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    line-height: 1.1em;
 }
 
 a {
-    font-weight: 600;
-    color: #000000;
+  font-weight: 600;
+  color: #222;
+  font-family: Helvetica, sans-serif;
+  font-size: 0.9em;
 }
 
 a.menu {
-    font-weight: bold;
+    font-weight: 800;
 }
 
 bottom-nav {
@@ -79,14 +93,17 @@ bottom-nav {
 }
 .nav-button {
   background: #ffffff;
-  color: #000000;
+  color: #222;
   border-radius: 3pt;
   border-style: solid;
   border-width: 1pt;
-  border-color: #000000;
-  padding: 0.3em;
+  border-color: #222;
+  padding-top: 0.2em
+  padding-bottom: 0.3em;
   padding-left: 0.6em;
   padding-right: 0.6em;
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
   font-weight: 600;
 }
 .nav-button:focus {
