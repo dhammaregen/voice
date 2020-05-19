@@ -10,7 +10,7 @@ next_aria: 'deutsch'
 <a href="https://suttacentral.net" target="_blank">SuttaCentral</a> ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen in frühen Texten. In diesen einführenden Texten können Sie mehr über die Idee und den Aufbau von SuttaCentral erfahren:
 
 <details>
-<summary><h4>Einführende Texte zu SuttaCentral</h4></summary>
+<summary><h3>Einführende Texte zu SuttaCentral</h3></summary>
 
 * [Über SuttaCentral](/dhammaregen/de/301-uber-sc): Idee und Entstehung der Webseite SuttaCentral.
 * [Einführung zu SuttaCentral](/dhammaregen/de/301-einfuhrung-sc): Über die Inhalte von SuttaCentral.
