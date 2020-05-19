@@ -4,7 +4,7 @@ prev_href: '300-intro-sc'
 prev_aria: 'suttacentral Info'
 ---
 # Einführung zu SuttaCentral
-von Bhikkhu Sujato  
+*Bhikkhu Sujato*  
 <a href="https://suttacentral.net/introduction" target="_blank">Originaltext</a>
 
 ## Die Worte des Buddha
