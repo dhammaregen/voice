@@ -12,7 +12,7 @@ SuttaCentral Voice beherbergt neue segmentierte deutsche Übersetzungen von Anag
 
 ## Weshalb neue Übersetzungen?
 
-von Anagarika Sabbamitta, 2020
+*Anagarika Sabbamitta, 2020*
 
 Die deutschsprachige Welt ist in der glücklichen Lage, dass es bereits viele deutsche Übersetzungen früher buddhistischer Texte gibt. Der Palikanon ist weitgehend abgedeckt, und Deutsch gehörte zu den ersten europäischen Sprachen, in die buddhistische Texte übersetzt wurden.
 
