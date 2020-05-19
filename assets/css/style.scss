@@ -68,7 +68,9 @@ a {
 a:hover {
   color: #ce8400
 }
-
+a:focus {
+  color: #ce8400
+}
 a.menu {
     font-weight: 800;
 }
