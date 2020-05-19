@@ -63,10 +63,10 @@ header {
 }
 
 a {
-  font-weight: 600;
-  color: #222;
-  font-family: Helvetica, sans-serif;
-  font-size: 0.9em;
+  text-decoration: underline;
+}
+a:hover {
+  color: #e60000
 }
 
 a.menu {
