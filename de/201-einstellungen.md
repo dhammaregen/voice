@@ -2,6 +2,9 @@
 prev: 'Voice benutzen'
 prev_href: '200-using-voice'
 prev_aria: 'voice benutzen'
+next: 'SuttaplayerOfflinehören'
+next_href: '201-offlinehoren'
+next_aria: 'offlinehören'
 ---
 # Einstellungen
 In SuttaCentral Voice können Sie viele Parameter nach Ihren Wünschen einstellen.
