@@ -21,4 +21,4 @@ Segmente sind in SuttaCentral Voice mehrsprachig angelegt und erscheinen in der 
 pli: Chando hi mūlaṁ dukkhassa.
 de: Denn Sehnen ist die Wurzel des Leidens.
 ```
-Dadurch wird es möglich, dass Sie ein Sutta, Segment für Segment, abwechselnd auf Pali und Deutsch hören können (siehe [Einstellungen](https://sc-voice.github.io/dhammaregen/docs/voice/einstellungen)).
+Dadurch wird es möglich, dass Sie ein Sutta, Segment für Segment, abwechselnd auf Pali und Deutsch hören können (siehe [Einstellungen](/dhammaregen/de/201-einstellungen)).
