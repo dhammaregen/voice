@@ -2,6 +2,9 @@
 prev: 'Voice benutzen'
 prev_href: '200-using-voice'
 prev_aria: 'voice benutzen'
+next: 'Suttaplayer'
+next_href: '201-suttaplayer'
+next_aria: 'sutttaplayer'
 ---
 # Die Suchfunktion
 Die Voice-Suchfunktion erfasst nur unterstützte Texte; Alttexte werden nicht durchsucht.
