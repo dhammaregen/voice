@@ -21,7 +21,7 @@ Wenn Sie ein bestimmtes <span aria-label="sutta">Sutta</span> wie etwa MN 23 fin
 * [Einstellungen](/dhammaregen/de/201-einstellungen) beschreibt die möglichen Einstellungen.
 * [Offlinehören](/dhammaregen/de/201-offlinehoren) zeigt Ihnen, wie Sie Suttas auf Ihrem Handy oder einem anderen Gerät hören können.
 * [Lesestimmen](/dhammaregen/de/201-lesestimmen) beschreibt die verschiedenen Lesestimmen, die von Voice benutzt werden.
-* [Was ist ein Textsegment?](/dhammaregen/de/201-segmentierung) erklärt die technische Grundlage, auf der SuttaCentral Voice aufgebaut ist.
+* [Textsegmente](/dhammaregen/de/201-segmentierung) erklärt die technische Grundlage, auf der SuttaCentral Voice aufgebaut ist.
 * [Support-Richtlinien](/dhammaregen/de/201-support) erklärt den Unterschied zwischen unterstützten Texten und Alttexten.
 
 Wenn Sie Hilfe von der Online-Gemeinschaft suchen, gehen Sie zum <a href="https://discourse.suttacentral.net/t/how-do-you-use-suttacentral-voice/12384" target="_blank">Diskussionsforum von SuttaCentral</a> (Englisch).
