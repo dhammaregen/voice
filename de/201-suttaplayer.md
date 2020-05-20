@@ -2,6 +2,9 @@
 prev: 'Voice benutzen'
 prev_href: '200-using-voice'
 prev_aria: 'voice benutzen'
+next: 'Einstellungen'
+next_href: '201-einstellungen'
+next_aria: 'einstellungen'
 ---
 # Suttaplayer
 ![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/sutta-player-de.png?raw=true)
