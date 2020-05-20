@@ -2,6 +2,9 @@
 prev: 'Voice benutzen'
 prev_href: '200-using-voice'
 prev_aria: 'voice benutzen'
+next: 'Lesestimmen'
+next_href: '201-lesestimmen'
+next_aria: 'lesestimmen'
 ---
 # Offlinehören
 Es ist nicht so einfach, Voice auf dem Handy anzuhören. Am lästigsten ist dabei, dass das Handy nach einer Weile auf Energiesparen umstellt und in den Ruhezustand schaltet. Es ist zwar möglich, diesen Zeitraum zu verlängern (z. B. Einstellungen > Anzeige > Ruhezustand), allerdings geht das mit einem hohen Energieverbrauch einher. Effizienter ist es, die Suttas zum Offlinehören herunterzuladen.
