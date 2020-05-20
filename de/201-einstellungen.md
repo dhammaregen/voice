@@ -2,7 +2,7 @@
 prev: 'Voice benutzen'
 prev_href: '200-using-voice'
 prev_aria: 'voice benutzen'
-next: 'SuttaplayerOfflinehören'
+next: 'Offlinehören'
 next_href: '201-offlinehoren'
 next_aria: 'offlinehören'
 ---
