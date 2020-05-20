@@ -2,6 +2,9 @@
 prev: 'Voice benutzen'
 prev_href: '200-using-voice'
 prev_aria: 'voice benutzen'
+next: 'Support-Richtlinien'
+next_href: '201-support'
+next_aria: 'support-richtlinien'
 ---
 # Was ist ein Textsegment?
 Segmentierungstechnik auf SuttaCentral und Voice
