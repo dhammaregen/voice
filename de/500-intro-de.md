@@ -60,4 +60,4 @@ Rückmeldungen zu den Übersetzungen sind äußerst willkommen. Sie können eine
 - Die Rede über den Kuhhirten aus dem chinesischen Saṁyuktāgama, <a href="https://suttacentral.net/sa1249/de/sabbamitta" target="_blank">SA 1249</a>, eine Parallele zu <a href="https://voice.suttacentral.net/scv/index.html?r=0.02687837185806985#/sutta?search=mn33" target="_blank">MN 33</a> (Die Übersetzung wurde auf der Grundlage <a href="https://www.buddhismuskunde.uni-hamburg.de/personen/analayo" target="_blank">von Bhikkhu Anālayos englischer Übersetzung</a> erstellt.)
 - Saarländisch: Es Metta-Sutta in <a href="https://suttacentral.net/snp1.8/sld/sabbamitta" target="_blank">Snp 1.8</a> und <a href="https://suttacentral.net/kp9/sld/sabbamitta" target="_blank">Kp 9</a> (Die Übersetzung wurde auf der Grundlage <a href="https://suttacentral.net/kp9/en/amaravati" target="_blank">der englischen Übersetzung des Amaravati-Sangha</a> erstellt.)  
 
-  AUDIO: <a href="/dhammaregen/assets/audio/mettasutta-sld.mp3" target="_blank">Metta-Sutta Saarländisch</a>
+  Audio: <a href="/dhammaregen/assets/audio/mettasutta-sld.mp3" target="_blank">Metta-Sutta Saarländisch</a>
