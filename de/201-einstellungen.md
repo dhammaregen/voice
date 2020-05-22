@@ -9,11 +9,11 @@ next_aria: 'offlinehören'
 # Einstellungen
 In SuttaCentral Voice können Sie viele Parameter nach Ihren Wünschen einstellen.
 
-![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/wheel-de.png?raw=true)
+![download link](/dhammaregen/assets/img/wheel-de.png?raw=true)
 
 Klicken Sie auf das Zahnradsymbol rechts oben, um die Einstellungen zu öffnen.
 
-![download link](https://github.com/sc-voice/sc-voice/blob/master/src/assets/settings-de.png?raw=true)
+![download link](/dhammaregen/assets/img/einstellungen.png?raw=true)
 
 ### Webseitensprache
 Die Einstellung der Webseitensprache ändert die Sprache, in der das Menü, Beschriftungen, Nachrichten und Einstellungen gezeigt werden. Wenn Sie Ihre Sprache hinzufügen möchten, <a href="https://discourse.suttacentral.net/t/wanted-translator-for-sc-voice-interface/13928" target="_blank">nehmen Sie bitte Kontakt auf</a>.
