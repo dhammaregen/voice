@@ -7,7 +7,7 @@ next_href: '201-einstellungen'
 next_aria: 'einstellungen'
 ---
 # Suttaplayer
-<img source="/dhammaregen/assets/img/suttaplayer.png?raw=true" width="100%"/>
+<img src="/dhammaregen/assets/img/suttaplayer.png?raw=true" width="100%"/>
 
 Der Suttaplayer spielt Sutta-Textsegmente ab, wobei abwechselnd Pali und die Übersetzung gelesen wird. Mit der <kbd>Wiedergabe/Pause</kbd>-Schaltfläche links unten können Sie die Wiedergabe starten oder pausieren. Die Wiedergabe läuft segmentweise ab bis zum Ende des Sutta oder der Wiedergabeliste.
 
