@@ -18,7 +18,7 @@ Die deutschsprachige Welt ist in der glücklichen Lage, dass es bereits viele de
 
 Mit dieser Situation war ich lange Zeit sehr zufrieden und dachte nicht daran, dass etwas anderes nötig sei.
 
-Bis… ja, bis ich Bhikkhu Bodhis englische Übersetzungen in die Hand bekam. Das war das erste Mal, dass ich mit den bestehenden deutschen Übersetzungen weniger zufrieden war; und von da an las ich die Suttas eigentlich fast nur noch auf Englisch.
+Bis … ja, bis ich Bhikkhu Bodhis englische Übersetzungen in die Hand bekam. Das war das erste Mal, dass ich mit den bestehenden deutschen Übersetzungen weniger zufrieden war; und von da an las ich die Suttas eigentlich fast nur noch auf Englisch.
 
 Als dann Bhante Sujato 2018 seine neuen englischen Übersetzungen auf SuttaCentral veröffentlichte, war das für mich eine weitere Erfahrung, die in die gleiche Richtung wirkte. Die Suttas klangen in dieser Fassung so frisch und lebendig, und ich genoss das Lesen sehr. Und nach und nach entstand der Wunsch, meine Landsleute, die kein Englisch verstehen, an dieser Freude teilhaben zu lassen.
 
