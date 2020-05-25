@@ -1,7 +1,7 @@
 ---
-prev: 'SuttaCentral Info'
+prev: 'SuttaCentral'
 prev_href: '300-intro-sc'
-prev_aria: 'suttacentral Info'
+prev_aria: 'über suttacentral'
 next: 'Sonstiges'
 next_href: '400-other'
 next_aria: 'sonstiges'
