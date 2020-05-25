@@ -1,7 +1,7 @@
 ---
-prev: 'Über Voice'
+prev: 'SutaCentral Voice'
 prev_href: '100-intro-voice'
-prev_aria: 'über voice'
+prev_aria: 'über suttacentral voice'
 next: 'SuttaCentral'
 next_href: '300-intro-sc'
 next_aria: 'über suttacentral'
