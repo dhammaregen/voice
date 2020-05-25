@@ -6,7 +6,7 @@ next: 'Sonstiges'
 next_href: '400-other'
 next_aria: 'sonstiges'
 ---
-# Zu den deutschen Übersetzungen
+# Über die deutschen Sutta-Übersetzungen
 
 SuttaCentral Voice beherbergt neue segmentierte deutsche Übersetzungen der Suttas des Palikanon von Anagarika Sabbamitta sowie auch alle bestehenden deutschen Übersetzungen dieser Texte, die auf SuttaCentral zu finden sind.
 
