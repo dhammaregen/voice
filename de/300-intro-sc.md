@@ -28,7 +28,7 @@ SuttaCentral hat verschiedene Seiten mit Hinweisen zur Benutzung der Webseite un
 </details><br>
 
 ## Essays zu den frühen buddhistischen Texten auf SuttaCentral
-Auf SuttaCentral gibt es verschiedene Essays, die in die Texte einführen und sie erläutern.
+Auf SuttaCentral gibt es verschiedene Essays, die in die frühen buddhistischen Texte einführen und sie erläutern.
 
 <details>
 <summary><h3 style="margin-top: 0.4em;">Die drei Körbe (Pali: <em>Tipiṭaka</em>)</h3></summary>
