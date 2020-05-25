@@ -40,7 +40,7 @@ Hören Sie mit <a href="https://voice.suttacentral.net" target="_blank">Voice</a
 Voice unterstützt fortlaufend zeitgenössische Sprachen. Lebende Sprachen verändern sich ständig, und der Dhamma muss immer wieder neu übersetzt und gesprochen werden.
 
 <blockquote>
-<a href="https://voice.suttacentral.net/scv/index.html?r=0.17957141698583845#/sutta?search=an2.126">AN2.126:</a> 
+<a href="https://voice.suttacentral.net/scv/index.html?r=0.17957141698583845#/sutta?search=an2.126" target="_blank">AN2.126:</a> 
 Es gibt zwei Bedingungen für das Aufkommen rechter Ansicht: die Worte eines anderen und genaue Aufmerksamkeit.
 </blockquote>
 
