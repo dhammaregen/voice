@@ -35,3 +35,15 @@ Zur Zeit des Buddha hat man den Dhamma gehört, sich eingeprägt und für andere
 </details></p></blockquote>
 
 Hören Sie mit <a href="https://voice.suttacentral.net" target="_blank">Voice</a> die Worte des Buddha direkt an oder laden Sie sie herunter. Voice nutzt Tonaufnahmen von Bhante Sujato (und anderen) ebenso wie automatisch erzeugte, speziell angepasste KI-Stimmen. Außerdem macht es Voice möglich, einzelne Dhamma-„Verse“ (d. h. „Segmente“) auszuwählen. Hier können Sie den Dhamma Zeile für Zeile hören, sich einprägen und aufsagen.
+
+### About Voice
+Voice unterstützt fortlaufend zeitgenössische Sprachen. Lebende Sprachen verändern sich ständig, und der Dhamma muss immer wieder neu übersetzt und gesprochen werden.
+
+<blockquote>
+<a href="https://voice.suttacentral.net/scv/index.html?r=0.17957141698583845#/sutta?search=an2.126">AN2.126: </a>
+Es gibt zwei Bedingungen für das Aufkommen rechter Ansicht: die Worte eines anderen und genaue Aufmerksamkeit.
+</blockquote>
+
+<p style="margin-top: 1em">
+  Hier finden Sie die Stimmen und <a href="/dhammaregen/de/500-intro-de">die Arbeit Vieler</a>. Ihnen allen sei gedankt.
+</p>
