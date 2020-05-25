@@ -1,5 +1,5 @@
 ---
-prev: 'Deutsche Übersetzungen'
+prev: 'Deutsche Ü.'
 prev_href: '500-intro-de'
 prev_aria: 'deutsche übersetzungen'
 next: 'Zu Voice'
