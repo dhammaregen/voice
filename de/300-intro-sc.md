@@ -9,6 +9,9 @@ next_aria: 'deutsch'
 # Übersicht über SuttaCentral
 <a href="https://suttacentral.net" target="_blank">SuttaCentral</a> ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen in frühen Texten. In diesen einführenden Texten können Sie mehr über die Idee und den Aufbau von SuttaCentral erfahren:
 
+## Allgemeines
+SuttaCentral hat zahlreiche Seiten mit Hinweisen zur Benutzung der Webseite und Hintergrundinformationen.
+
 <details>
 <summary><h3 style="margin-top: 0.4em;">Einführende Texte zu SuttaCentral</h3></summary>
 
@@ -22,7 +25,7 @@ next_aria: 'deutsch'
 * [Zum Herunterladen](/dhammaregen/de/301-herunterladen-sc): EPUBs, PDFs und mehr.
 * [Würdigung](/dhammaregen/de/301-wurdigung-sc): Menschen und Organisationen, die SuttaCentral möglich gemacht haben.
 * [Spenden an SuttaCentral](/dhammaregen/de/301-spenden-sc): Wie Sie SuttaCentral unterstützen können.
-</details>
+</details><br>
 
 ## Essays zu den frühen buddhistischen Texten auf SuttaCentral
 Auf SuttaCentral gibt es verschiedene Essays, die in die Texte einführen und sie erläutern.
@@ -48,7 +51,7 @@ Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas ve
 * <a href="https://suttacentral.net/mn-guide-sujato" target="_blank">The Middle Discourses: conversations on matters of deep truth</a> (Englisch)
 * <a href="https://suttacentral.net/sn-guide-sujato" target="_blank">The Linked Discourses: the blueprint for Buddhist philosophy</a> (Englisch)
 * <a href="https://suttacentral.net/an-guide-sujato" target="_blank">The Numbered Discourses: things that are useful every day</a> (Englisch)
-</details>
+</details><br>
 
 ## Indexe
 SuttaCentral hat verschiedene Indexe und ein Verzeichnis der wichtigsten Palitermini, die ebenfalls helfen können, zu finden, was man sucht.
