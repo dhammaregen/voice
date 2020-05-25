@@ -10,7 +10,7 @@ next_aria: 'deutsch'
 <a href="https://suttacentral.net" target="_blank">SuttaCentral</a> ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen in frühen Texten. In diesen einführenden Texten können Sie mehr über die Idee und den Aufbau von SuttaCentral erfahren:
 
 <details>
-<summary><h3>Einführende Texte zu SuttaCentral</h3></summary>
+<summary><h3 style="margin-top: 0.8em;">Einführende Texte zu SuttaCentral</h3></summary>
 
 * [Über SuttaCentral](/dhammaregen/de/301-uber-sc): Idee und Entstehung der Webseite SuttaCentral.
 * [Einführung zu SuttaCentral](/dhammaregen/de/301-einfuhrung-sc): Über die Inhalte von SuttaCentral.
@@ -28,7 +28,7 @@ next_aria: 'deutsch'
 Auf SuttaCentral gibt es verschiedene Essays, die in die Texte einführen und sie erläutern.
 
 <details>
-<summary><h3>Die drei Körbe (Pali: <em>Tipiṭaka</em>)</h3></summary>
+<summary><h3 style="margin-top: 0.8em;">Die drei Körbe (Pali: <em>Tipiṭaka</em>)</h3></summary>
 Sie finden auf SuttaCentral allgemeine Einführungen zu den drei Abschnitten oder „Körben“ des Palikanon, in denen die Texte überliefert sind: 
 
 * <a href="https://suttacentral.net/discourses" target="_blank">
@@ -54,7 +54,7 @@ Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas ve
 SuttaCentral hat verschiedene Indexe und ein Verzeichnis der wichtigsten Palitermini, die ebenfalls helfen können, zu finden, was man sucht.
 
 <details>
-<summary><h3>Indexe und Glossar</h3></summary>
+<summary><h3 style="margin-top: 0.8em;">Indexe und Glossar</h3></summary>
 
 * <a href="https://suttacentral.net/subjects" target="_blank">Index of Subjects</a> (Englisch)
 * <a href="https://suttacentral.net/similes" target="_blank">Index of Similes</a> (Englisch)
