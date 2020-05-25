@@ -28,3 +28,5 @@ Sie können auch unser <a href="https://github.com/sc-voice/dhammaregen" target=
 </details></p>
 
 <a href="https://sc-voice.github.io/sc-voice/" target="-blank">&#x2b95; Zur Sprachauswahl</a>
+
+<a href="https://www.pexels.com/photo/boulder-environment-flow-landscape-464327/" target="_blank"><img src="/dhammaregen/assets/img/waterfall-large.png" class="rain-img"/></a>
