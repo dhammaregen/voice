@@ -4,7 +4,7 @@ prev_href: '500-intro-de'
 prev_aria: 'deutsche übersetzungen'
 next: 'Zu Voice'
 next_href: 'https://voice.suttacentral.net'
-next_aria: 'zu voice webseite'
+next_aria: 'zur voice webseite'
 ---
 # Sonstiges
 
