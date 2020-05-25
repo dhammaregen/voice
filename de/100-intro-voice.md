@@ -45,5 +45,5 @@ Es gibt zwei Bedingungen für das Aufkommen rechter Ansicht: die Worte eines and
 </blockquote>
 
 <p style="margin-top: 1em">
-  Hier finden Sie die Stimmen und <a href="/dhammaregen/de/500-intro-de">die Arbeit Vieler</a>. Ihnen allen sei gedankt.
+  Hier finden Sie die Stimmen und <a href="https://sc-voice.github.io/dhammaregen/de/500-intro-de">die Arbeit Vieler</a>. Ihnen allen sei gedankt.
 </p>
