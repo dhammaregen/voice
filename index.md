@@ -17,7 +17,7 @@ Auf *Dhammaregen* finden Sie:
 
 
 <p><details>
-  <summary>Mehr über Dhammaregen</summary><br>
+  <summary>Mehr über <em>Dhammaregen</em></summary><br>
 Alle deutschen Übersetzungen von Texten und Essays auf *Dhammaregen* sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.<br><br>
 
 Für Fragen oder Anregungen zu den segmentierten deutschen Übersetzungen auf SuttaCentral Voice oder andere Fragen zu frühen buddhistischen Texten senden Sie eine Email an <a href="dhammaregen@gmail.com" target="_blank">dhammaregen@gmail.com</a> oder wenden Sie sich an das SuttaCentral-Diskussionsforum <a href="https://discourse.suttacentral.net" target="_blank">Discourse.SuttaCentral</a>.  
