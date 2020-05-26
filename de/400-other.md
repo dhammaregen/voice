@@ -17,7 +17,7 @@ next_aria: 'zur voice webseite'
 
 ## Technik und Entwicklung
 * <a href="https://sc-voice.github.io/sc-voice/en/490-dev-install" target="_blank">Installation: Developer</a>: enthält Instruktionen, wie man eine Entwicklerumgebung für Voice einrichtet (Englisch).
-* <a href="https://sc-voice.github.io/sc-voice/en/490-url-format" target="_blank">URL Format</a>: über Links zu externen Webseiten (Englisch).
+* <a href="https://sc-voice.github.io/sc-voice/en/490-url-format" target="_blank">URL Format</a>: über Webseitenadressen der einzelnen Sutta-Seiten in Voice (Englisch).
 * <a href="https://sc-voice.github.io/sc-voice/en/490-arch-storage" target="_blank">Architecture:-Storage</a>: (Englisch)
 * <a href="https://sc-voice.github.io/sc-voice/en/490-scv-admin" target="_blank">SuttaCentral-Voice-Administration</a>: (Englisch)
 * <a href="https://sc-voice.github.io/sc-voice/en/490-aws-install" target="_blank">AWS-Installation</a>: (Englisch)
