@@ -2,7 +2,7 @@
 prev: 'Voice benutzen'
 prev_href: '200-using-voice'
 prev_aria: 'voice benutzen'
-next: 'Deutsche Ü.'
+next: 'Deutsche Übers.'
 next_href: '500-intro-de'
 next_aria: 'deutsche übersetzungen'
 ---
