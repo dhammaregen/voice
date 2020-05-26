@@ -10,7 +10,7 @@ Die Anwendung Voice nutzt Inhalte von der Webseite SuttaCentral und gibt sie als
 
 Voice nutzt Stimmen von <a href="https://aws.amazon.com/de/polly/?nc2=type_a" target="_blank">AWS Polly</a>, die an seine speziellen Bedürfnisse angepasst sind. Besonders die Anpassung der Palistimme war nicht einfach, und wir sind <a href="https://discourse.suttacentral.net/t/sc-voice-raveena-meets-slow-amy/10410" target="_blank">vielen geduldigen Aussprachegutachtern</a> für ihre Hilfe zu Dank verpflichtet.
 
-Voice nutzt Google Analytics für statistische Erhebungen, die der Weiterentwicklung der Webseite dienen.
+Voice nutzt Google Analytics für statistische Erhebungen, die der Weiterentwicklung der Webseite dienen. Personenbezogene Daten werden nicht erhoben.
 
 Aminah hat Nachforschungen zu Erfordernissen für Voice sowohl für assistierte als auch nicht assistierte Benutzer angestellt und klare Richtlinien für Barrierefreiheit bei der Nutzung der Webseite formuliert, die für alle Benutzer hilfreich sind. Zusätzlich hat sie die Voice-Webseite mit einer eleganten, minimalistischen Ästhetik neu gestaltet, die sowohl für assistierte als auch nicht assistierte Benutzer erstaunlich gut funktioniert. Und in ihrer furchtlosen Art hat sie einen Entwicklerserver für Voice über ihr eigenes Benutzerkonto aufgebaut und damit zweifelsfrei gezeigt, dass es möglich ist, Voice in der Cloud beliebig nachzubauen.
 
