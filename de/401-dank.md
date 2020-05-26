@@ -19,7 +19,7 @@ Nach all diesen wertvollen Beiträgen hat sich Aminah 2020 aus dem Voice-Team zu
 Zur Zeit wird Voice von einem kleinen Kernteam und einer Reihe weiterer Mitwirkender entwickelt.
 #### Voice-Kernteam:
 - **Karl Lew:** Initiator und leitender Entwickler
-- **Sabbamitta Anagarika:** Prüfung, Planung, Organisation und Koordination; deutsche Übersetzung der Benutzeroberfläche und der Texte auf der Begleitwebseite *Dhammaregen*
+- **Sabbamitta Anagarika:** Prüfung, Planung, Organisation und Koordination; deutsche Übersetzung der Benutzeroberfläche und der Texte auf der Begleitwebseite *Dhammaregen*. Sabbamitta arbeitet auch an einem Projekt für <a href="https://sc-voice.github.io/dhammaregen/de/500-intro-de">neue deutsche Sutta-Übersetzungen</a>, die auf Voice zu finden sind.
 
 #### Sonstige (in alphabetischer Reihenfolge):
 - **Abhibhu Bhikkhu:** Hindi-Übersetzung der Benutzeroberfläche
