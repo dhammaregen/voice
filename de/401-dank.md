@@ -12,7 +12,7 @@ Voice nutzt Stimmen von <a href="https://aws.amazon.com/de/polly/?nc2=type_a" ta
 
 Voice nutzt Google Analytics für statistische Erhebungen, die der Weiterentwicklung der Webseite dienen. Personenbezogene Daten werden nicht erhoben.
 
-Aminah hat Nachforschungen zu Erfordernissen für Voice sowohl für assistierte als auch nicht assistierte Benutzer angestellt und klare Richtlinien für Barrierefreiheit bei der Nutzung der Webseite formuliert, die für alle Benutzer hilfreich sind. Zusätzlich hat sie die Voice-Webseite mit einer eleganten, minimalistischen Ästhetik neu gestaltet, die sowohl für assistierte als auch nicht assistierte Benutzer erstaunlich gut funktioniert. Und in ihrer furchtlosen Art hat sie einen Entwicklerserver für Voice über ihr eigenes Benutzerkonto aufgebaut und damit zweifelsfrei gezeigt, dass es möglich ist, Voice in der Cloud beliebig nachzubauen.
+Aminah hat Nachforschungen zu Erfordernissen für Voice sowohl für assistierte als auch nicht assistierte Benutzer angestellt und klare Richtlinien für Barrierefreiheit bei der Nutzung der Webseite formuliert, die für alle Benutzer hilfreich sind. Zusätzlich hat sie die Voice-Webseite mit einer eleganten, minimalistischen Ästhetik neu gestaltet, die sowohl für assistierte als auch nicht assistierte Benutzer erstaunlich gut funktioniert. Und in ihrer furchtlosen Art hat sie einen Entwicklerserver für Voice über ihr eigenes AWS-Benutzerkonto aufgebaut und damit zweifelsfrei gezeigt, dass es möglich ist, Voice in der Cloud beliebig nachzubauen.
 
 Nach all diesen wertvollen Beiträgen hat sich Aminah 2020 aus dem Voice-Team zurückgezogen. Gegenwärtig verfolgt sie andere Interessen, doch hilft sie Voice als erste Voice-Emerita freundlicherweise mit gelegentlichem Rat. Wir möchten unsere allergrößte Dankbarkeit ausdrücken!
 
@@ -25,14 +25,14 @@ Zur Zeit wird Voice von einem kleinen Kernteam und einer Reihe weiterer Mitwirke
 - **Abhibhu Bhikkhu:** Hindi-Übersetzung der Benutzeroberfläche
 - **Phra Robert Dhammanando:** isländische Übersetzung der Benutzeroberfläche
 - **Erlend Neergaard:** norwegische Übersetzung der Benutzeroberfläche
-- **Gabriel Laera:** portugiesische Übersetzung der Benutzeroberfläche und des Wiki
+- **Gabriel Laera:** portugiesische Übersetzung der Benutzeroberfläche und von *About Voice*
 - **Invo & Jarek:** polnische Übersetzung der Benutzeroberfläche
-- **Kaz Takehara:** japanische Übersetzung der Benutzeroberfläche und des Wiki
+- **Kaz Takehara:** japanische Übersetzung der Benutzeroberfläche und von *About Voice*
 - **Michael H.:** Tontechnik für Aufnahmen
 - **Phan Tuấn Anh:** vietnamesische Übersetzung der Benutzeroberfläche
 - **Robbie DeJonge:** niederländische Übersetzung der Benutzeroberfläche
 - **scatterbrain & Freund:** rumänische und dänische Übersetzung der Benutzeroberfläche
-- **Sean Lempérière:** französische Übersetzung der Benutzeroberfläche und des Wiki
+- **Sean Lempérière:** französische Übersetzung der Benutzeroberfläche und von *About Voice*
 - **Sujato Bhikkhu:** Tonaufnahmen auf Pali und Englisch
 
 Hinzu kommen all jene, die uns mit wertvollen Rückmeldungen und Vorschlägen unterstützt haben, deren Namen wir gar nicht aufzählen können! Ein herzliches DANKESCHÖN ihnen allen.
