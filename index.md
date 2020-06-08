@@ -22,7 +22,7 @@ Auf *Dhammaregen* finden Sie Informationen über:
 
 Für Fragen oder Anregungen zu den segmentierten deutschen Übersetzungen auf Voice oder andere Fragen zu frühen buddhistischen Texten senden Sie eine Email an <dhammaregen@gmail.com> oder wenden Sie sich an das SuttaCentral-Diskussionsforum <a href="https://discourse.suttacentral.net" target="_blank">Discourse.SuttaCentral</a>.  
 
-Sie können auch unser <a href="https://github.com/sc-voice/dhammaregen" target="_blank">GitHub-Repo</a> einsehen und mit <a href="https://github.com/sc-voice/dhammaregen/issues/new" target="_blank">einem neuen Thema</a> Verbesserungsvorschläge einreichen.  
+Sie können auch unser <a href="https://github.com/sc-voice/dhammaregen" target="_blank">GitHub-Depot</a> einsehen und mit <a href="https://github.com/sc-voice/dhammaregen/issues/new" target="_blank">einem neuen Thema</a> Verbesserungsvorschläge einreichen.  
 
 *Dhammaregen* nutzt Google Analytics für statistische Erhebungen, die der Weiterentwicklung der Webseite dienen. Personenbezogene Daten werden nicht erhoben.
 </details></p>
