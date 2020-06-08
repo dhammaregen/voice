@@ -88,6 +88,13 @@ a.menu {
     font-weight: 800;
 }
 
+p.menu {
+  text-align: center;
+  position: fixed;
+  padding-bottom: 2em;
+  background-color: #ffffff;
+}
+
 bottom-nav {
   position: fixed;
   bottom: 0px;
