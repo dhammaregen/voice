@@ -9,11 +9,11 @@
 
 <a href="https://suttacentral.net/" target="_blank">SuttaCentral</a> ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen. <a href="https://voice.suttacentral.net/" target="_blank">SuttaCentral Voice</a> ist eine Anwendung zur Sprachausgabe für Quelltexte auf Pali und verschiedene Übersetzungen.
 
-Auf *Dhammaregen* finden Sie:
+Auf *Dhammaregen* finden Sie Informationen über:
 
-- [**Über SuttaCentral Voice**](/dhammaregen/de/100-intro-voice)  
-- [**Über SuttaCentral**](/dhammaregen/de/300-intro-sc)   
-- [**Über die deutschen Sutta-Übersetzungen**](/dhammaregen/de/500-intro-de)  
+- [**SuttaCentral Voice**](/dhammaregen/de/100-intro-voice)  
+- [**SuttaCentral**](/dhammaregen/de/300-intro-sc)   
+- [**Deutsche Sutta-Übersetzungen**](/dhammaregen/de/500-intro-de)  
 
 
 <p><details>
