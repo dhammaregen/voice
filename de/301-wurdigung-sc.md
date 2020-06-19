@@ -26,7 +26,7 @@ Der erste Start der Webseite war 2005. Folgende Schlüsselpersonen waren daran b
 
 ## Version 2 — 2012
 
-Gegen Ende 2012 begannen wir eine Neugestaltung, bei der das Kernteam aus Rod Bucknell, John Kelly und Bhante Sujato bestand. Das wurde ursprünglich von John Kellys Arbeit in Gang gesetzt, als er Bhikkhu Bodhi bei der Übersetzung des Aṅguttara Nikāya half, was dazu führte, dass eine Reihe neuer Parallelen entdeckt wurden. Wir entschieden uns dann, nicht einfach ein paar Ergänzungen zu machen, und nahmen eine völlige Neugestaltung in Angriff. Während an der Struktur der Daten lediglich schrittweise Verbesserungen vorgenommen wurden, wurde der gesamte Code für die Webseite neu geschrieben. Das hauptsächliche Team dieser neuen Auflage ist wie folgt:
+Gegen Ende 2012 begannen wir eine Neugestaltung, bei der das Kernteam aus Rod Bucknell, John Kelly und Bhante Sujato bestand. Das wurde ursprünglich von John Kellys Arbeit in Gang gesetzt, als er Bhikkhu Bodhi bei der Übersetzung des Aṅguttara-Nikāya half, was dazu führte, dass eine Reihe neuer Parallelen entdeckt wurden. Wir entschieden uns dann, nicht einfach ein paar Ergänzungen zu machen, und nahmen eine völlige Neugestaltung in Angriff. Während an der Struktur der Daten lediglich schrittweise Verbesserungen vorgenommen wurden, wurde der gesamte Code für die Webseite neu geschrieben. Das hauptsächliche Team dieser neuen Auflage ist wie folgt:
 
 <table>
 <tr>
