@@ -27,14 +27,14 @@ Diese Texte wurden ursprünglich mündlich überliefert, von Generationen von M�
 Ab dem 19. Jahrhundert wurden die Manuskripte bearbeitet und als moderne Ausgaben in Buchreihen herausgegeben. Außerdem wurde der Palitext in eine Reihe moderner Sprachen übersetzt, darunter Thai, Birmanisch, Singhalesisch und Englisch\*. [\*Gilt auch für Deutsch. Anm. d. Übers.]
 
 Das Wort Tipiṭaka bedeutet „drei Körbe“. Der Korb der Lehrreden wird traditionell als zweiter der drei aufgezählt. Die vier *Nikāyas* stellen den Hauptteil des Korbs der Lehrreden dar. So sind sie in den Kanon als Ganzes eingegliedert:
-- Vinaya Piṭaka (Korb des Ordensrechts)
-- Sutta Piṭaka (Korb der Lehrreden)
-   - **Dīgha Nikāya** (Lange Lehrreden)
-   - **Majjhima Nikāya** (Mittlere Lehrreden)
-   - **Saṁyutta Nikāya** (Verbundene Lehrreden)
-   - **Aṅguttara Nikāya** (Nummerierte Lehrreden)
-   - Khuddaka Nikāya (Kleinere Lehrreden)
-- Abhidhamma Piṭaka (Korb der systematischen Abhandlungen)
+- Vinaya-Piṭaka (Korb des Ordensrechts)
+- Sutta-Piṭaka (Korb der Lehrreden)
+   - **Dīgha-Nikāya** (Lange Lehrreden)
+   - **Majjhima-Nikāya** (Mittlere Lehrreden)
+   - **Saṁyutta-Nikāya** (Verbundene Lehrreden)
+   - **Aṅguttara-Nikāya** (Nummerierte Lehrreden)
+   - Khuddaka-Nikāya (Kleinere Lehrreden)
+- Abhidhamma-Piṭaka (Korb der systematischen Abhandlungen)
 
 Ähnliche Sammlungen finden sich in altchinesischen Übersetzungen, und beträchtliche Teile davon gibt es auch auf Sanskrit und Tibetisch. Die verschiedenen Schriftensammlungen entstanden in buddhistischen Gemeinschaften, die sich in den Jahrhunderten nach dem Buddha über das gesamte Indien ausbreiteten, besonders unter dem buddhistischen Kaiser Ashoka. Diese Missionen sind in alten Chroniken von Sri Lanka ebenso dokumentiert wie in den Vinaya-Kommentaren auf Pali und Chinesisch, und sie wurden teilweise von modernen archäologischen Funden bestätigt.
 
