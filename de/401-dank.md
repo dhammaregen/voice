@@ -4,7 +4,7 @@ prev_href: '400-other'
 prev_aria: 'sonstiges'
 ---
 # Dank
-SuttaCentral Voice wurde als „kleine Schwester“ von <a href="https://suttacentral.net" target="_blank">SuttaCentral</a> entwickelt. Das Projekt wurde 2018 von Karl Lew begonnen, dem sich bald Aminah Borg-Luck anschloss. Etwas später stieß Anagarika Sabbamitta als drittes Mitglied zum Team.
+SuttaCentral Voice wurde als „kleine Schwester“ von <a href="https://suttacentral.net" target="_blank">SuttaCentral</a> entwickelt. Das Projekt wurde 2018 von Karl Lew begonnen, dem sich bald Aminah Borg-Luck anschloss. Etwas später stieß Anagarika Sabbamitta als drittes Mitglied zum Team. Im Sommer 2020 schlossen sich uns Robbie und Madhu an.
 
 Die Anwendung Voice nutzt Inhalte von der Webseite SuttaCentral und gibt sie als Sprachausgabe wieder. Wir möchten <a href="https://suttacentral.net/acknowledgments" target="_blank">all denen</a> danken, die zu dieser außergewöhnlichen Sammlung früher buddhistischer Texte beigetragen haben und beitragen.
 
@@ -20,6 +20,8 @@ Zur Zeit wird Voice von einem kleinen Kernteam und einer Reihe weiterer Mitwirke
 #### Voice-Kernteam:
 - **Karl Lew:** Initiator und leitender Entwickler
 - **Sabbamitta Anagarika:** Prüfung, Planung, Organisation und Koordination; deutsche Übersetzung der Benutzeroberfläche und der Texte auf der Begleitwebseite *Dhammaregen*. Sabbamitta arbeitet auch an einem Projekt für <a href="https://sc-voice.github.io/dhammaregen/de/500-intro-de">neue deutsche Sutta-Übersetzungen</a>, die auf Voice zu finden sind.
+- **Robbie Robbie Percijn de Jonge:** Voice-Administrator; holländische Übersetzung der Benutzeroberfläche
+- **Madhuwanthi Buddhadasa:** Voice-Administrator; Singhalesische Übersetzung der Benutzeroberfläche & von *About Voice*
 
 #### Sonstige (in alphabetischer Reihenfolge):
 - **Abhibhu Bhikkhu:** Hindi-Übersetzung der Benutzeroberfläche
@@ -31,6 +33,7 @@ Zur Zeit wird Voice von einem kleinen Kernteam und einer Reihe weiterer Mitwirke
 - **Michael H.:** Tontechnik für Aufnahmen
 - **Phan Tuấn Anh:** vietnamesische Übersetzung der Benutzeroberfläche
 - **Robbie DeJonge:** niederländische Übersetzung der Benutzeroberfläche
+- **Sarana Bhikkhu:** Czech translation of web interface
 - **scatterbrain & Freund:** rumänische und dänische Übersetzung der Benutzeroberfläche
 - **Sean Lempérière:** französische Übersetzung der Benutzeroberfläche und von *About Voice*
 - **Sujato Bhikkhu:** Tonaufnahmen auf Pali und Englisch
