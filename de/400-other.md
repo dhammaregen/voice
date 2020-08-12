@@ -23,7 +23,7 @@ next_aria: 'zur voice webseite'
 * <a href="https://sc-voice.github.io/sc-voice/en/490-aws-install" target="_blank">AWS-Installation</a>: (Englisch)
 * <a href="https://sc-voice.github.io/sc-voice/en/490-aws-staging-911" target="_blank">AWS-Staging-911</a>: (Englisch)
 * <a href="https://sc-voice.github.io/sc-voice/en/490-zenhub" target="_blank">Notes-on-using-the-Voice-ZenHub-board</a>: (Englisch)
-* <a href="https://sc-voice.github.io/sc-voice/en/401-edit-pronunciation" target="_blank">Edit-Pronunciation</a>: Bearbeiten von Aussprachefehlern der Lesestimmen (Englisch)
 
 ## Aussprachefehler
+* <a href="https://sc-voice.github.io/sc-voice/en/401-edit-pronunciation" target="_blank">Edit-Pronunciation</a>: Bearbeiten von Aussprachefehlern der Lesestimmen (Englisch)
 * <a href="https://sc-voice.github.io/sc-voice/en/401-mispronunciations" target="_blank">Mispronunciations</a>: Aussprachefehler von Amy oder Raveena (englische Stimmen), die von Voice nicht behoben werden können (Englisch).
