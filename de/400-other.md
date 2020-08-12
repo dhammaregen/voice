@@ -26,4 +26,4 @@ next_aria: 'zur voice webseite'
 
 ## Aussprachefehler
 * <a href="https://sc-voice.github.io/sc-voice/en/401-edit-pronunciation" target="_blank">Edit-Pronunciation</a>: Bearbeiten von Aussprachefehlern der Lesestimmen (Englisch)
-* <a href="https://sc-voice.github.io/sc-voice/en/401-mispronunciations" target="_blank">Mispronunciations</a>: Aussprachefehler von Amy oder Raveena (englische Stimmen), die von Voice nicht behoben werden können (Englisch).
+* <a href="https://sc-voice.github.io/sc-voice/en/401-mispronunciations" target="_blank">Mispronunciations</a>: Aussprachefehler der englischen Stimmen Amy und Raveena, die von Voice nicht behoben werden können (Englisch).
