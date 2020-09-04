@@ -8,9 +8,9 @@ prev_aria: 'suttacentral Info'
 
 ## Alte Sprachen (6)
 * <a href="https://suttacentral.net/languages/pli" target="_blank">Pāli (7601)</a>
-* <a href="https://suttacentral.net/languages/lzh" target="_">Chinese (4619)</a>
+* <a href="https://suttacentral.net/languages/lzh" target="_">Chinesisch (4619)</a>
 * <a href="https://suttacentral.net/languages/san" target="_blank">Sanskrit (799)</a>
-* <a href="https://suttacentral.net/languages/xct" target="_blank">Tibetan (51)</a>
+* <a href="https://suttacentral.net/languages/xct" target="_blank">Tibetisch (51)</a>
 * <a href="https://suttacentral.net/languages/pgd" target="_blank">Gāndhārī (35)</a>
 * <a href="https://suttacentral.net/languages/pra" target="_blank">Prākrit (23)</a>
 
