@@ -12,7 +12,7 @@ Zur Zeit des Buddha hat man den Dhamma gehört, sich eingeprägt und für andere
   <summary>
     „Diese fünf Dinge führen zu …“
   </summary>
-  <a href="https://voice.suttacentral.net/scv/index.html?r=0.5016504839079253#/sutta?search=f%C3%BCnf%20Dinge%20f%C3%BChren%20zu%20Fortdauer" target="_blank">
+  <a href="https://voice.suttacentral.net/scv/index.html?r=0.44233425508447155#/sutta?fullLine=true&ips=6&lang=de&locale=de&maxResults=5&search=an5.155&showId=true&showLang=0&vnameRoot=Aditi&vnameTrans=Vicki" target="_blank">
     AN5.155:6.1 ff:</a>
   Diese fünf Dinge führen zu Fortdauer, Langlebigkeit und Beständigkeit der wahren Lehre. Welche fünf?
   <ul>
