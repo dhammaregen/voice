@@ -68,7 +68,7 @@ Die Entwicklung konnte dank der ausgezeichneten Arbeit des Teams von STXNext abg
 
 Um Spenden über die Webseite zu ermöglichen, haben wir eine gemeinnützige Organisation gegründet. Sie ist in Australien registriert und verwaltet die Finanzen für SuttaCentral. Unserer besonderer Dank gilt Deepika Weerakoon, die sie eingerichtet hat und als Verantwortliche für Finanzen fungiert. Treuhänder sind Bhante Sujato, Bhante Brahmali und John Kelly.
 
-## Unsere Helfer und Ehrenamtlichen
+## Unsere Helferinnen und Ehrenamtlichen
 
 Darüber hinaus drücken wir den folgenden Personen unseren Dank aus. Der Zweck von SuttaCentral besteht darin, die verschiedenen Fäden der frühen buddhistischen Tradition zusammenzuführen, und das können wir nur mit der Hilfe vieler Menschen. Diese Liste ist sehr unvollständig, lassen Sie uns bitte wissen, wenn wir jemanden vergessen haben.
 
