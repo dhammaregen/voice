@@ -9,7 +9,7 @@ next_aria: 'zur voice webseite'
 # Sonstiges
 
 ## Wie Sie Voice helfen können
-* <a href="https://discourse.suttacentral.net/tags/sc-voice" target="_blank">Feedback</a>: Sagen Sie uns, was Ihnen auffällt oder was Sie an Voice mögen; SuttaCentral-Diskussionsforum (Englisch).
+* <a href="https://discourse.suttacentral.net/tags/sc-voice" target="_blank">Feedback</a>: Sagen Sie uns, was Ihnen auffällt oder was Sie an Voice mögen; SuttaCentral-Diskussionsforum (Englisch). Sie können uns mit `@devs-voice` aufmerksam machen.
 * <a href="https://sc-voice.github.io/sc-voice/en/401-translating-voice-ui" target="_blank">Translating Voice UI</a>: Helfen Sie uns, Voice international zu machen; enthält einige Richtlinien für die Übersetzung der Voice-Benutzeroberfläche in andere Sprachen (Englisch).
 
 ## Würdigung
@@ -26,4 +26,4 @@ next_aria: 'zur voice webseite'
 
 ## Aussprachefehler
 * <a href="https://sc-voice.github.io/sc-voice/en/401-edit-pronunciation" target="_blank">Edit-Pronunciation</a>: Bearbeiten von Aussprachefehlern der Lesestimmen (Englisch)
-* <a href="https://sc-voice.github.io/sc-voice/en/401-mispronunciations" target="_blank">Mispronunciations</a>: Aussprachefehler der englischen Stimmen Amy und Raveena, die von Voice nicht behoben werden können (Englisch).
+* <a href="https://sc-voice.github.io/sc-voice/en/401-mispronunciations" target="_blank">Mispronunciations</a>: Aussprachefehler, die von Voice nicht behoben werden können (Englisch).
