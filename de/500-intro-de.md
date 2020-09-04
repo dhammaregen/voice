@@ -46,7 +46,7 @@ Nun möchte ich hier ein paar Punkte benennen, die neue Übersetzungen aus meine
 
 Das größte Problem, das ich bei meinem Nachdenken über eine Übersetzung der Suttas sah, ist die Tatsache, dass meine Palikenntnisse begrenzt sind. Eine unabhängige eigene Übersetzung eines Palitextes wäre eine Herausforderung, der ich mich nicht gewachsen fühle. Aus diesem Grund habe ich beschlossen, mich auf Bhante Sujatos neue englische Übersetzungen zu stützen. Dabei kommt mir zugute, dass das Entwicklerteam von SuttaCentral die Software <a href="https://bilara.suttacentral.net/" target="_blank">Bilara</a> zur computergestützten Übersetzung entwickelt, die ein dreisprachiges Arbeiten ermöglicht. Segmentweise wird der Text auf Pali und Englisch nebeneinander angezeigt und kann in eine dritte Sprache übersetzt werden. Für ein zu übersetzendes Segment werden Beispiele angezeigt, wie diese oder eine ähnliche Passage an anderer Stelle bereits übersetzt wurde.
 
-![download link](/sc-voice/assets/img/bilara.png?raw=true)
+![download link](/dhammaregen/assets/img/bilara.png?raw=true)
 
 Das ermöglicht eine sehr einheitliche Übersetzung, auch ohne vollständige Kenntnis des Pali, da immer die englische Übersetzung mitgelesen werden kann.
 
