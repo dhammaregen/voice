@@ -10,7 +10,7 @@ next_aria: 'über suttacentral'
 Am einfachsten kann man Voice benutzen, indem man auf die Schaltfläche <kbd><span class="kbd" aria-label="schaltfläche such-mir-etwas-aus">Such mir etwas aus!</span></kbd> klickt. Dadurch erhält man eine kleine Auswahl an Suchergebnissen:
 
 <img aria-label="bild schaltfläche such-mir-etwas-aus"
-  src="/sc-voice/assets/img/such-mir-etwas-aus.png?raw=true" style="height:8em"/>
+  src="/dhammaregen/assets/img/such-mir-etwas-aus.png?raw=true" style="height:8em"/>
 
 Man kann auch eigene Suchbegriffe eingeben wie etwa <kbd>Wurzel des Leidens</kbd> und <kbd>EINGABE</kbd> klicken.
 
