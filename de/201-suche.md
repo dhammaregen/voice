@@ -29,7 +29,7 @@ Wenn Sie eine bestimmte Übersetzung suchen, geben Sie Sprache und Übersetzer a
 * <kbd>mn23/de/mettiko</kbd> ist die deutsche Übersetzung von MN 23 von Bhikkhu Mettiko.
 * <kbd>mn23/de/sabbamitta</kbd> ist die deutsche Übersetzung von MN 23 von Anagarika Sabbamitta.
 
-Wenn Sie nach einer anderen Sprache suchen wollen, ändern Sie bitte die Übersetzungssprache in den Einstellungen.
+Wenn Sie nach einer anderen Sprache suchen wollen, ändern Sie bitte die Übersetzungssprache in den [Einstellungen](/dhammaregen/de/201-einstellungen).
 
 </details><!--COMMENT: Sutta Search-->
 
