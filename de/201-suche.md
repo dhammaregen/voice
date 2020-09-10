@@ -64,7 +64,7 @@ Viele Benutzer von SuttaCentral nutzen `grep` für die Suche. `grep` ist ein seh
 
 #### Suchparameter
 
-Sie können Ihre Suche mit erweiterten Einstellungen anpassen. Erweiterten Einstellungen wird ein Minuszeichen "-" vorangestellt:
+Sie können Ihre Suche mit erweiterten Einstellungen anpassen. Erweiterten Einstellungen wird ein Minuszeichen <kbd>-</kbd>" vorangestellt:
 
 * **-sl ISO_LANG_2**  Legt die Sprache für die Suche fest, z. B.: <kbd>-sl de</kbd> durchsucht deutsche Texte.
 * **-d NUMBER**  Legt die maximale Zahl der Ergebnisse fest, z. B.: <kbd>-d 50</kbd> findet bis zu 50 Suttas.
