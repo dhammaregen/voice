@@ -37,9 +37,9 @@ Wenn Sie nach einer anderen Sprache suchen wollen, ändern Sie bitte die Überse
 
 Geben Sie eine exakte Wendung ein (unabhängig von Groß- oder Kleinschreibung), um ein Sutta mit dieser Wendung zu finden. Zum Beispiel: <kbd>Wurzel des Leidens</kbd>.
 
-Für Wendungen auf Pali können Sie Wörter in lateinischer Schrift ohne diakritische Zeichen eingeben: <kbd>chando hi mūlaṃ dukkhassa</kbd>
+Für Wendungen auf Pali können Sie Wörter in lateinischer Schrift ohne diakritische Zeichen eingeben: <kbd>chando hi mulam dukkhassa</kbd>
 
-Wenn man sich über Wortendungen nicht sicher ist, kann man auch Teile einer Wendung eingeben: <kbd>mūlaṃ dukkha</kbd>
+Wenn man sich über Wortendungen nicht sicher ist, kann man auch Teile einer Wendung eingeben: <kbd>mulam dukkha</kbd>
 </details><!--COMMENT: Phrase Search-->
 
 <details><summary><h3>Nach Schlüsselwörtern suchen</h3></summary>
