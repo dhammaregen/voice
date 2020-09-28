@@ -55,7 +55,7 @@ Zusätzlich ermöglicht das von Karl Lew entwickelte und auch in SuttaCentral Vo
 Etwa Mitte 2019 habe ich mit dem Übersetzungsprojekt begonnen. Geplant ist, die vier Hauptnikāyas des Palikanon sowie die älteren Teile des Khuddaka-Nikāya zu übersetzen. Bisher liegen folgende Suttas vor:
 - **AN**: Einer-, Zweier-,  Dreier-, Vierer- und Fünferbuch; Sechserbuch in Arbeit; AN 7.36; AN 8.53; AN 10.48, AN 10.60-61
 - **SN**: SN 1.1; SN 3.21; SN 5.2; SN 10.8; SN 12.1-33; SN 22.59; SN 35.28; SN 42.11; SN 45.8; SN 56.11
-- **MN**: MN 2, MN 7, MN 23, MN 33
+- **MN**: MN 2, MN 7, MN 10, MN 23, MN 33
 - **DN**: DN 33
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
