@@ -134,7 +134,7 @@ Dīgha Nikāya
 			DN 32
 		</li>
 		<li>
-			DN 33
+			DN 33 Gemeinsam aufsagen
 		</li>
 		<li>
 			DN 34
