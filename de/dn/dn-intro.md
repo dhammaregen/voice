@@ -7,7 +7,7 @@ Dīgha Nikāya
 			Kapitel mit dem Abschnitt über Ethik
 		</h2>
 		<p>
-			Sīlakkhandha Vagga
+			Sīlakkhandha Vagga, DN 1 – DN 13
 		</p>
 	</summary>
 	<ol>
@@ -59,7 +59,7 @@ Dīgha Nikāya
 			Großes Kapitel
 		</h2>
 		<p>
-			Mahā Vagga
+			Mahā Vagga, DN 14 – DN 23
 		</p>
 	</summary>
 	<ol>
@@ -102,7 +102,7 @@ Dīgha Nikāya
 			Kapitel über Pāṭikaputta
 		</h2>
 		<p>
-			Pāthika Vagga
+			Pāthika Vagga, DN 24 – DN 34
 		</p>
 	</summary>
 	<ol>
