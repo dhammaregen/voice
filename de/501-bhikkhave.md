@@ -1,8 +1,10 @@
-# *Bhikkhave* und *Bhikkhu* als geschlechtergerechte Ausdrücke in frühen buddhistischen Texten
+# *Bhikkhave* und *Bhikkhu* als geschlechtergerechte Ausdrucksweise in frühen buddhistischen Texten
 (Aus: Journal of Buddhist Ethics, ISSN 1076-9005, http://blogs.dickinson.edu/buddhistethics/, Volume 21, 2014)
 
-Alice Collett, York St John University<sup class="footnote-ref"><a id="fnref1" href="#fn1">[1]</a></sup><br>
-und<br>
+Alice Collett, York St John University<sup class="footnote-ref"><a id="fnref1" href="#fn1">[1]</a></sup>
+
+und
+
 Bhikkhu Anālayo, Universität Hamburg
 
 [Originaltext](http://blogs.dickinson.edu/buddhistethics/?s=analayo+bhikkhave) (PDF zum Herunterladen)
