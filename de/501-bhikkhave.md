@@ -11,7 +11,7 @@ Bhikkhu Anālayo, Universität Hamburg
 
 *Copyright-Hinweis (aus dem Originaltext):* Digitale Vervielfältigung und Verteilung dieses Werkes ist erlaubt, sofern keine Eingriffe und Veränderungen am Inhalt vorgenommen werden. Vervielfältigung in jeder anderen Form, mit Ausnahme einer einzelnen Kopie zum persönlichen Studium, erfordert die schriftliche Genehmigung der Autoren. Alle Anfragen bitte an: <vforte@albright.edu>.
 
-*Hinweis der Übersetzerin:* Diese deutsche Übersetzung wurde mit freundlicher Genehmigung der Autorin und des Autors gemacht. Über die beim Originaltext angegebenen Copyright-Bestimmungen hinausgehende Einschränkungen werden für die Übersetzung nicht erhoben.
+*Hinweis der Übersetzerin:* Diese deutsche Übersetzung wurde mit freundlicher Genehmigung der Autorin und des Autors gemacht. Über die beim Originaltext angegebenen Copyright-Bestimmungen hinausgehende Einschränkungen gelten für die Übersetzung nicht.
 
 ## Abstract
 Im Folgenden untersuchen wir, ob der Gebrauch des Vokativs *bhikkhave* oder des Nominativs *bhikkhu* in buddhistischen kanonischen Texten bedeutet, dass weibliche Ordensangehörige von der Zuhörerschaft ausgeschlossen sind. Während wir diesen grundlegenden Punkt untersuchen, betrachten wir auch den Vokativ von Eigennamen und das Fehlen des Ausdrucks *arahantī* in der Pāli-Lehrredenliteratur.<sup class="footnote-ref"><a id="fnref2" href="#fn2">[2]</a></sup>
