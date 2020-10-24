@@ -1,4 +1,4 @@
-# *Bhikkhave* und *Bhikkhu* als geschlechtergerechte Ausdrucksweise in frühen buddhistischen Texten
+# *Bhikkhave* und *Bhikkhu* als alle Geschlechter einschließende Ausdrucksweise in frühen buddhistischen Texten
 (Aus: Journal of Buddhist Ethics, ISSN 1076-9005, http://blogs.dickinson.edu/buddhistethics/, Band 21, 2014)
 
 *Alice Collett, York St John University<sup class="footnote-ref"><a id="fnref1" href="#fn1">[1]</a></sup>*
