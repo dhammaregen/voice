@@ -26,7 +26,7 @@ Die Vokativ-Anrede für Mönche erscheint im Pālikanon in zwei Formen: *bhikkha
 
 Das folgende Beispiel aus dem *Saṃyutta-Nikāya* ist typisch dafür, wie die Vokativ-Anrede vorkommt:
 
-<blockquote>Bhikkhus, gebt alles auf, was nicht euer ist. Wenn ihr es aufgegeben habt, wird das zu eurem Wohl und Glück führen. Und was, Bhikkhus, ist nicht euer? Bhikkhus, Form ist nicht euer: Gebt sie auf. Wenn ihr sie aufgegeben habt, wird das zu eurem Wohl und Glück führen … <sup class="footnote-ref"><a id="fnref5" href="#fn5">[5]</a></sup></blockquote>
+> Bhikkhus, gebt alles auf, was nicht euer ist. Wenn ihr es aufgegeben habt, wird das zu eurem Wohl und Glück führen. Und was, Bhikkhus, ist nicht euer? Bhikkhus, Form ist nicht euer: Gebt sie auf. Wenn ihr sie aufgegeben habt, wird das zu eurem Wohl und Glück führen … <sup class="footnote-ref"><a id="fnref5" href="#fn5">[5]</a></sup>
 
 So erscheint der Ausdruck in der Mehrzahl der Texte des Pālikanon, allerdings nicht in den Texten in Versform wie dem *Dhammapada*, dem *Theratherīgāthā* und dem *Sutta-Nipāta*. Diese [englische; Anm. d. Übers.] Übersetzung ist Bhikkhu Bodhis Übersetzung [deutsche Übersetzung davon ausgehend; Anm. d. Übers.], in der allerdings der Vokativ in allen Fällen wieder eingefügt wurde. Der Ausdruck erscheint sehr viel öfter, als Bhikkhu Bodhi ihn übersetzt. Zum Beispiel übersetzt Bhikkhu Bodhi ihn im *Ariyapariyesanā-Sutta* des *Majjhima-Nikāya* nur zwölfmal, während er in der vorhandenen PTS-Ausgabe des Pālikanon 121 Mal in dem *Sutta* vorkommt. Auch erscheint er im *Sakka-Saṃyutta* des *Saṃyutta-Nikāya* in der PTS-Ausgabe 105 Mal, aber nur sechzig Mal in Bhikkhu Bodhis Übersetzung.
 
