@@ -72,7 +72,7 @@ Der Buddha redet die gesamte Versammlung als ein Kollektiv an und sucht für die
 
 ## 3. Idiomatischer Vokativ von Eigennamen im tibetischen Mūlasarvāstivāda-*Vinaya* und in Pālitexten
 Anders als im Fall des *Bhikṣuṇī-Vinaya* des Mahāsāṅghika-Lokottaravāda benutzt der Buddha im Mūlasarvāstivāda-*Vinaya*, der in tibetischer Übersetzung bewahrt wurde, den idiomatischen Vokativ Plural von Gautamīs Namen. Die betreffende Episode berichtet, wie fünfhundert *Bhikṣuṇīs*, Anhängerinnen Mahāprajāpatī Gautamīs, den Buddha um die Erlaubnis bitten, vor seinem Verscheiden ins Nirvāṇa einzugehen. Er antwortet:
-<blockquote>Gautamīs, aus welchem Grund sagt ihr, ihr [wollt ins] Nirvāṇa [eingehen]?<sup class="footnote-ref"><a id="fnref8" href="#fn8">[8]</a></sup></blockquote>
+> Gautamīs, aus welchem Grund sagt ihr, ihr [wollt ins] Nirvāṇa [eingehen]?<sup class="footnote-ref"><a id="fnref8" href="#fn8">[8]</a></sup>
 
 Ein vergleichbares Muster kann man in mehreren Pāli-Lehrreden sehen, wo der Buddha den Ausdruck *vo ānanda* gebraucht, einen Ausdruck, den er benutzt, wenn er in Gegenwart seines Hauptaufwärters eine Unterweisung gibt.<sup class="footnote-ref"><a id="fnref9" href="#fn9">[9]</a></sup> Das Pronomen *vo*, die enklitische Form von *tumhe*, entspricht dem Plural „ihr“. Auf diese Art weist die Kombination des Plurals „ihr“ mit dem Namen Ānanda im Singular darauf hin, dass die Unterweisung an den Aufwärter des Buddha gerichtet war und zugleich an alle, die sonst noch zufällig bei dieser speziellen Unterweisung zugegen waren.
 
@@ -112,11 +112,11 @@ Im sanskritischen Mūlasarvāstivāda-*Vinaya* wird der idiomatische Vokativ Plu
 
 ## 5. Auslegung des *Aṭṭhakathā*
 Die Pāli-Kommentartradition bietet Erläuterungen für den Begriff *bhikkhave* an. Diese bestätigen unsere These zum idiomatischen Gebrauch des Vokativs. Die Art kurzer Begriffserklärungen, die man häufig in den *Aṭṭhakathās*findet, ist zum Beispiel:
-<blockquote><em><strong>bhikkhave</strong> ti paṭissavena abhimukhībhūtānaṃ puna ālapanaṃ.</em><sup class="footnote-ref"><a id="fnref21" href="#fn21">[21]</a></sup>
-
-<em><strong>bhikkhave</strong> ti yo koci bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā.</em><sup class="footnote-ref"><a id="fnref22" href="#fn22">[22]</a></sup>
-
-<em><strong>bhikkhū āmantesī</strong> ti parisa-jeṭṭhake bhikkhū jānāpesi. <strong>Bhikkhavo</strong> ti tesaṃ āmantaṇ’ ākāra-dīpanaṃ.</em> <sup class="footnote-ref"><a id="fnref23" href="#fn23">[23]</a></sup> </blockquote>
+> ***bhikkhave** ti paṭissavena abhimukhībhūtānaṃ puna ālapanaṃ.*<sup class="footnote-ref"><a id="fnref21" href="#fn21">[21]</a></sup>
+>
+> ***bhikkhave** ti yo koci bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā.*<sup class="footnote-ref"><a id="fnref22" href="#fn22">[22]</a></sup>
+>
+> ***bhikkhū āmantesī** ti parisa-jeṭṭhake bhikkhū jānāpesi. **Bhikkhavo** ti tesaṃ āmantaṇ’ ākāra-dīpanaṃ.* <sup class="footnote-ref"><a id="fnref23" href="#fn23">[23]</a></sup>
 
 Diese drei Beispiele – mit *bhikkhave* und *bhikkhavo* – zeigen die Spanne der Auslegung: Die Vokativ-Anrede *bhikkhave/bhikkhavo* kann sich auf alle Anwesenden beziehen, die ihre Verehrung erweisen, oder sie kann eine Person meinen, die ein Mönch, eine Nonne, ein Laienmann oder eine Laienfrau ist, oder, etwas spezieller, kann sie auch als Anrede für die ältesten Mönche in der Versammlung gelten. In Bezug auf den letzten Kommentar gibt es längere Abschnitte zur Auslegung von *bhikkhave*, wie etwa eine Passage, die beim ersten Auftreten des Begriffs sowohl im *Majjhima-Nikāya*, im *Saṃyutta-Nikāya* als auch im *Aṅguttara-Nikāya* wiederholt wird. Die Passage sagt, dass sich die Anrede zwar wörtlich an die ältesten Mönche richtet, dass sie jedoch nicht ausschließend gemeint ist. Zunächst heißt es, *bhikkhavo* bezieht sich auf die, die befähigt sind, die Lehrrede zu hören:
 > ***Bhikkhavo*** Erklärung der Anrede – es sollen die in der Gruppe sein, die tüchtig und fähig sind, beginnend mit denen, die das Wesen eines Ordensangehörigen besitzen.<sup class="footnote-ref"><a id="fnref24" href="#fn24">[24]</a></sup>
