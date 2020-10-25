@@ -146,7 +146,7 @@ Zusätzlich zum Fall des Vokativs *bhikkhave*, den wir bisher besprochen haben, 
 Ānandas Bericht darüber, wie die *Bhikkhunīs* üben, findet die Zustimmung des Buddha. Dieser nutzt dann die Gelegenheit, über diese Art der Übung einen Vortrag zu halten. Der Vortrag geht folgendermaßen:<sup class="footnote-ref"><a id="fnref36" href="#fn36">[36]</a></sup>
 > „Angenommen, ein *Bhikkhu* ist darin verankert, achtsam den Körper als Körper zu betrachten.<sup class="footnote-ref"><a id="fnref37" href="#fn37">[37]</a></sup> Angenommen, wenn er im achtsamen Betrachten des Körpers als Körper verankert ist, ist der Körper benommen und die geistigen Faktoren sind träge.<sup class="footnote-ref"><a id="fnref38" href="#fn38">[38]</a></sup> Dieser *Bhikkhu* sollte begeistertes Zutrauen wecken, indem er ein begeisterndes Zeichen aufgreift.<sup class="footnote-ref"><a id="fnref39" href="#fn39">[39]</a></sup>
 >
-> „Wenn er einen geistigen Zustand ergriffenen Zutrauens erweckt hat, indem er sich an ein ergreifendes Zeichen erinnert hat, wird sein Geist froh. Wenn [sein Geist] froh ist, kommt Entzücken auf. Wenn sein Geist entzückt ist, wird sein Körper still. Wenn sein Körper still ist, erfährt er Wonne mit seinem ganzen Sein.<sup class="footnote-ref"><a id="fnref40" href="#fn40">[40]</a></sup> Wenn er mit seinem ganzen Sein Wonne erfahren hat, konzentriert sich sein Geist.“
+> „Wenn er einen geistigen Zustand begeisterten Zutrauens erweckt hat, indem er sich an ein begeisterndes Zeichen erinnert hat, wird sein Geist froh. Wenn [sein Geist] froh ist, kommt Entzücken auf. Wenn sein Geist entzückt ist, wird sein Körper still. Wenn sein Körper still ist, erfährt er Wonne mit seinem ganzen Sein.<sup class="footnote-ref"><a id="fnref40" href="#fn40">[40]</a></sup> Wenn er mit seinem ganzen Sein Wonne erfahren hat, konzentriert sich sein Geist.“
 
 Obwohl es in der ersten Hälfte der Lehrrede um die *Satipaṭṭhāna*-Übung der *Bhikkhunīs* geht, beschreibt der Buddha, als er davon hört, die *Satipaṭṭhāna*-Übung von *Bhikkhus*, ohne *Bhikkhunīs* überhaupt zu erwähnen. Das gleiche gilt für die Parallele im *Saṃyutta-Nikāya*.<sup class="footnote-ref"><a id="fnref41" href="#fn41">[41]</a></sup> Das wirft die Frage auf, ob der Übergang von *Bhikkhunīs* zu *Bhikkhus* ein Ausdruck geschlechtsbezogenen Vorurteils ist in dem Sinn, dass die eigentliche Übung der *Bhikkhunīs* nicht die ihr gebührende Anerkennung erfährt. Um das weiter zu untersuchen, wende ich mich der zweiten der drei vorher erwähnten Passagen zu.
 
@@ -194,7 +194,7 @@ Die Fähigkeit von Frauen, *Arahants* zu werden, spielt auch in einer Reihe vers
 
 Manche dieser Hinweise finden sich nur in Pāliquellen. So berichtet eine Lehrrede des *Aṅguttara-Nikāya*, die keine bekannte Parallele hat, von *Devas*, die den Buddha besuchten und bezeugten, dass gewisse *Bhikkhunīs* die *Arahant*schaft erlangt hatten. Diese Begegnung berichtet der Buddha anschließend den *Bhikkhus*.<sup class="footnote-ref"><a id="fnref60" href="#fn60">[60]</a></sup> Die *Therīgāthā* handelt von *Bhikkhunīs* einer hohen Entwicklungsstufe, und ein besoders bemerkenswertes Beispiel ist ihr Bericht über dreißig *Bhikkhunīs*, die die *Arahant*schaft erlangten.<sup class="footnote-ref"><a id="fnref61" href="#fn61">[61]</a></sup> Alles in Allem scheint es klar, dass im frühen buddhistischen Gedankengut die Fähigkeit von *Bhikkhunīs*, *Arahant*schaft zu erlangen, gut nachgewiesen und akzeptiert ist.
 
-In einem Artikel über „Frauen und das Arahantproblem in der frühen Paliliteratur“ („Women and the Arahant Issue in Early Pali Literature“) argumentiert Ellison Banks Findly (76) jedoch, dass Frauen „wegen der vorherrschenden sozialen Maßstäbe der *Aranhant*status nicht zugestanden wurde“. Gemäß ihrer Nachforschungen (58) „sind alle Personen, auf die der Begriff *Aranhant* im frühen Palikanon angewendet wird, Männer. Es gibt keinen einzigen Fall im Vinaya (den disziplinarischen Texten) oder den Nikāyas (den Texten über die Predigten des Buddha), in dem der Begriff eindeutig auf eine bestimmte Frau angewendet würde.“ Das führt sie dann (73) zu der Annahme, dass, obwohl die Fähigkeit von Frauen, das letzte Ziel zu erreichen, regelmäßig bekräftigt wird,<sup class="footnote-ref"><a id="fnref62" href="#fn62">[62]</a></sup> „Entsagung übenden Frauen die Kennzeichnung mit dem Titel verwehrt wird, weil Spender weniger begeistert sind, an *Aranhant*-Bittstellende zu spenden, die zufällig auch Frauen sind.“
+In einem Artikel über „Frauen und das Arahantproblem in der frühen Paliliteratur“ („Women and the Arahant Issue in Early Pali Literature“) argumentiert Ellison Banks Findly (76) jedoch, dass Frauen „wegen der vorherrschenden sozialen Maßstäbe der *Aranhant*status nicht zugestanden wurde“. Gemäß ihrer Nachforschungen (58) „sind alle Personen, auf die der Begriff *Aranhant* im frühen Palikanon angewendet wird, Männer. Es gibt keinen einzigen Fall im Vinaya (den disziplinarischen Texten) oder den Nikāyas (den Texten über die Predigten des Buddha), in dem der Begriff eindeutig auf eine bestimmte Frau angewendet würde.“ Das führt sie dann (73) zu der Annahme, dass, obwohl die Fähigkeit von Frauen, das letzte Ziel zu erreichen, regelmäßig bekräftigt wird<sup class="footnote-ref"><a id="fnref62" href="#fn62">[62]</a></sup>, „Entsagung übenden Frauen die Kennzeichnung mit dem Titel verwehrt wird, weil Spender weniger begeistert sind, an *Aranhant*-Bittstellende zu spenden, die zufällig auch Frauen sind.“
 
 Nun ist es gemäß einer *Vinaya*regel unzulässig, dass voll Ordinierte ihren Status als *Arahants* denen, die nicht voll ordiniert sind, bekannt geben.<sup class="footnote-ref"><a id="fnref63" href="#fn63">[63]</a></sup> Das macht es unwahrscheinlich, dass der Begriff *Arahant* in einer Erklärung der eigenen Verwirklichung als ein Hinweis gedient haben könnte, um Laienspender zum Gabenspenden zu bewegen.<sup class="footnote-ref"><a id="fnref64" href="#fn64">[64]</a></sup>
 
@@ -215,7 +215,7 @@ Zusammenfassend bedeutet die Spärlichkeit von Beispielen für den Begriff *aran
 
 In Bezug auf den Vokativ scheint *bhikkhave* ein Beispiel für einen idiomatischen Vokativ Plural zu sein, der gebraucht wird, um mehr als die einfache wörtliche Bedeutung auszudrücken. Zur Zeit, als die *Aṭṭhakathās* zusammengestellt, verfasst bzw. geschrieben wurden (wann immer das nach unserem Verständnis gewesen sein soll), scheint die Vorstellung der Vokativanrede für Mönche als idiomatisch – d. h., dass sie mehr als die wörtliche Bedeutung zum Ausdruck bringt und darauf abzielt, „Mönche und alle Anwesenden“ zu meinen – in der Tradition verankert gewesen zu sein.
 
-Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Frage: Beeinflussen die oben aufgeführten Hinweise und Argumente, wie wir diese Begriffe übersetzen, oder sollten sie das tun? Unsere Antwort darauf ist, dass wir denken, es ist hilfreich, in einer Veröffentlichung – und besonders in eier Veröffentlichung, die auch die Begriffe auf Pāli benutzt – auf die weiter gefassten Bedeutungsparameter im Zusammenhang mit *bhikkhave* und *bhikkhu* hinzuweisen. Die Begriff rein mit der wörtlichen Bedeutung zu übersetzen, als „Mönch“ oder „Mönche“, schließt die weitere Bedeutung der Begriffe nicht ein, die durch die eingehende Untersuchung aufgedeckt wurde und an die man sich (zumindest) in einigen Gemeinschaften im Lauf der Geschichte der buddhistischen Traditionen gehalten hat. Die Begriffe einfach als „Mönch“ oder „Mönche“ zu übersetzen kann zu Missverständnissen führen, etwa, dass angenommen wird, dass die Lehre oder die Lehren sich nur an Mönche richten oder nur von männlichen ordinierten Personen angewendet werden sollten. Doch, und das ist vielleicht der wichtigste Punkt, um den es uns bei diesem Papier geht, die frühen buddhistischen Lehren, die ausdrücklich an männliche Ordinierte gerichtet sind, sollten nicht so verstanden werden, dass sie ausnahmslos nur für diese gemeint waren.
+Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Frage: Beeinflussen die oben aufgeführten Hinweise und Argumente, wie wir diese Begriffe übersetzen, oder sollten sie das tun? Unsere Antwort darauf ist, dass wir denken, es ist hilfreich, in einer Veröffentlichung – und besonders in einer Veröffentlichung, die auch die Begriffe auf Pāli benutzt – auf die weiter gefassten Bedeutungsparameter im Zusammenhang mit *bhikkhave* und *bhikkhu* hinzuweisen. Die Begriffe rein mit der wörtlichen Bedeutung zu übersetzen, als „Mönch“ oder „Mönche“, schließt die weitere Bedeutung der Begriffe nicht ein, die durch die eingehende Untersuchung aufgedeckt wurde und an die man sich (zumindest) in einigen Gemeinschaften im Lauf der Geschichte der buddhistischen Traditionen gehalten hat. Die Begriffe einfach als „Mönch“ oder „Mönche“ zu übersetzen kann zu Missverständnissen führen, etwa, dass angenommen wird, dass die Lehre oder die Lehren sich nur an Mönche richten oder nur von männlichen ordinierten Personen angewendet werden sollten. Doch, und das ist vielleicht der wichtigste Punkt, um den es uns bei diesem Papier geht, die frühen buddhistischen Lehren, die ausdrücklich an männliche Ordinierte gerichtet sind, sollten nicht so verstanden werden, dass sie ausnahmslos nur für diese gemeint waren.
 
 ### Abkürzungen
 - AN Aṅguttara-Nikāya
@@ -246,47 +246,47 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Fr
 - Vin Vinaya
 
 ### Bibliografie
-- Akanuma, Chizen. The Comparative Catalogue of Chinese Āgamas & Pāli Nikāyas. Delhi: Sri Satguru, 1990 (first published 1929).
-- Allon, Mark. Three Gāndhārī Ekottarikāgama-Type Sūtras: British Library Kharoṣṭhī Fragments 12 and 14. Seattle: University of Washington Press, 2001.
-- Ānandajoti. “Nandakovāda, Nandaka’s Advice.” Published August 2014 online at http://www.ancient-buddhist-texts.net/English-Texts/Nandakas-Advice/Nandakas-Advice.htm
-- Anālayo, Bhikkhu. “The Bahudhātuka-sutta and its Parallels on Women’s Inabilities.” Journal of Buddhist Ethics, 16 (2009), 137–190.
-- . “Brahmā’s Invitation, The Ariyapariyesanā-sutta in the Light of its Madhyama-āgama Parallel.” Journal of the Oxford Centre for Buddhist Studies, 1 (2011), 12–38.
-- . “The Case of Sudinna: On the Function of Vinaya Narrative, Based on a Comparative Study of the Background Narration to the First Pārājika Rule.” Journal of Buddhist Ethics, 19 (2012), 396–438.
-- . A Comparative Study of the Majjhima-nikāya. Taipei: Dharma Drum Publishing Corporation, 2011
-- . “Defying Māra—Bhikkhunīs in the Saṃyukta-āgama.” In Women in Early Indian Buddhism: Comparative Textual Studies, edited by A. Collett, 116–139, New York: Oxford University Press, 2014.
-- . “Miracle-working Nuns in the Ekottarika-āgama: Soṇā’s Defeat of the Six Teachers and Mahāpajāpatī’s Spectacular Decease. ” (in preparation).
-- . “Outstanding Bhikkhunīs in the Ekottarika-āgama.” In Women in Early Indian Buddhism: Comparative Textual Studies, edited by A. Collett, 97–115. New York: Oxford University Press, 2014.
-- . Satipaṭṭhāna, the Direct Path to Realization, Birmingham: Windhorse, 2003.
-- . “Structural Aspects of the Majjhima-nikāya.” Bukkyō Kenkyū, 38 (2010), 35–70.
-- . “Theories on the Foundation of the Nuns’ Order—A Critical Evaluation.” Journal of the Centre for Buddhist Studies, Sri Lanka, 6 (2008), 105–142.
-- . “Uttarimanussadhamma.” In Encyclopaedia of Buddhism, edited by W.G. Weeraratne, 8.2: 462–465. Sri Lanka: Department of Buddhist Affairs, 2008.
-- Banks Findly, Ellison. “Women and the Arahant Issue in Early Pali Literature.” Journal of Feminist Studies in Religion, 15.1 (1999), 57–76.
-- Bechert, Heinz. “Methodological Considerations Concerning the Language of the Earliest Buddhist tradition.” Buddhist Studies Review 8.1-2 (1991), 3–20
-- Bingenheimer, Marcus. Studies in Āgama Literature, With Special Reference to the Shorter Chinese Saṃyuktāgama. Taipei: Dharma Drum Publishing Corporation, 2011.
-- Bodhi, Bhikkhu. The Connected Discourses of the Buddha, A New Translation of the Saṃyutta Nikāya, Boston: Wisdom Publications, 2000.
-- . The Numerical Discourses of the Buddha, A Translation of the Aṅguttara Nikāya. Boston: Wisdom Publications, 2012.
-- Clarke, Shayne. Family Matters in Indian Buddhist Monasticism. Honolulu: University of Hawai‘i Press, 2014.
-- Collett, Alice. “Male-Female Teacher-Disciple Relations in Early Indian Buddhism: The Evidence of Epigraphy” (forthcoming).
-- . “Segregation between Monks and Nuns in Early Buddhist Communities.” Religions of South Asia (forthcoming).
-- Dutt, Nalinaksha. Gilgit Manuscripts, Mūlasarvāstivāda Vinayavastu. Delhi: Sri Satguru, 1984 (vol. 1).
-- Edgerton, Franklin. Buddhist Hybrid Sanskrit Grammar and Dictionary. Delhi: Motilal Banarsidass, 1998 (vol. 2) (first published 1953).
-- Feer, Léon. “Études Bouddhiques. Comment on Devient Arhatī. ” Journal Asiatique, 8.1 (1883), 407–440.
-- Finnegan, Damchö Diana. “A ‘Flawless’ Ordination: Some Narratives of Nuns’ Ordinations in the Mūlasarvāstivāda Vinaya.” In Dignity & Discipline, Reviving Full Ordination for Buddhist Nuns, edited by T. Mohr and J. Tsedroen, 195–206. Boston: Wisdom, 2010.
-- Glass, Andrew. Four Gāndhārī Saṃyuktāgama Sūtras: Senior Kharoṣṭhī Fragment 5. Seattle and London: University of Washington Press, 2007.
-- Gnoli, Raniero. The Gilgit Manuscript of the Saṅghabhedavastu: Being the 17th and Last Section of the Vinaya of the Mūlasarvāstivādin. Rome: Istituto Italiano per il Medio ed Estremo Oriente, 1978.
-- Harvey, Peter. “The Approach to Knowledge and Truth in the Theravāda Record of the Discourses of the Buddha.” In Buddhist Philosophy, Essential Readings, edited by W. Edelglass et al., 175–184. Oxford: Oxford University Press, 2009.
-- Horner, I.B. The Book of the Discipline (Vinaya-Piṭaka). London: Pali Text Society, 1982 (vol. 1) (first published 1938).
-- Kelly, John. “The Buddha’s Teachings to Lay People.” Buddhist Studies Review, 28.1 (2011), 3–77.
-- Malalasekera, G.P. Dictionary of Pāli Proper Names. Delhi: Munshiram Manoharlal, 1998 (vol. 2)( first published 1938).
-- Pachow, W. A Comparative Study of the Prātimokṣa, On the Basis of its Chinese, Tibetan, Sanskrit and Pali Versions. Santiniketan: Sino-Indian Cultural Society, 1955.
-- Radich, Michael David. The Somatics of Liberation: Ideas about Embodiment in Buddhism from Its Origins to the Fifth Century C.E., PhD thesis. Cambridge, Massachusetts: Harvard University, Department of East Asian Languages and Civilizations, 2007.
-- Roth, Gustav. Bhikṣuṇī-Vinaya, Including Bhikṣuṇī-Prakīrṇaka and a Summary of the Bhikṣu-Prakīrṇaka of the Ārya-Mahāsāṃghika-Lokottaravādin. Patna: K.P. Jayaswal Research Institute, 1970.
-- . Mallī-jñāta, Das achte Kapitel des Nāyādhammakahāo im sechsten Aṅga des Śvetāmbara Jainakanons, Herausgegeben, übersetzt und erläutert. Wiesbaden: Franz Steiner, 1983.
-- Schmithausen, Lambert. “On some Aspects of Descriptions or Theories of ‘Liberating Insight’ and ‘Enlightenment’ in Early Buddhism.” In Studien zum Jainismus und Buddhismus, Gedenkschrift für Ludwig Alsdorf, edited by K. Bruhn and A. Wezler, 199–250. Wiesbaden: Franz Steiner, 1981.
-- Schopen, Gregory. Buddhist Monks and Business Matters: Still more Papers on Monastic Buddhism in India. Honolulu: University of Hawai'i Press, 2004.
-- von Hinüber, Oskar. “The Foundation of the Bhikkhunīsaṃgha—A Contribution to the Earliest History of Buddhism. ” Annual Report of the International Research Institute for Advanced Buddhology at Soka University 11 (2008), 3–29.
-- Warder, A. K. Introduction to Pali. Oxford: Pali Text Society, 1991 (first published 1963).
-- , Jeff. Mindful America: The Mutual Transformation of Buddhist Meditation and American Culture. Oxford: Oxford University Press, 2014.
+- Akanuma, Chizen. *The Comparative Catalogue of Chinese Āgamas & Pāli Nikāyas.* Delhi: Sri Satguru, 1990 (first published 1929).
+- Allon, Mark. *Three Gāndhārī Ekottarikāgama-Type Sūtras: British Library Kharoṣṭhī Fragments 12 and 14.* Seattle: University of Washington Press, 2001.
+- Ānandajoti. „Nandakovāda, Nandaka’s Advice.“ Published August 2014 online at http://www.ancient-buddhist-texts.net/English-Texts/Nandakas-Advice/Nandakas-Advice.htm
+- Anālayo, Bhikkhu. „The *Bahudhātuka-sutta* and its Parallels on Women’s Inabilities.“ *Journal of Buddhist Ethics*, 16 (2009), 137–190.
+- \___. „Brahmā’s Invitation, The *Ariyapariyesanā-sutta* in the Light of its *Madhyama-āgama* Parallel.“ *Journal of the Oxford Centre for Buddhist Studies*, 1 (2011), 12–38.
+- \___. „The Case of Sudinna: On the Function of *Vinaya* Narrative, Based on a Comparative Study of the Background Narration to the First *Pārājika* Rule.“ *Journal of Buddhist Ethics*, 19 (2012), 396–438.
+- \___. *A Comparative Study of the Majjhima-nikāya*. Taipei: Dharma Drum Publishing Corporation, 2011
+- \___. „Defying Māra—*Bhikkhunīs* in the *Saṃyukta-āgama*.“ In *Women in Early Indian Buddhism: Comparative Textual Studies*, edited by A. Collett, 116–139, New York: Oxford University Press, 2014.
+- \___. „Miracle-working Nuns in the *Ekottarika-āgama*: Soṇā’s Defeat of the Six Teachers and Mahāpajāpatī’s Spectacular Decease.“ (in preparation).
+- \___. „Outstanding *Bhikkhunīs* in the *Ekottarika-āgama*.“ In *Women in Early Indian Buddhism: Comparative Textual Studies*, edited by A. Collett, 97–115. New York: Oxford University Press, 2014.
+- \___. *Satipaṭṭhāna, the Direct Path to Realization*, Birmingham: Windhorse, 2003.
+- \___. „Structural Aspects of the *Majjhima-nikāya*.“ Bukkyō Kenkyū, 38 (2010), 35–70.
+- \___. „Theories on the Foundation of the Nuns’ Order—A Critical Evaluation.“ *Journal of the Centre for Buddhist Studies, Sri Lanka*, 6 (2008), 105–142.
+- \___. „Uttarimanussadhamma.”“ In *Encyclopaedia of Buddhism*, edited by W.G. Weeraratne, 8.2: 462–465. Sri Lanka: Department of Buddhist Affairs, 2008.
+- Banks Findly, Ellison. „Women and the Arahant Issue in Early Pali Literature.“ *Journal of Feminist Studies in Religion*, 15.1 (1999), 57–76.
+- Bechert, Heinz. „Methodological Considerations Concerning the Language of the Earliest Buddhist tradition.“ *Buddhist Studies Review* 8.1-2 (1991), 3–20
+- Bingenheimer, Marcus. *Studies in Āgama Literature, With Special Reference to the Shorter Chinese Saṃyuktāgama*. Taipei: Dharma Drum Publishing Corporation, 2011.
+- Bodhi, Bhikkhu. *The Connected Discourses of the Buddha, A New Translation of the Saṃyutta Nikāya*, Boston: Wisdom Publications, 2000.
+- \___. *The Numerical Discourses of the Buddha, A Translation of the Aṅguttara Nikāya*. Boston: Wisdom Publications, 2012.
+- Clarke, Shayne. *Family Matters in Indian Buddhist Monasticism*. Honolulu: University of Hawai‘i Press, 2014.
+- Collett, Alice. „Male-Female Teacher-Disciple Relations in Early Indian Buddhism: The Evidence of Epigraphy“ (forthcoming).
+- \___. „Segregation between Monks and Nuns in Early Buddhist Communities.“ *Religions of South Asia* (forthcoming).
+- Dutt, Nalinaksha. *Gilgit Manuscripts, Mūlasarvāstivāda Vinayavastu*. Delhi: Sri Satguru, 1984 (vol. 1).
+- Edgerton, Franklin. *Buddhist Hybrid Sanskrit Grammar and Dictionary*. Delhi: Motilal Banarsidass, 1998 (vol. 2) (first published 1953).
+- Feer, Léon. „Études Bouddhiques. Comment on Devient Arhatī.“ *Journal Asiatique*, 8.1 (1883), 407–440.
+- Finnegan, Damchö Diana. „A ‚Flawless‘ Ordination: Some Narratives of Nuns’ Ordinations in the Mūlasarvāstivāda Vinaya.“ In *Dignity & Discipline, Reviving Full Ordination for Buddhist Nuns*, edited by T. Mohr and J. Tsedroen, 195–206. Boston: Wisdom, 2010.
+- Glass, Andrew. *Four Gāndhārī Saṃyuktāgama Sūtras: Senior Kharoṣṭhī Fragment 5*. Seattle and London: University of Washington Press, 2007.
+- Gnoli, Raniero. *The Gilgit Manuscript of the Saṅghabhedavastu: Being the 17th and Last Section of the Vinaya of the Mūlasarvāstivādin*. Rome: Istituto Italiano per il Medio ed Estremo Oriente, 1978.
+- Harvey, Peter. „The Approach to Knowledge and Truth in the Theravāda Record of the Discourses of the Buddha.“ In *Buddhist Philosophy, Essential Readings*, edited by W. Edelglass et al., 175–184. Oxford: Oxford University Press, 2009.
+- Horner, I.B. *The Book of the Discipline (Vinaya-Piṭaka)*. London: Pali Text Society, 1982 (vol. 1) (first published 1938).
+- Kelly, John. „The Buddha’s Teachings to Lay People.“ *Buddhist Studies Review*, 28.1 (2011), 3–77.
+- Malalasekera, G.P. *Dictionary of Pāli Proper Names*. Delhi: Munshiram Manoharlal, 1998 (vol. 2)( first published 1938).
+- Pachow, W. *A Comparative Study of the Prātimokṣa, On the Basis of its Chinese, Tibetan, Sanskrit and Pali Versions*. Santiniketan: Sino-Indian Cultural Society, 1955.
+- Radich, Michael David. *The Somatics of Liberation: Ideas about Embodiment in Buddhism from Its Origins to the Fifth Century C.E.*, PhD thesis. Cambridge, Massachusetts: Harvard University, Department of East Asian Languages and Civilizations, 2007.
+- Roth, Gustav. *Bhikṣuṇī-Vinaya, Including Bhikṣuṇī-Prakīrṇaka and a Summary of the Bhikṣu-Prakīrṇaka of the Ārya-Mahāsāṃghika-Lokottaravādin*. Patna: K.P. Jayaswal Research Institute, 1970.
+- \___. *Mallī-jñāta, Das achte Kapitel des Nāyādhammakahāo im sechsten Aṅga des Śvetāmbara Jainakanons, Herausgegeben, übersetzt und erläutert*. Wiesbaden: Franz Steiner, 1983.
+- Schmithausen, Lambert. „On some Aspects of Descriptions or Theories of ‚Liberating Insight‘ and ‚Enlightenment‘ in Early Buddhism.“ In *Studien zum Jainismus und Buddhismus, Gedenkschrift für Ludwig Alsdorf*, edited by K. Bruhn and A. Wezler, 199–250. Wiesbaden: Franz Steiner, 1981.
+- Schopen, Gregory. *Buddhist Monks and Business Matters: Still more Papers on Monastic Buddhism in India.* Honolulu: University of Hawai'i Press, 2004.
+- von Hinüber, Oskar. “The Foundation of the Bhikkhunīsaṃgha—A Contribution to the Earliest History of Buddhism. ” *Annual Report of the International Research Institute for Advanced Buddhology at Soka University* 11 (2008), 3–29.
+- Warder, A. K. *Introduction to Pali.* Oxford: Pali Text Society, 1991 (first published 1963).
+- Wilson, Jeff. *Mindful America: The Mutual Transformation of Buddhist Meditation and American Culture.* Oxford: Oxford University Press, 2014.
 
 ### Anmerkungen
 <ol class="footnotes-list">
@@ -447,7 +447,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Fr
   	<a class="footnote-backref" href="#fnref39">↩</a>
   </li>
   <li id="fn40" class="footnote-item">
-  	Meine Übersetzung gründet sich auf die Annahme, dass ein Verweis auf 身 hier einen Instrumentalfall <em>kāyena</em> aus dem Original in der indischen Sprache wiedergibt; das dient in solchen Zusammenhängen als idiomatischer Ausdruck, um persönliche, unmittelbare Erfahrung auszudrücken; vgl. Schmithausen (214 und 249 ad. Anmerkung 50), Radich (263), Harvey (180 Anmerkung 10) und Anālayo (<em>Comparative</em> 379f Anmerkung 203).
+  	Meine Übersetzung [bezieht sich auf die englische Vorlage] gründet sich auf die Annahme, dass ein Verweis auf 身 hier einen Instrumentalfall <em>kāyena</em> aus dem Original in der indischen Sprache wiedergibt; das dient in solchen Zusammenhängen als idiomatischer Ausdruck, um persönliche, unmittelbare Erfahrung auszudrücken; vgl. Schmithausen (214 und 249 ad. Anmerkung 50), Radich (263), Harvey (180 Anmerkung 10) und Anālayo (<em>Comparative</em> 379f Anmerkung 203).
   	<a class="footnote-backref" href="#fnref40">↩</a>
   </li>
   <li id="fn41" class="footnote-item">
@@ -495,7 +495,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Fr
   	<a class="footnote-backref" href="#fnref51">↩</a>
   </li>
   <li id="fn52" class="footnote-item">
-  	Meine Übersetzung als vier „Wege“ folgt B e , C e , und S e : <em>maggehi</em>, E e bezieht sich stattdessen auf vier „Faktoren“ und liest: <em>aṅgehi</em>; vgl. auch Bodhi (<em>Numerical</em> 1706 Anmerkung 857).
+  	Meine Übersetzung [bezieht sich auf die englische Vorlage] als vier „Wege“ folgt B e , C e , und S e : <em>maggehi</em>, E e bezieht sich stattdessen auf vier „Faktoren“ und liest: <em>aṅgehi</em>; vgl. auch Bodhi (<em>Numerical</em> 1706 Anmerkung 857).
   	<a class="footnote-backref" href="#fnref52">↩</a>
   </li>
   <li id="fn53" class="footnote-item">
@@ -511,7 +511,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Fr
   	<a class="footnote-backref" href="#fnref55">↩</a>
   </li>
   <li id="fn56" class="footnote-item">
-  	Für eine ausführliche Untersuchung vgl. („Defying“).
+  	Für eine ausführliche Untersuchung vgl. Anālayo („Defying“).
   	<a class="footnote-backref" href="#fnref56">↩</a>
   </li>
   <li id="fn57" class="footnote-item">
