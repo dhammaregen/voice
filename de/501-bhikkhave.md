@@ -110,7 +110,7 @@ Zusätzlich zu dem Gebrauch, von dem wir zeigen konnten, dass er auf buddhistisc
 
 Im sanskritischen Mūlasarvāstivāda-*Vinaya* wird der idiomatische Vokativ Plural in einer Erzählung über die Ursprünge des Śākyerstammes benutzt, und die Familie Gautama war für die Śākyer außerordentlich bedeutend. Das *Upakkilesa-Sutta* mit Anuruddha ist als eins der besten Beispiele dafür, wie Anhänger des Buddha in vollkommener Eintracht zusammenleben können, wohlbekannt. Außderdem sind Sāriputta und Mahāmoggallāna als einander nahestehende Gefährten bekannt. In allen diesen Fällen sind die Beziehungen zwischen den jeweiligen Gruppenmitgliedern oder dem Paar entweder sehr eng oder durch besondere Bedeutung gekennzeichnet. Diese Beispiele legen zusammen mit dem Fehlen von Entsprechungen in anderer zeitgenössischer Literatur eine aufkeimende Entwicklung dieser Anredeform in einigen frühen buddhistischen Gemeinschaften in Indien nahe. Diese wurde vielleicht als Hinweis auf eine bedeutsame Beziehung zwischen Mitgliedern einer Gruppe oder Personenpaaren gebraucht.
 
-## 5. Auslegung des *Aṭṭhakathā*
+## 5. Auslegung durch den *Aṭṭhakathā*
 Die Pāli-Kommentartradition bietet Erläuterungen für den Begriff *bhikkhave* an. Diese bestätigen unsere These zum idiomatischen Gebrauch des Vokativs. Die Art kurzer Begriffserklärungen, die man häufig in den *Aṭṭhakathās* findet, ist zum Beispiel:
 > ***bhikkhave** ti paṭissavena abhimukhībhūtānaṃ puna ālapanaṃ.*<sup class="footnote-ref"><a id="fnref21" href="#fn21">[21]</a></sup>
 >
@@ -137,7 +137,7 @@ Zusätzlich zum Fall des Vokativs *bhikkhave*, den wir bisher besprochen haben, 
 >
 > Zu der Zeit legte der Ehrwürdige Ānanda am Morgen seine Roben an und nahm seine Schale, um die Stadt Sāvatthī zu betreten und um Almosen zu bitten. Auf dem Weg dachte er: „Ich will zuerst zur klösterlichen Unterkunft (*vihāra*) der *Bhikkhunīs* gehen.“ Er ging unverzüglich zur klösterlichen Unterkunft der *Bhikkhunīs*.<sup class="footnote-ref"><a id="fnref31" href="#fn31">[31]</a></sup>
 >
-> Als sie den Ehrwürdigen Ānanda von Weitem kommen sahen, richteten die *Bhikkhunīs* rasch einen Sitz her und luden ihn ein, Platz zu nehmen.<sup class="footnote-ref"><a id="fnref32" href="#fn32">[32]</a></sup> Dann erwiesen die *Bhikkhunīs* ihren Respekt zu Füßen des Ehrwürdigen Ānanda, zogen sich auf eine Seite zurück, wo sie sich setzten, und sagten zum Ehrwürdigen Ānanda: „Wir *Bhikkhunīs* sind in der Entwicklung der vier Grundlagen der Achtsamkeit mit einem [gut] gesammelten Geist verankert, und wir kennen selbst darauf aufbauende mehr oder weniger [erhabene Zustände].“<sup class="footnote-ref"><a id="33" href="#fn33">[33]</a></sup>
+> Als sie den Ehrwürdigen Ānanda von Weitem kommen sahen, richteten die *Bhikkhunīs* rasch einen Sitz her und luden ihn ein, Platz zu nehmen.<sup class="footnote-ref"><a id="fnref32" href="#fn32">[32]</a></sup> Dann erwiesen die *Bhikkhunīs* ihren Respekt zu Füßen des Ehrwürdigen Ānanda, zogen sich auf eine Seite zurück, wo sie sich setzten, und sagten zum Ehrwürdigen Ānanda: „Wir *Bhikkhunīs* sind in der Entwicklung der vier Grundlagen der Achtsamkeit mit einem [gut] gesammelten Geist verankert, und wir kennen selbst darauf aufbauende mehr oder weniger [erhabene Zustände].“<sup class="footnote-ref"><a id="fnref33" href="#fn33">[33]</a></sup>
 >
 > Der Ehrwürdige Ānanda sagte zu den *Bhikkhunīs*: „Es ist recht, Schwestern, es ist recht; man sollte so üben, wie ihr es beschrieben habt. Jemand, der in der Entwicklung der vier Grundlagen der Achtsamkeit mit einem gut gesammelten Geist verankert ist, sollte auf diese Art darauf aufbauende mehr oder weniger [erhabene Zustände] kennen.“<sup class="footnote-ref"><a id="fnref34" href="#fn34">[34]</a></sup> Dann unterwies der Ehrwürdige Ānanda die *Bhikkhunīs* auf verschiedene Arten im Dharma. Nachdem er den Dharma auf verschiedene Arten gelehrt hatte, erhob er sich von seinem Sitz und ging.
 >
@@ -403,7 +403,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Fr
   	<a class="footnote-backref" href="#fnref28">↩</a>
   </li>
   <li id="fn29" class="footnote-item">
-  	Der übersetzte Abschnitt ist vom SĀ 615 bei T II 172a 26 bis b 10 entnommen. Hier und anderswo übernehme ich das Pāli für Eigennamen und Lehrbegriffe (mit Ausnahme anglisierter Termini wie Dharma), um den Vergleich mit den Parallelen in den Pāli-Lehrreden zu vereinfachen; das bedeutet keine Stellungnahme dazu, welches die ursprüngliche Sprache des Textes war, auf den sich die chinesische Übersetzung stützte.
+  	Der übersetzte Abschnitt ist vom SĀ 615 bei T II 172a 26 bis b 10 entnommen. Hier und anderswo übernehme ich das Pāli für Eigennamen und Lehrbegriffe (mit Ausnahme anglisierter Termini wie Dharma), um den Vergleich mit den Parallelen in den Pāli-Lehrreden zu vereinfachen; das bedeutet keine Stellungnahme zu der Frage, welches die ursprüngliche Sprache des Textes war, auf den sich die chinesische Übersetzung stützte.
   	<a class="footnote-backref" href="#fnref29">↩</a>
   </li>
   <li id="fn30" class="footnote-item">
