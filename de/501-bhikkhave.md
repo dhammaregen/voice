@@ -1,5 +1,5 @@
 # *Bhikkhave* und *Bhikkhu* als alle Geschlechter einschließende Ausdrucksweise in frühen buddhistischen Texten
-(Aus: Journal of Buddhist Ethics, ISSN 1076-9005, http://blogs.dickinson.edu/buddhistethics/, Band 21, 2014)
+(Aus: *Journal of Buddhist Ethics*, ISSN 1076-9005, http://blogs.dickinson.edu/buddhistethics/, Band 21, 2014)
 
 *Alice Collett, York St John University<sup class="footnote-ref"><a id="fnref1" href="#fn1">[1]</a></sup>*
 
@@ -37,12 +37,12 @@ Doch die Unterschiede sind nicht immer so groß. Im *Māra-Saṃyukta* aus dem k
 In den fragmentarischen Gāndhārī-Parallelen zu einigen *Suttas* fehlt manchmal die Vokativ-Anrede, selbst wenn es ansonsten eine exakte Parallele ist. Das ist besonders offensichtlich in Glass' Studie über vier *Sūtras* des *Saṃyukta-Āgama*. Es gibt sieben Stellen, die man zum Vergleich heranziehen kann. Von diesen hat die Pālifassung in vier Fällen die Vokativ-Anrede, während die Gāndārīversion sie nicht hat. In zwei Fällen haben beide die Vokativ-Anrede, und in einem anderen Fall hat der Pālitext *bhikkhave* dreimal, während in der Gāndārīfassung die Entsprechung – *bhikṣave* – nur einmal vorkommt. Das letzte Beispiel ist wie folgt:
 > Pāli: *yam **bhikkhave** na tumhākaṃ tam pajahatha. Taṃ vo pahīnaṃ hitāya sukhāya bhavissati. Kiñca **bhikkave** na tumhākam. Rūpam **bhikkave** na tumhākaṃ tam pajahatha.*
 > 
-> Gāndhārī (rekonstruiert): *ya **bhikṣave** ṇa tuspahu ta praca{ja}asa ta prahiṇa hiḏae suhae bhavi(*śaḏi kica ṇa) (*tuspahu)u ruo ṇa tuspahu ta pajaasa …* (Glass 178)
+> Gāndhārī (rekonstruiert): *ya **bhikṣave** ṇa tuspahu ta praca{ja}asa ta prahiṇa hiḏae suhae bhavi(\*śaḏi kica ṇa) (\*tuspahu)u ruo ṇa tuspahu ta pajaasa …* (Glass 178)
 
 Die anderen vier Beispiele mit fehlendem Vokativ sind wie folgt:
 > Pāli: *seyyathāpi **bhikkhave** yam imasmiṃ jetavane tiṇakaṭṭhasākhāpalāsam taṃ jano hareyya vā ḍaheyya vā yathāpaccayaṃ vā kareyya.*
 >
-> Gāndhārī (rekonstruiert): *sayasavi yo himaspi jeḏavaṇe triṇa-kaṭha-śaha-patra-palaśa ta jaṇe chidea va harea v(*a dahea ve yasapa)c(*e)a karea …* (Glass 180)
+> Gāndhārī (rekonstruiert): *sayasavi yo himaspi jeḏavaṇe triṇa-kaṭha-śaha-patra-palaśa ta jaṇe chidea va harea v(\*a dahea ve yasapa)c(\*e)a karea …* (Glass 180)
 >
 > Pāli: *evam eva kho bhikkave rūpaṃ na tumhākam.*
 >
@@ -54,7 +54,7 @@ Die anderen vier Beispiele mit fehlendem Vokativ sind wie folgt:
 >
 > Pāli: *seyyathāpi bhikkhave kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvádasa vā …*
 >
-> Gāndhārī (rekonstruiert): *saysavi kukuḍ(*ia aḍagaṇi a)ṭh(*a) va daśa va baḏaśa va …* (Glass 207)
+> Gāndhārī (rekonstruiert): *saysavi kukuḍ(\*ia aḍagaṇi a)ṭh(\*a) va daśa va baḏaśa va …* (Glass 207)
 
 All diese Beispiele sind aus dem *Saṃyukta-Āgama*, da viele der anderen Gāndhārīfragmente Texte betreffen, die keine Vokativ-Anrede enthalten – wie etwa der *Dhammapada* – oder Texte, die keine direkte Pālientsprechung haben. Mark Allons Übersicht über die drei *Sūtras* vom *Ekottarika-Āgama*-Typ bietet keine gute Vergleichsgrundlage, da unglücklicherweise die meisten Vokative, wenn sie da waren, am linken Zeilenende gestanden hätten, das in den Fragmenten fehlt. Allon hat die Zeilen mit den Vokativ-Anreden so rekonstruiert, wie sie sich in parallelen Pālipassagen finden, aber aus den Manuskriptfragmenten wird nicht klar, ob sie im vollständigen Manuskript vorhanden waren oder nicht.
 
@@ -295,7 +295,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Fr
     <a class="footnote-backref" href="#fnref1">↩</a>
   </li>
   <li id="fn2" class="footnote-item">
-  	In diesem Artikel sind die Teile 1, 2, 4, und 5 von Alice Collett und die Teile 3, 6, und 7 von Anālayo. Alice Collett legte eine frühere Fassung einiger Teile dieses Papiers unter dem Titel „<em>Aṭṭhakathā</em> Exegesis of *Bhikkhave*“ beim XVII. Kongress der Internationalen Vereinigung für Buddhismuskunde (International Association of Buddhist Studies) der Universität Wien im August 2014 vor. Den folgenden Menschen möchte sie für ihren freundlichen Beitrag zu dem Papier danken: Bhikkhu Bodhi, Simon Brodbeck, Paul Dundas, Timothy Lenz, Patrick Olivelle, Blair Silverlock und Martin Seeger.
+  	In diesem Artikel sind die Teile 1, 2, 4, und 5 von Alice Collett und die Teile 3, 6, und 7 von Anālayo. Alice Collett legte eine frühere Fassung einiger Teile dieses Papiers unter dem Titel „<em>Aṭṭhakathā</em> Exegesis of <em>Bhikkhave</em>em>“ beim XVII. Kongress der Internationalen Vereinigung für Buddhismuskunde (International Association of Buddhist Studies) der Universität Wien im August 2014 vor. Den folgenden Menschen möchte sie für ihren freundlichen Beitrag zu dem Papier danken: Bhikkhu Bodhi, Simon Brodbeck, Paul Dundas, Timothy Lenz, Patrick Olivelle, Blair Silverlock und Martin Seeger.
   	<a class="footnote-backref" href="#fnref2">↩</a>
   </li>
   <li id="fn3" class="footnote-item">
