@@ -295,7 +295,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Fr
     <a class="footnote-backref" href="#fnref1">↩</a>
   </li>
   <li id="fn2" class="footnote-item">
-  	In diesem Artikel sind die Teile 1, 2, 4, und 5 von Alice Collett und die Teile 3, 6, und 7 von Anālayo. Alice Collett legte eine frühere Fassung einiger Teile dieses Papiers unter dem Titel „<em>Aṭṭhakathā</em> Exegesis of <em>Bhikkhave</em>em>“ beim XVII. Kongress der Internationalen Vereinigung für Buddhismuskunde (International Association of Buddhist Studies) der Universität Wien im August 2014 vor. Den folgenden Menschen möchte sie für ihren freundlichen Beitrag zu dem Papier danken: Bhikkhu Bodhi, Simon Brodbeck, Paul Dundas, Timothy Lenz, Patrick Olivelle, Blair Silverlock und Martin Seeger.
+  	In diesem Artikel sind die Teile 1, 2, 4, und 5 von Alice Collett und die Teile 3, 6, und 7 von Anālayo. Alice Collett legte eine frühere Fassung einiger Teile dieses Papiers unter dem Titel „<em>Aṭṭhakathā</em> Exegesis of <em>Bhikkhave</em>“ beim XVII. Kongress der Internationalen Vereinigung für Buddhismuskunde (International Association of Buddhist Studies) der Universität Wien im August 2014 vor. Den folgenden Menschen möchte sie für ihren freundlichen Beitrag zu dem Papier danken: Bhikkhu Bodhi, Simon Brodbeck, Paul Dundas, Timothy Lenz, Patrick Olivelle, Blair Silverlock und Martin Seeger.
   	<a class="footnote-backref" href="#fnref2">↩</a>
   </li>
   <li id="fn3" class="footnote-item">
