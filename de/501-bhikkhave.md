@@ -284,7 +284,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Fr
 - \___. *Mallī-jñāta, Das achte Kapitel des Nāyādhammakahāo im sechsten Aṅga des Śvetāmbara Jainakanons, Herausgegeben, übersetzt und erläutert*. Wiesbaden: Franz Steiner, 1983.
 - Schmithausen, Lambert. „On some Aspects of Descriptions or Theories of ‚Liberating Insight‘ and ‚Enlightenment‘ in Early Buddhism.“ In *Studien zum Jainismus und Buddhismus, Gedenkschrift für Ludwig Alsdorf*, edited by K. Bruhn and A. Wezler, 199–250. Wiesbaden: Franz Steiner, 1981.
 - Schopen, Gregory. *Buddhist Monks and Business Matters: Still more Papers on Monastic Buddhism in India.* Honolulu: University of Hawai'i Press, 2004.
-- von Hinüber, Oskar. “The Foundation of the Bhikkhunīsaṃgha—A Contribution to the Earliest History of Buddhism. ” *Annual Report of the International Research Institute for Advanced Buddhology at Soka University* 11 (2008), 3–29.
+- von Hinüber, Oskar. „The Foundation of the Bhikkhunīsaṃgha—A Contribution to the Earliest History of Buddhism.“ *Annual Report of the International Research Institute for Advanced Buddhology at Soka University* 11 (2008), 3–29.
 - Warder, A. K. *Introduction to Pali.* Oxford: Pali Text Society, 1991 (first published 1963).
 - Wilson, Jeff. *Mindful America: The Mutual Transformation of Buddhist Meditation and American Culture.* Oxford: Oxford University Press, 2014.
 
