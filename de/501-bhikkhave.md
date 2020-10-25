@@ -7,7 +7,7 @@
 
 *Bhikkhu Anālayo, Universität Hamburg*
 
-[Originaltext](http://blogs.dickinson.edu/buddhistethics/?s=analayo+bhikkhave) (PDF zum Herunterladen)
+<a href="http://blogs.dickinson.edu/buddhistethics/?s=analayo+bhikkhave" target="_blank">Originaltext</a> (PDF zum Herunterladen)
 
 *Copyright-Hinweis (aus dem Originaltext):* Digitale Vervielfältigung und Verteilung dieses Werkes ist erlaubt, sofern keine Eingriffe und Veränderungen am Inhalt vorgenommen werden. Vervielfältigung in jeder anderen Form, mit Ausnahme einer einzelnen Kopie zum persönlichen Studium, erfordert die schriftliche Genehmigung der Autoren. Alle Anfragen bitte an: <vforte@albright.edu>.
 
