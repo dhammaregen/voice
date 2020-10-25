@@ -323,7 +323,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Fr
   	<a class="footnote-backref" href="#fnref8">↩</a>
   </li>
   <li id="fn9" class="footnote-item">
-  	Cf., e.g., DN 16 bei DN II 138, 23.
+  	Cf., z. B., DN 16 bei DN II 138, 23.
   	<a class="footnote-backref" href="#fnref9">↩</a>
   </li>
   <li id="fn10" class="footnote-item">
@@ -343,7 +343,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übesetzung und der Fr
   	<a class="footnote-backref" href="#fnref13">↩</a>
   </li>
   <li id="fn14" class="footnote-item">
-  	Warder (165 Anmerkung 4) kommentiert in Bezug auf einen anderen solchen Fall, wo der Plural <em>Vāseṭṭhā</em> (gefunden in C e und S e  und vermerkt als Variante in der E e-Ausgabe bei DN III 81 Anmerkung 1) die Art darstellt, die beiden Brahmanenfreunde Vāseṭṭha und Bhāradvāja anzureden, dass das ein Fall von „Vokativ Plural“ sei; „der zweite Name wird so verstanden, als sei er im ersten eingeschlossen“.
+  	Warder (165 Anmerkung 4) kommentiert in Bezug auf einen anderen solchen Fall, wo der Plural <em>Vāseṭṭhā</em> die Art darstellt, die beiden Brahmanenfreunde Vāseṭṭha und Bhāradvāja anzureden, dass das ein Fall von „Vokativ Plural“ sei (gefunden in C e und S e  und vermerkt als Variante in der E e-Ausgabe bei DN III 81 Anmerkung 1); „der zweite Name wird so verstanden, als sei er im ersten eingeschlossen“.
   	<a class="footnote-backref" href="#fnref14">↩</a>
   </li>
   <li id="fn15" class="footnote-item">
