@@ -102,7 +102,7 @@ Sie können Ihre Suche mit erweiterten Einstellungen anpassen. Erweiterten Einst
 
 <details><summary><h3>Häufig gestellte Fragen</h3></summary>
 
-#### Warum unterscheiden sich meine Suchergebnisse von denen auf SuttaCentral.net?
+#### Warum unterscheiden sich meine Suchergebnisse auf Voice von denen auf SuttaCentral.net?
 Voice durchsucht nur segmetierte Texte, das sind Texte, bei denen kleine Textabschnitte nummeriert wurden, um sie in verschiedenen Übersetzungen miteinander in Beziehung setzen zu können. Voice durchsucht nicht alle Übersetzungen, die man auf SuttaCentral findet. Derzeit gibt es viele, die daran arbeiten, mehr segmentierte Texte hinzuzufügen.
 
 </details>
