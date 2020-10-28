@@ -6,7 +6,7 @@ next: 'Suttaplayer'
 next_href: '201-suttaplayer'
 next_aria: 'sutttaplayer'
 ---
-# Die Suchfunktion
+# Die Suchfunktion verstehen
 Die Voice-Suchfunktion erfasst nur unterstützte Texte; Alttexte werden nicht durchsucht.
 
 <details><summary><h3>Nach einem Sutta suchen</h3></summary>
@@ -89,7 +89,6 @@ Sie können Ihre Suche mit erweiterten Einstellungen anpassen. Erweiterten Einst
 | -tc:pd | Pātidesanīya |
 | -tc:pj | Pārājika |
 | -tc:pvr | Parivāra | 
-| -tc:prv | Parivāra | 
 | -tc:sk | Sekhiya |
 | -tc:sn | Saṃyutta Nikāya |
 | -tc:ss | Saṅghādisesa |
