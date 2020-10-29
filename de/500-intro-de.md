@@ -57,7 +57,7 @@ Etwa Mitte 2019 habe ich mit dem Übersetzungsprojekt begonnen. Geplant ist, die
 - **SN**: SN 1.1; SN 3.21; SN 5; SN 10.8; SN 12.1-33; SN 22.59; SN 35.28; SN 42.11; SN 45.8; SN 47.9; SN 56.1, SN 56.11
 - **MN**: MN 2, MN 7, MN 10, MN 23, MN 33
 - **DN**: DN 33
-- **KN**: Thag 1.43; Thig Einerbuch; Thig 3.8, Thig 6.8
+- **KN**: Thag 1.43, Thag 15.2; Thig Einerbuch; Thig 3.8, Thig 6.8
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
 
