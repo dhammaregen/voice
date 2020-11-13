@@ -76,6 +76,7 @@ Die anderen vier Beispiele mit fehlendem Vokativ sind wie folgt:
 All diese Beispiele sind aus dem *Saṃyukta-Āgama*, da viele der anderen Gāndhārī-Fragmente Texte betreffen, die keine Vokativ-Anrede enthalten – wie etwa der *Dhammapada* – oder Texte, die keine direkte Pālientsprechung haben. Mark Allons Übersicht über die drei *Sūtras* vom *Ekottarika-Āgama*-Typ bietet keine gute Vergleichsgrundlage, da unglücklicherweise die meisten Vokative, wenn sie da waren, am linken Zeilenende gestanden hätten, das in den Fragmenten fehlt. Allon hat die Zeilen mit den Vokativ-Anreden so rekonstruiert, wie sie sich in parallelen Pālipassagen finden, aber aus den Manuskriptfragmenten wird nicht klar, ob sie im vollständigen Manuskript vorhanden waren oder nicht.
 
 <h2 id="item2">2. <i>Bhikṣuṇī-Vinaya</i> des Mahāsāṅghika-Lokottaravāda</h2>
+
 Im Pāli-*Vinaya* kommt die Vokativ-Anrede häufig vor, selbst in dem Teil für die Nonnen – und wenn wir das besprechen, kommen wir zu Beobachtungen, die bereits vorher von Anālayo („Theories“) und von Hinüber („Foundation“) gemacht wurden. Im Abschnitt über die Nonnen teilen die Nonnen den Mönchen mit, wenn sich ein Vorfall ereignet, diese sagen es wiederum dem Buddha, und der Buddha legt eine Regelung für die Nonnen fest, gebraucht dabei aber den Vokativ *bhikkhave*. Wenn wir den Gebrauch des Ausdrucks hier in seinem wörtlichsten Sinn verstehen, scheint der Buddha die Mönche über Regeln für die Nonnen zu unterweisen.
 
 In scharfem Gegensatz zum umfassenden Auftreten der Vokativ-Anrede im Abschnitt für die Nonnen des Pāli-*Vinaya* fehlt sie im *Bhikṣuṇī-Vinaya* des Mahāsāṅghika-Lokottaravāda. Der *Bhikṣuṇī-Vinaya* des Mahāsāṅghika-Lokottaravāda beginnt damit, dass der Buddha Mahāprajāpatī Gautamī anweist, die Gemeinschaft der Nonnen zu versammeln, und sobald das geschehen ist, legt er die Regeln dar. Auch in Bezug auf einzelne Regeln weist der Buddha, nachdem sich ein Vorfall zugetragen und Mahāprajāpatī Gautamī dem Buddha die Lage erklärt hat, diese an, die Nonnen zu versammeln (selbst die, die die Regelung bereits gehört haben), so dass er die Regelung verkünden kann. In diesem Fall besteht dann, wie vorgesehen, die Zuhörerschaft sowohl bei der gesamten Darlegung als auch bei einzelnen Regeln rein aus weiblichen Ordensangehörigen.
@@ -88,6 +89,7 @@ In diesem Text fand ich keine Beispiele für die Vokativ-Anrede für Mönche und
 Der Buddha redet die gesamte Versammlung als ein Kollektiv an und sucht für die Anrede keine Altehrwürdigen unter ihnen heraus, obwohl über den gesamten *Bhikṣuṇī-Vinaya* des Mahāsāṅghika-Lokottaravāda hinweg klar ist, dass Mahāprajāpatī Gautamī als die altehrwürdigste Nonne angesehen wird.
 
 <h2 id="item3">3. Idiomatischer Vokativ von Eigennamen im tibetischen Mūlasarvāstivāda-<i>Vinaya</> und in Pālitexten</h2>
+  
 Anders als im Fall des *Bhikṣuṇī-Vinaya* des Mahāsāṅghika-Lokottaravāda benutzt der Buddha im Mūlasarvāstivāda-*Vinaya*, der in tibetischer Übersetzung erhalten ist, den idiomatischen Vokativ Plural von Gautamīs Namen. Die betreffende Episode berichtet, wie fünfhundert *Bhikṣuṇīs*, Anhängerinnen Mahāprajāpatī Gautamīs, den Buddha um die Erlaubnis bitten, vor seinem Verscheiden ins Nirvāṇa einzugehen. Er antwortet:
 > Gautamīs, aus welchem Grund sagt ihr, ihr [wollt ins] Nirvāṇa [eingehen]?<sup class="footnote-ref"><a id="fnref8" href="#fn8">[8]</a></sup>
 
@@ -109,6 +111,7 @@ In diesem Beispiel wird offensichtlich auch der Eigenname einer einzelnen Person
 Der Fall von Sāriputta und Mahāmoggallāna zeigt auch, dass ein solcher Gebrauch nicht notwendig diskriminierend ist. Die Tatsache, dass Mahāmoggallāna nicht ausdrücklich erwähnt wird, bedeutet nicht, dass der Buddha Sāriputta Mahāmoggallāna vorzog oder dass Mahāmoggallānas Fähigkeiten nicht die ihnen gebührende Anerkennung erfuhren und dass er zugunsten Sāriputtas ausgelassen wurde. Stattdessen spiegelt es nur die Tatsache wieder, dass die nicht ausdrücklich Genannten ebenfalls eingeschlossen sind, wenn die in der Rangfolge Höherstehenden direkt angesprochen werden.
 
 <h2 id="item4">4. Idiomatischer Vokativ in anderen Quellen</h2>
+
 Die oben genannten Fälle zeigen klar den Gebrauch des idiomatischen Vokativs im Pāli und weisen zumindest auf eine Anwendung im Tibetischen hin. In Texten in anderen indischen Sprachen ist der Gebrauch weniger klar. Zum Beispiel steht in den Gāndhārī-Fragmenten des *Cūḷagosiṅga-Sutta* der Name Anuruddha (G. Aṇarudha) nicht offensichtlich im Plural, obwohl ein Plural gemeint sein könnte.<sup class="footnote-ref"><a id="fnref16" href="#fn16">[16]</a></sup>
 
 Es gibt allerdings ein Beispiel für den idiomatischen Vokativ im sanskritischen Mūlasarvāstivāda-*Vinaya*. Im einleitenden Abschnitt von Gnolis bearbeitetem Text des *Saṅghabhedavastu* geht eine Gruppe von Śākyern, die Auskunft über die Herkunft ihres Stammes erhalten möchte, zum Buddha und bittet ihn um diese Auskunft. Der Buddha weist Maudgalyāyana an, ihnen die Ehre zu erweisen. Wenn Maudgalyāyana sich setzt, um seine Erzählung zu beginnen, spricht er die versammelten Śākyer mit „Gautamā“ an – das heißt, er benutzt als Anrede einen Vokativ Plural. In diesem Fall scheint es, dass der Vokativ Plural für den Namen der Hauptfamilie der Gruppe gebraucht wird anstatt für eine einzelne Person wie im obigen Beispiel. Gautama ist natürlich der persönliche Name des Buddha, aber in diesem Fall sitzt der Buddha (sowohl im übertragenen als auch im wörtlichen Sinn) außerhalb der angesprochenen Gruppe. Der Vokativ wird hier auch wieder idiomatisch in einer Formulierung gebraucht, die den Rang berücksichtigt, wobei die wichtigste Gruppe aus der Versammlung mit Namen angesprochen wird, doch die Anrede gilt der ganzen Versammlung. Hier ist der Text:
@@ -127,6 +130,7 @@ Zusätzlich zu dem Gebrauch, von dem wir zeigen konnten, dass er auf buddhistisc
 Im sanskritischen Mūlasarvāstivāda-*Vinaya* wird der idiomatische Vokativ Plural in einer Erzählung über die Ursprünge des Śākyerstammes benutzt, und die Familie Gautama war für die Śākyer außerordentlich bedeutend. Das *Upakkilesa-Sutta* mit Anuruddha ist als eins der besten Beispiele dafür wohlbekannt, wie Anhänger des Buddha in vollkommener Eintracht zusammenleben können. Außerdem sind Sāriputta und Mahāmoggallāna als einander nahestehende Gefährten bekannt. In allen diesen Fällen sind die Beziehungen zwischen den jeweiligen Gruppenmitgliedern oder dem Paar entweder sehr eng oder besonders bedeutsam. Zusammen mit dem Fehlen von Entsprechungen in anderer zeitgenössischer Literatur legen diese Besispiele eine aufkeimende Entwicklung dieser Anredeform in einigen frühen buddhistischen Gemeinschaften in Indien nahe. Diese wurde vielleicht als Hinweis auf eine bedeutsame Beziehung zwischen Mitgliedern einer Gruppe oder Personenpaaren gebraucht.
 
 <h2 id="item5">5. Auslegung durch den <i>Aṭṭhakathā</i></h2>
+
 Die Pāli-Kommentartradition bietet Erläuterungen für den Begriff *bhikkhave* an. Diese bestätigen unsere These zum idiomatischen Gebrauch des Vokativs. Die Art kurzer Begriffserklärungen, die man häufig in den *Aṭṭhakathās* findet, ist zum Beispiel:
 > ***bhikkhave** ti paṭissavena abhimukhībhūtānaṃ puna ālapanaṃ.*<sup class="footnote-ref"><a id="fnref21" href="#fn21">[21]</a></sup>
 >
@@ -146,6 +150,7 @@ Und im Hinblick auf jene, die den Vorzug genießen, dem Lehrer nahe zu sein, hei
 Hier kommentieren die *Aṭṭhakathās* die Vokativanrede als idiomatisch, wie auch wir sie diskutiert haben. Der Buddha wendet sich an die Mönche oder die ältesten Mönche, die ihm am nächsten sitzen, aber er spricht zu allen Versammelten. Und wie die zuletzt zitierte Stelle zeigt, werden in diesem Fall die Schüler des Buddha so unterwiesen, und so wird es gewöhnlich gehandhabt.
 
 <h2 id="item6">6. Der Gebrauch der Nominative <i>bhikkhu</i> und <i>bhikkhunī</i></h2>
+
 Zusätzlich zum Fall des Vokativs *bhikkhave*, den wir bisher besprochen haben, will ich im Folgenden den Gebrauch der Nominative *bhikkhu* und/oder *bhikkhunī* anhand von drei Beispielen aufgreifen. Das erste Beispiel kommt in einer Lehrrede über *Bhikkhunīs* im *Saṃyutta-Nikāya* und ihrer Parallele im *Saṃyukta-Āgama* vor und hebt die Fertigkeit einer Gruppe von *Bhikkhunīs* bei ihrer *Satipaṭṭhāna*-Übung hervor. Die anderen beiden Beispiele sind aus dem *Majjhima-Nikāya* und dem *Aṅguttara-Nikāya*, und zwar aus dem *Cetokhila-Sutta* und dem *Yuganaddha-Sutta* (zusammen mit ihren Parallelen). Zu ihnen werde ich anschließend kommen.<sup class="footnote-ref"><a id="fnref28" href="#fn28">[28]</a></sup> Ich beginne mit der Übersetzung des ersten Teils der Lehrrede über *Bhikkhunīs* im *Saṃyukta-Āgama*:<sup class="footnote-ref"><a id="fnref29" href="#fn29">[29]</a></sup>
 > [Lehrrede über *Bhikkhunīs*]<sup class="footnote-ref"><a id="fnref30" href="#fn30">[30]</a></sup>
 >
@@ -202,6 +207,7 @@ Die Lehrrede fährt mit mehr Einzelheiten über diesen speziellen Weg fort und u
 Die Lehrrede des *Aṅguttara-Nikāya* setzt ihre Beschreibung aller vier Wege fort, indem sie nur einen *Bhikkhu* erwähnt. In ihrer abschließenden Stellungnahme über die vier Wege werden jedoch die *Bhikkhunīs* wieder genannt.<sup class="footnote-ref"><a id="fnref53" href="#fn53">[53]</a></sup> Die Erläuterungen, die für jeden dieser vier Wege zum vollkommenen Erwachen gegeben werden, sind selbstverständlich für *Bhikkhunīs* ebenso bedeutsam wie für *Bhikkhus*. Der einführende Satz in beiden Versionen macht das sehr deutlich. Der Unterschied zwischen den beiden Fassungen – dass die Lehrrede im *Saṃyukta-Āgama* durchgängig von „einem *Bhikkhu* oder einer *Bhikkhunī*“ spricht, wohingegen die Version des *Aṅguttara-Nikāya* in ihrer eigentlichen Darstellung nur von „einem *Bhikkhu*“ spricht – dieser Unterschied ist daher lediglich ein formaler Unterschied ohne weitere Konsequenzen. In der Lehrrede des *Aṅguttara-Nikāya* stellt der Ausdruck *bhikkhu* einfach einen Sammelbegriff dar. Das veranschaulicht die Erkenntnis aus der Untersuchung der drei Passagen, deren Variationen genau diese Funktion bezeugen.
 
 <h2 id="item7">7. Was hat es mit dem Begriff <i>Arahantī</i> auf sich?</h2>
+
 Ein anderer beachtenswerter Aspekt der obigen Darstellung im *Yuganaddha-Sutta* und seiner *Saṃyukta-Āgama*-Parallele ist, dass die beiden Versionen eindeutig darin übereinstimmen, *Bhikkhunīs* gleichrangig mit *Bhikkhus* zu nennen, wenn es darum geht, eine Erklärung über das Erreichen eines Ziels zu machen; in der *Aṅguttara-Nikāya*-Lehrrede genauer angegeben als eine Erklärung, ein *Arahant* geworden zu sein.
 
 Das *Yuganaddha-Sutta* und seine *Saṃyukta-Āgama*-Parallele sind nicht die Einzigen, die klar feststellen, dass *Bhikkhunīs* fähig sind, das höchste Ziel zu erreichen. Eine solche Fähigkeit von *Bhikkhunīs*, *Arahants* zu werden, ist ein wiederkehrendes Thema in den frühen Lehrreden. Eine Lehrrede im *Saṃyutta-Nikāya* und ihre Parallelen im *Saṃyukta-Āgama* drücken den elementaren Grundsatz aus, dass Frauen das höchste Ziel geradeso gut erreichen können wie Männer.<sup class="footnote-ref"><a id="fnref54" href="#fn54">[54]</a></sup> Die gleichen Sammlungen berichten über die selbstbewusste Antwort einer *Bhikkhunī* auf eine Herausforderung Māras, wo sie erklärt, dass das Geschlecht bei der Meditation keine Rolle spielt.<sup class="footnote-ref"><a id="fnref55" href="#fn55">[55]</a></sup> Das ist nur eine aus einer Serie von Lehrreden, die von *Bhikkhunīs* einer hohen Entwicklungsstufe gehalten werden, die voller Selbstvertrauen den Herausforderungen Māras die Stirn bieten.<sup class="footnote-ref"><a id="fnref56" href="#fn56">[56]</a></sup>
@@ -227,6 +233,7 @@ Um einen übergeordneten Zusammenhang für die alten indischen Verhältnisse her
 Insgesamt kann die Tatsache, dass der Begriff *Arahant* in der Pāli-Lehrreden- und -Vinaya-Literatur selten auf Frauen angewendet wird, nicht als ein Versuch betrachtet werden, vollkommen erwachten *Bhikkhunīs* ihre Berechtigung abzusprechen, von vertrauensvollen Spendern Gaben zu empfangen.
 
 <h2 id="item8">Schlussfolgerung</h2>
+
 Zusammenfassend bedeutet die Spärlichkeit von Beispielen für den Begriff *aranhantī* nicht, dass die Fähigkeit von Frauen, vollkommenes Erwachen zu erlangen, nicht anerkannt worden wäre. Ähnlich spiegelt auch der Gebrauch des Nominativs *bhikkhu* keine Geschlechterdiskriminierung wieder.
 
 In Bezug auf den Vokativ scheint *bhikkhave* ein Beispiel für einen idiomatischen Vokativ Plural zu sein, der gebraucht wird, um mehr als die einfache wörtliche Bedeutung auszudrücken. Zur Zeit, als die *Aṭṭhakathās* zusammengestellt, verfasst bzw. geschrieben wurden (wann immer das nach unserem Verständnis gewesen sein soll), scheint die Vorstellung der Vokativanrede für Mönche als idiomatisch – d. h., dass sie mehr als die wörtliche Bedeutung zum Ausdruck bringt und darauf abzielt, „Mönche und alle Anwesenden“ zu meinen – in der Tradition verankert gewesen zu sein.
@@ -234,6 +241,7 @@ In Bezug auf den Vokativ scheint *bhikkhave* ein Beispiel für einen idiomatisch
 Wir möchten schließen mit einer Bemerkung zur Frage der Übersetzung und der Frage: Beeinflussen die oben aufgeführten Hinweise und Argumente, wie wir diese Begriffe übersetzen, oder sollten sie das tun? Unsere Antwort darauf ist, dass wir denken, es ist hilfreich, in einer Veröffentlichung – und besonders in einer Veröffentlichung, die auch die Begriffe auf Pāli benutzt – auf die weiter gefassten Bedeutungsparameter im Zusammenhang mit *bhikkhave* und *bhikkhu* hinzuweisen. Die Begriffe rein mit der wörtlichen Bedeutung zu übersetzen, als „Mönch“ oder „Mönche“, schließt die weitere Bedeutung der Begriffe nicht ein, die durch die eingehende Untersuchung aufgedeckt wurde und an die man sich (zumindest) in einigen Gemeinschaften im Lauf der Geschichte der buddhistischen Traditionen gehalten hat. Die Begriffe einfach als „Mönch“ oder „Mönche“ zu übersetzen kann zu Missverständnissen führen, etwa, dass angenommen wird, dass die Lehre oder die Lehren sich nur an Mönche richten oder nur von männlichen ordinierten Personen angewendet werden sollten. Doch, und das ist vielleicht der wichtigste Punkt, um den es uns bei diesem Papier geht, die frühen buddhistischen Lehren, die ausdrücklich an männliche Ordinierte gerichtet sind, sollten nicht so verstanden werden, dass sie ausnahmslos nur für diese gemeint waren.
 
 <h3 id="item9">Abkürzungen</h3>
+
 - AN Aṅguttara-Nikāya
 - B e Burmesische Ausgabe (Burmese edition)
 - C e Zeylonesische Ausgabe (Ceylonese edition)
@@ -262,6 +270,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übersetzung und der F
 - Vin Vinaya
 
 <h3 id="item10">Bibliografie</h3>
+
 - Akanuma, Chizen. *The Comparative Catalogue of Chinese Āgamas & Pāli Nikāyas.* Delhi: Sri Satguru, 1990 (first published 1929).
 - Allon, Mark. *Three Gāndhārī Ekottarikāgama-Type Sūtras: British Library Kharoṣṭhī Fragments 12 and 14.* Seattle: University of Washington Press, 2001.
 - Ānandajoti. „Nandakovāda, Nandaka’s Advice.“ Published August 2014 online at http://www.ancient-buddhist-texts.net/English-Texts/Nandakas-Advice/Nandakas-Advice.htm
@@ -305,6 +314,7 @@ Wir möchten schließen mit einer Bemerkung zur Frage der Übersetzung und der F
 - Wilson, Jeff. *Mindful America: The Mutual Transformation of Buddhist Meditation and American Culture.* Oxford: Oxford University Press, 2014.
 
 <h3 id="item11">Anmerkungen</h3>
+
 <ol class="footnotes-list">
   <li id="fn1" class="footnote-item">
     Alice Collett: Department of Theology and Religious Studies, York St John University. Email: a.collett@yorksj.ac.uk; Bhikkhu Anālayo: Numata Zentrum für Buddhismuskunde, Universität Hamburg; Dharma Drum Institute of Liberal Arts, Taiwan.
