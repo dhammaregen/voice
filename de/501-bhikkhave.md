@@ -21,7 +21,7 @@ Deutsch von Anagarika Sabbamitta
 - **[4. Idiomatischer Vokativ in anderen Quellen](/dhammaregen/de/501-bhikkhave#item4)**
 - **[5. Auslegung durch den *Aṭṭhakathā*](/dhammaregen/de/501-bhikkhave#item5)**
 - **[6. Der Gebrauch der Nominative *bhikkhu* und *bhikkhunī*](/dhammaregen/de/501-bhikkhave#item6)**
-- **[7. Was hat es mit dem Begriff *Arahantī* auf sich?](/dhammaregen/de/501-bhikkhave#item7)**
+- **[7. Was hat es mit dem Begriff *arahantī* auf sich?](/dhammaregen/de/501-bhikkhave#item7)**
 - **[Schlussfolgerung](/dhammaregen/de/501-bhikkhave#item8)**
 - **[Abkürzungen](/dhammaregen/de/501-bhikkhave#item9)**
 - **[Bibliografie](/dhammaregen/de/501-bhikkhave#item10)**
@@ -206,7 +206,7 @@ Die Lehrrede fährt mit mehr Einzelheiten über diesen speziellen Weg fort und u
 
 Die Lehrrede des *Aṅguttara-Nikāya* setzt ihre Beschreibung aller vier Wege fort, indem sie nur einen *Bhikkhu* erwähnt. In ihrer abschließenden Stellungnahme über die vier Wege werden jedoch die *Bhikkhunīs* wieder genannt.<sup class="footnote-ref"><a id="fnref53" href="#fn53">[53]</a></sup> Die Erläuterungen, die für jeden dieser vier Wege zum vollkommenen Erwachen gegeben werden, sind selbstverständlich für *Bhikkhunīs* ebenso bedeutsam wie für *Bhikkhus*. Der einführende Satz in beiden Versionen macht das sehr deutlich. Der Unterschied zwischen den beiden Fassungen – dass die Lehrrede im *Saṃyukta-Āgama* durchgängig von „einem *Bhikkhu* oder einer *Bhikkhunī*“ spricht, wohingegen die Version des *Aṅguttara-Nikāya* in ihrer eigentlichen Darstellung nur von „einem *Bhikkhu*“ spricht – dieser Unterschied ist daher lediglich ein formaler Unterschied ohne weitere Konsequenzen. In der Lehrrede des *Aṅguttara-Nikāya* stellt der Ausdruck *bhikkhu* einfach einen Sammelbegriff dar. Das veranschaulicht die Erkenntnis aus der Untersuchung der drei Passagen, deren Variationen genau diese Funktion bezeugen.
 
-<h2 id="item7">7. Was hat es mit dem Begriff <span style="font-style:italic !important">Arahantī</span> auf sich?</h2>
+<h2 id="item7">7. Was hat es mit dem Begriff <span style="font-style:italic !important">arahantī</span> auf sich?</h2>
 
 Ein anderer beachtenswerter Aspekt der obigen Darstellung im *Yuganaddha-Sutta* und seiner *Saṃyukta-Āgama*-Parallele ist, dass die beiden Versionen eindeutig darin übereinstimmen, *Bhikkhunīs* gleichrangig mit *Bhikkhus* zu nennen, wenn es darum geht, eine Erklärung über das Erreichen eines Ziels zu machen; in der *Aṅguttara-Nikāya*-Lehrrede genauer angegeben als eine Erklärung, ein *Arahant* geworden zu sein.
 
