@@ -7,7 +7,7 @@
 
 *Bhikkhu Anālayo, Universität Hamburg*
 
-*Deutsch von Anagarika Sabbamitta*
+Deutsch von Anagarika Sabbamitta
 
 <a href="http://blogs.dickinson.edu/buddhistethics/?s=analayo+bhikkhave" target="_blank">Originaltext</a> (PDF zum Herunterladen)
 
