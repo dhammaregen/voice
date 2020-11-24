@@ -18,11 +18,12 @@ next_aria: 'zur voice webseite'
 ## Technik und Entwicklung
 * <a href="https://sc-voice.github.io/sc-voice/en/490-dev-install" target="_blank">Installation: Developer</a>: enthält Instruktionen, wie man eine Entwicklerumgebung für Voice einrichtet (Englisch).
 * <a href="https://sc-voice.github.io/sc-voice/en/490-url-format" target="_blank">URL Format</a>: über Webseitenadressen der einzelnen Sutta-Seiten auf Voice (Englisch).
-* <a href="https://sc-voice.github.io/sc-voice/en/490-arch-storage" target="_blank">Architecture:-Storage</a>: (Englisch)
-* <a href="https://sc-voice.github.io/sc-voice/en/490-scv-admin" target="_blank">SuttaCentral-Voice-Administration</a>: (Englisch)
-* <a href="https://sc-voice.github.io/sc-voice/en/490-aws-install" target="_blank">AWS-Installation</a>: (Englisch)
-* <a href="https://sc-voice.github.io/sc-voice/en/490-aws-staging-911" target="_blank">AWS-Staging-911</a>: (Englisch)
-* <a href="https://sc-voice.github.io/sc-voice/en/490-zenhub" target="_blank">Notes-on-using-the-Voice-ZenHub-board</a>: (Englisch)
+* <a href="https://sc-voice.github.io/sc-voice/en/490-arch-storage" target="_blank">Architecture:-Storage</a> (Englisch)
+* <a href="https://sc-voice.github.io/sc-voice/en/490-scv-admin" target="_blank">SuttaCentral-Voice-Administration</a> (Englisch)
+* <a href="https://sc-voice.github.io/sc-voice/en/490-aws-install" target="_blank">AWS-Installation</a> (Englisch)
+* <a href="https://sc-voice.github.io/sc-voice/en/490-aws-staging-911" target="_blank">AWS-Staging-911</a> (Englisch)
+* <a href="https://sc-voice.github.io/sc-voice/en/490-zenhub" target="_blank">Notes-on-using-the-Voice-ZenHub-board</a> (Englisch)
+* <a href="https://sc-voice.github.io/sc-voice/en/490-release" target="_blank">Release instructions</a> (Englisch)
 
 ## Aussprachefehler
 * <a href="https://sc-voice.github.io/sc-voice/en/401-edit-pronunciation" target="_blank">Edit-Pronunciation</a>: Bearbeiten von Aussprachefehlern der Lesestimmen (Englisch)
