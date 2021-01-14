@@ -24,7 +24,7 @@ next_aria: 'zur voice webseite'
 * <a href="https://sc-voice.github.io/sc-voice/en/490-aws-staging-911" target="_blank">AWS-Staging-911</a> (Englisch)
 * <a href="https://sc-voice.github.io/sc-voice/en/490-zenhub" target="_blank">Notes-on-using-the-Voice-ZenHub-board</a> (Englisch)
 * <a href="https://sc-voice.github.io/sc-voice/en/490-release" target="_blank">Release instructions</a> (Englisch)
-* <a href="https://sc-voice.github.io/sc-voice/en/490-examples-exceptions" target="_blank">manage examples and word exceptions</a> (Englisch)
+* <a href="https://sc-voice.github.io/sc-voice/en/490-examples-exceptions" target="_blank">Manage examples and word exceptions</a> (Englisch)
 
 ## Aussprachefehler
 * <a href="https://sc-voice.github.io/sc-voice/en/401-edit-pronunciation" target="_blank">Edit-Pronunciation</a>: Bearbeiten von Aussprachefehlern der Lesestimmen (Englisch)
