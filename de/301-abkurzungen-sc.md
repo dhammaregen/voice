@@ -8,13 +8,13 @@ prev_aria: 'suttacentral Info'
 
 SuttaCentral ist um die Idee von eindeutig definierten Einheiten herum aufgebaut — normalerweise ein Sutta, eine Vinayaregel oder ein Textabschnitt —, die jeweils eine einzigartige Identität haben. Diese Identität wird von einer Abkürzung dargestellt, die sowohl dazu dient, den Text zu benennen, als auch, die URL für diesen Text zu bilden. Diese Abkürzungen sind so kurz und so flexibel wie wir sie machen können. Wir weichen nicht beliebig von anerkannten Gewohnheiten ab, jedoch in besonderen Fällen war es aufgrund der speziellen Erfordernisse von SuttaCentral notwendig, neue Abkürzungen einzusetzen. Alle Abkürzungen müssen die folgenden Kriterien erfüllen:
 
-* Einzig innerhalb des gesamten Korpus von SuttaCentral;
+* Einzigartig innerhalb des gesamten Korpus von SuttaCentral;
 * Keine Sonderzeichen oder diakritischen Zeichen (da diese nicht in URLs verwendet werden können);
-* Unabhängig von Groß- oder Kleinschreibung;
+* Keine Berücksichtigung von Groß- oder Kleinschreibung;
 * Gewöhnlich zwei, hoffentlich nicht mehr als drei Zeichen lang;
 * Kompatibel mit anerkannten Normen und Konventionen wie z. B. ISO.
 
-Um die Liste nicht zu überladen, lassen wir die Kürzel für die Sprachen weg; sie folgen dem zweibuchstabigen ISO 639-1 für moderne Sprachen und dem dreibuchstabigen ISO 639-3 für alte Sprachen.
+Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen weg; sie folgen dem zweibuchstabigen ISO 639-1 für moderne Sprachen und dem dreibuchstabigen ISO 639-3 für alte Sprachen.
 
 ### Liste der Abkürzungen
 
