@@ -30,7 +30,7 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Asian Classics Input Project  </td></tr>
 <tr>
 <td>AN </td>
-<td>Aṅguttara Nikāya  </td></tr>
+<td>Aṅguttara-Nikāya  </td></tr>
 <tr>
 <td>Arv </td>
 <td>Arthaviniścaya  </td></tr>
@@ -69,7 +69,7 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Cariyapiṭaka  </td></tr>
 <tr>
 <td>D </td>
-<td>Derge edition of Tibetan canon  </td></tr>
+<td>Derge-Ausgabe des tibetischen Kanon  </td></tr>
 <tr>
 <td>DA </td>
 <td>Dīrghāgama  </td></tr>
@@ -96,7 +96,7 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Dharmaskandha  </td></tr>
 <tr>
 <td>DN </td>
-<td>Dīgha Nikāya  </td></tr>
+<td>Dīgha-Nikāya  </td></tr>
 <tr>
 <td>Dpvs </td>
 <td>Dīpavaṁsa  </td></tr>
@@ -114,7 +114,7 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Ekottarikāgama  </td></tr>
 <tr>
 <td>EA2 </td>
-<td>2nd Ekottarikāgama  </td></tr>
+<td>Zweiter Ekottarikāgama  </td></tr>
 <tr>
 <td>ed </td>
 <td>edited, edition, editor  </td></tr>
@@ -126,16 +126,16 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Gilgit  </td></tr>
 <tr>
 <td>GBM </td>
-<td>Gilgit Buddhist Manuscripts  </td></tr>
+<td>Buddhistische Manuskripte von Gilgit  </td></tr>
 <tr>
 <td>Gd </td>
 <td>Garudhamma  </td></tr>
 <tr>
 <td>Gdhp </td>
-<td>Gāndhārī Dharmapada  </td></tr>
+<td>Gāndhārī-Dharmapada  </td></tr>
 <tr>
 <td>Gf </td>
-<td>Gāndhārī fragment  </td></tr>
+<td>Gāndhārī-Fragment  </td></tr>
 <tr>
 <td>Gr </td>
 <td>Gāndhārī  </td></tr>
@@ -147,7 +147,10 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Gradual Sayings  </td></tr>
 <tr>
 <td>Hf </td>
-<td>Hybrid Sanskrit fragment  </td></tr>
+<td>Fragment in hybridem Sanskrit  </td></tr>
+<tr>
+  <td>Hskt</td>
+  <td>Hybrides Sanskrit </td></tr>
 <tr>
 <td>Hv </td>
 <td>Haimavata  </td></tr>
@@ -171,16 +174,16 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Khuddakavatthu  </td></tr>
 <tr>
 <td>Kf </td>
-<td>Khotanese fragment  </td></tr>
+<td>Khotanesisches Fragment  </td></tr>
 <tr>
 <td>Kh </td>
-<td>Khotanese  </td></tr>
+<td>Khotanesisch  </td></tr>
 <tr>
 <td>Kp </td>
 <td>Khuddakapāṭha  </td></tr>
 <tr>
 <td>KN </td>
-<td>Khuddaka Nikāya  </td></tr>
+<td>Khuddaka-Nikāya  </td></tr>
 <tr>
 <td>KS </td>
 <td>Kindred Sayings  </td></tr>
@@ -192,7 +195,7 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Lalitavistara  </td></tr>
 <tr>
 <td>ll </td>
-<td>Parallels  </td></tr>
+<td>Parallelen  </td></tr>
 <tr>
 <td>Lo </td>
 <td>Lokuttaravāda  </td></tr>
@@ -216,13 +219,13 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Milindapañha  </td></tr>
 <tr>
 <td>MN </td>
-<td>Majjhima Nikāya  </td></tr>
+<td>Majjhima-Nikāya  </td></tr>
 <tr>
 <td>Mpt </td>
 <td>Mahāvyutpatti  </td></tr>
 <tr>
 <td>Ms </td>
-<td>Mahasaṅgīti Tipiṭaka  </td></tr>
+<td>Mahasaṅgīti-Tipiṭaka  </td></tr>
 <tr>
 <td>Mu </td>
 <td>Mūlasarvāstivāda  </td></tr>
@@ -237,16 +240,16 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Nettipakaraṇa  </td></tr>
 <tr>
 <td>NP </td>
-<td>Nissaggiya Pācittiya  </td></tr>
+<td>Nissaggiya-Pācittiya  </td></tr>
 <tr>
 <td>Oa </td>
-<td>Other Āgama  </td></tr>
+<td>Sonstiger Āgama  </td></tr>
 <tr>
 <td>Other-t </td>
-<td>Other Taishō  </td></tr>
+<td>Sonstiger Taishō  </td></tr>
 <tr>
 <td>P </td>
-<td>page  </td></tr>
+<td>Seite  </td></tr>
 <tr>
 <td>Pc </td>
 <td>Pācittiya  </td></tr>
@@ -255,10 +258,13 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Pātidesanīya  </td></tr>
 <tr>
 <td>Pdhp </td>
-<td>Patna Dharmapada  </td></tr>
+<td>Patna-Dharmapada  </td></tr>
 <tr>
 <td>Pe </td>
 <td>Peṭakopadesa  </td></tr>
+  <tr>
+    <td>Pf </td>
+    <td>Prakrit-Fragment</td></tr>
 <tr>
 <td>Pj </td>
 <td>Pārājika  </td></tr>
@@ -297,16 +303,16 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Petavatthu  </td></tr>
 <tr>
 <td>Q </td>
-<td>Qianlong (Peking edition of Tibetan canon)  </td></tr>
+<td>Qianlong (Peking-Ausgabe des tibetischen Kanon)  </td></tr>
 <tr>
 <td>SA </td>
 <td>Saṃyuktāgama  </td></tr>
 <tr>
 <td>SA2 </td>
-<td>2nd Saṃyuktāgama  </td></tr>
+<td>Zweiter Saṁyuktāgama  </td></tr>
 <tr>
 <td>SA3 </td>
-<td>3rd Saṃyuktāgama  </td></tr>
+<td>Dritter Saṁyuktāgama  </td></tr>
 <tr>
 <td>Sab </td>
 <td>Śāriputrābhidharma  </td></tr>
@@ -318,7 +324,7 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>SuttaCentral  </td></tr>
 <tr>
 <td>Sf </td>
-<td>Sanskrit fragment  </td></tr>
+<td>Sanskrit-Fragment  </td></tr>
 <tr>
 <td>Sg </td>
 <td>Saṅgītiparyāya  </td></tr>
@@ -333,7 +339,7 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Sanskrit  </tr>
 <tr>
 <td>SN </td>
-<td>Saṃyutta Nikāya  </td></tr>
+<td>Saṁyutta-Nikāya  </td></tr>
 <tr>
 <td>Snp </td>
 <td>Suttanipāta  </td></tr>
@@ -360,13 +366,13 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Turfan  </td></tr>
 <tr>
 <td>Tha-ap </td>
-<td>Thera Apadana  </td></tr>
+<td>Thera-Apadana  </td></tr>
 <tr>
 <td>Thag </td>
 <td>Theragāthā  </td></tr>
 <tr>
 <td>Thi-ap </td>
-<td>Therī Apadana  </td></tr>
+<td>Therī-Apadana  </td></tr>
 <tr>
 <td>Thig </td>
 <td>Therīgāthā  </td></tr>
@@ -381,7 +387,7 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Udāna  </td></tr>
 <tr>
 <td>Uf </td>
-<td>Uighur fragment  </td></tr>
+<td>Uighurisches Fragment  </td></tr>
 <tr>
 <td>Up </td>
 <td>Abhidharmakośopayikanāmaṭīkā (Upāyika)  </td></tr>
@@ -393,7 +399,7 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Vibhaṅga  </td></tr>
 <tr>
 <td>VE </td>
-<td>Vinaya Ekottara  </td></tr>
+<td>Vinaya-Ekottara  </td></tr>
 <tr>
 <td>Vin </td>
 <td>Vinaya  </td></tr>
@@ -405,10 +411,10 @@ Um die Liste überschaubar zu halten, lassen wir die Kürzel für die Sprachen w
 <td>Vinayanidānasūtra  </td></tr>
 <tr>
 <td>Vol </td>
-<td>volume  </td></tr>
+<td>Band  </td></tr>
 <tr>
 <td>VS </td>
-<td>(Vinaya) Saṃyutta  </td></tr>
+<td>(Vinaya-)Saṁyutta  </td></tr>
 <tr>
 <td>Vv </td>
 <td>Vimānavatthu  </td></tr>
