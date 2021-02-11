@@ -8,7 +8,7 @@ prev_aria: 'suttacentral Info'
 
 ## EPUBs herunterladen
 
-Die neuesten Versionen der wichtigsten Übersetzungen auf SuttaCentral (englisch).
+Die neueste Version der wichtigsten Übersetzungen auf SuttaCentral (englisch).
 
 * [Long Discourses (Dīgha Nikāya), Bhikkhu Sujato](https://suttacentral.net/api/ebook/dn_en_sujato.epub)  
 * [Middle Discourses (Majjhima Nikāya), Bhikkhu Sujato](https://suttacentral.net/api/ebook/mn_en_sujato.epub)  
@@ -42,6 +42,6 @@ Nähere Einzelheiten zum Prozess der Erstellung dieser Texte und zu wichtigen Ä
 <td>Quellarchiv, enthält die tex-Quelldatei, die zum Zusammenstellen mit LuaLatex geeignet ist, und die gesamten sechs Bände als eine große HTML-Datei. Dies sind die Ausgangsdateien, von denen die anderen Formate abgeleitet sind.</td></tr>
 </table>
 
-## Sutta Nipāta von Laurence Mills (englisch)
+## Sutta-Nipāta von Laurence Mills (englisch)
 
-Das Sutta Nipāta ist ein weithin bekannter und vielgeliebter früher buddhistischer Text. Es ist eine Zusammenstellung von Gedichten, die begeistern, erziehen und ermahnen. Berührende Hingabe, tiefgründige Philosophie, praktische Moral sowie Einblicke in frühe buddhistische Kultur — sie alle haben hier ihren Platz. Die vorliegende englische Übersetzung drückt diese Lehren mit einer poetischen Stimme aus. Der ursprüngliche Übersetzer und Kommentator ist der erfahrene Pali-Wissenschaftler Laurence Khantipalo Mills; einige Teile wurden von anderen ergänzt, darunter Bhikkhu Ñānamoli und Bhikkhu Sujato. Laden Sie hier die <a href="https://github.com/suttacentral/suttacentral-files/blob/master/snp.pdf?raw=true" target="_blank">PDF</a> (0.8mb) herunter, oder bestellen Sie das Paperback bei Lulu.com.
+Das Sutta-Nipāta ist ein weithin bekannter und vielgeliebter früher buddhistischer Text. Es ist eine Zusammenstellung von Gedichten, die begeistern, erziehen und ermahnen. Berührende Hingabe, tiefgründige Philosophie, praktische Moral sowie Einblicke in frühe buddhistische Kultur — sie alle haben hier ihren Platz. Die vorliegende englische Übersetzung drückt diese Lehren mit einer poetischen Stimme aus. Der ursprüngliche Übersetzer und Kommentator ist der erfahrene Pali-Wissenschaftler Laurence Khantipalo Mills; einige Teile wurden von anderen ergänzt, darunter Bhikkhu Ñānamoli und Bhikkhu Sujato. Laden Sie hier die <a href="https://github.com/suttacentral/suttacentral-files/blob/master/snp.pdf?raw=true" target="_blank">PDF</a> (0.8mb) herunter, oder bestellen Sie das Taschenbuch bei Lulu.com.
