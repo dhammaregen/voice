@@ -10,26 +10,26 @@ Die buddhistischen Texte, ob in den Originalsprachen oder als Übersetzung, werd
 
 Unsere Quelldateien sind auf <a href="https://github.com/suttacentral" target="_blank">SuttaCentrals GitHub-Datenbank</a> frei verfügbar. SuttaCentral ist stolz darauf, zur *Open Source*-Gemeinschaft zu gehören.
 
-Das Material auf SuttaCentral fällt im Hinblick auf das Urheberrecht in drei verschiedene Kategorien, die weiter unten aufgeführt sind. Wenn Sie bezüglich eines Inhalts von SuttaCentral ein Urheberrecht geltend machen wollen oder über das Urheberrecht auf SuttaCentral diskutieren wollen, zögern Sie bitte nicht, uns <a href="https://discourse.suttacentral.net/" target="_blank">auf unserem Forum</a> zu kontaktieren.
+Das Material auf SuttaCentral fällt im Hinblick auf das Urheberrecht in drei verschiedene Kategorien, die weiter unten aufgeführt sind. Wenn Sie bezüglich eines Inhalts von SuttaCentral ein Urheberrecht geltend machen wollen oder über das Urheberrecht auf SuttaCentral sprechen wollen, zögern Sie bitte nicht, uns <a href="https://discourse.suttacentral.net/" target="_blank">auf unserem Forum</a> zu kontaktieren.
 
-#### 1. Originalmaterial, das von SuttaCentral neu erstellt wurde
+#### 1. Eigenständiges Material, das von SuttaCentral erstellt wurde
 
-Alle von SuttaCentral erstellten Originalmaterialien sind im öffentlichen Besitz unter <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">Creative Commons Zero (CC0 1.0 Universal)</a>.
+Alle von SuttaCentral erstellten eigenständigen Materialien sind im öffentlichen Besitz unter <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">Creative Commons Zero (CC0 1.0 Universal)</a>.
 
 Das umfasst alle Texte, Gestaltungselemente, Software und Bilder, die von SuttaCentral oder Personen, die für SuttaCentral arbeiten, geschaffen wurden und die sich auf der Domain suttacentral.net befinden, oder auf Domains oder Unter-Domains, die SuttaCentral gehören oder von ihm verwaltet werden, sofern nicht anders angegeben.
 
-Es steht Ihnen frei, beliebige Teile oder all dieses Material zu kopieren, zu verändern, weiterzuverteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden.
+Es steht Ihnen frei, beliebige Teile oder all dieses Material zu kopieren, zu verändern, weiter zu verteilen, vorzuführen, vorzutragen, zu übermitteln oder auf jegliche gewünschte Weise zu verwenden.
 
-Wenn Sie etwas von unserem Material verwenden, bitten wir höflich darum, dass Sie, auch wenn dazu keine rechtliche Verpflichtung besteht:
+Wenn Sie etwas von unserem Material verwenden, bitten wir höflich darum, auch wenn dazu keine rechtliche Verpflichtung besteht, dass Sie:
 
 * Die Quelle kenntlich machen.
-* Den Geist der buddhistischen Tradition beibehalten.
+* Den Geist der buddhistischen Überlieferung beibehalten.
 
 Lassen Sie uns bitte wissen, wenn Sie Hilfe bei der Verwendung unseres Materials wünschen.
 
 #### 2. Material, das von anderen erstellt und SuttaCentral zur Verfügung gestellt wurde
 
-Für manche der Materialien auf SuttaCentral liegt das Urheberrecht bei Dritten. Darunter fallen die meisten der übersetzten Texte. In solchen Fällen werden die Urheberrechtsbedingungen vom Urheberrechtsinhaber vorgegeben, gewöhnlich dem Übersetzer oder dem ursprünglichen Verleger. Solches Material wird entsprechend der Lizenz verwendet oder mit einer Genehmigung. Die entsprechenden Hinweise zum Urheberrecht sind dem Material beigefügt.
+Für manche der Materialien auf SuttaCentral liegt das Urheberrecht bei Dritten. Darunter fallen die meisten der übersetzten Texte. In solchen Fällen werden die Urheberrechtsbedingungen vom Urheberrechtsinhaber vorgegeben, gewöhnlich dem Übersetzer oder dem ursprünglichen Verleger. Solches Material wird entsprechend der Lizenz oder mit einer Genehmigung verwendet. Die entsprechenden Hinweise zum Urheberrecht, wie sie vom Copyright-Inhaber angegeben sind, sind dem Material beigefügt.
 
 Darüber hinaus beachten Sie bitte die Lizenzen für die folgenden von SuttaCentral benutzten Elemente. Mit Dank würdigen wir die Schöpfer für ihr Werk und ihre Großzügigkeit.
 
@@ -43,4 +43,4 @@ Darüber hinaus beachten Sie bitte die Lizenzen für die folgenden von SuttaCent
 
 Die Originaltexte des Buddhismus auf Pali, Chinesisch, Sanskrit, Tibetisch und in anderen Sprachen sind im <a href="https://creativecommons.org/publicdomain/mark/1.0/" target="_blank">öffentlichen Besitz</a>. Solche Materialien fallen nicht unter das Urheberrecht.
 
-Zusätzlich sind die Referenzdaten einschließlich Informationen über Parallelen keine „Neuschöpfung“ und fallen als solche nicht unter das Urheberrecht.
+Zusätzlich sind die Referenzdaten einschließlich Informationen über Parallelen keine „eigenständige Schöpfung“ und fallen als solche nicht unter das Urheberrecht.
