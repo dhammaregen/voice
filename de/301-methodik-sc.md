@@ -89,7 +89,7 @@ Der Palitext auf SuttaCentral ist die Mahāsaṅgīti-Ausgabe, manchmal als „W
 
 Die erste Version von SuttaCentral hatte Links zur Webseite der *Dhamma Society*. Diese wurde jedoch vom Netz abgeschaltet, und wir beschlossen, den Text selbst auf unsere Webseite aufzunehmen. Zum Glück hatte der Ehrwürdige Yuttadhammo eine vollständige Kopie des Mahāsaṅgīti für seinen *Digital Pali Reader* gemacht, und er stellte uns freundlicherweise die Quelltexte zur Verfügung.
 
-Wir haben den Mahāsaṅgīti-Text um die Pātimokkhas von der VRI-Ausgabe sowohl für Mönche als auch für Nonnen ergänzt.
+Wir haben den Mahāsaṅgīti-Text um die Pātimokkhas der VRI-Ausgabe sowohl für Mönche als auch für Nonnen ergänzt.
 
 Am Text der Mahāsaṅgīti-Ausgabe haben wir nichts geändert. Allerdings haben wir ein paar kleinere Korrekturen an der Nummerierung und der Zeichensetzung vorgenommen.
 
@@ -97,11 +97,11 @@ Zusätzlich zum Text nutzen wir das kritische Instrumentarium des Mahāsaṅgīt
 
 ### Chinesisch
 
-Die endgültige Ausgabe des chinesischen buddhistischen Kanon ist der Tripiṭaka Koreana. Das ist ein äußerst genauer und gut erhaltener Satz von 81.258 Holzblöcken aus dem 13. Jahrhundert. Er wurde als ursprüngliche Quelle für die moderne Taishō-Ausgabe verwendet, von Takakusu Junjiro und anderen bearbeitet und im frühen 20. Jahrhundert von der Univesität Taishō in Japan veröffentlicht. Er wurde von CBETA digitalisiert, von wo unsere chinesischen Texte stammen.
+Die maßgebliche Ausgabe des chinesischen buddhistischen Kanon ist der Tripiṭaka Koreana. Das ist ein äußerst genauer und gut erhaltener Satz von 81.258 Holzblöcken aus dem 13. Jahrhundert. Er wurde als ursprüngliche Quelle für die moderne Taishō-Ausgabe verwendet, von Takakusu Junjiro und anderen bearbeitet und im frühen 20. Jahrhundert von der Universität Taishō in Japan veröffentlicht. Er wurde von CBETA digitalisiert, und von dort stammen unsere chinesischen Texte.
 
 ### Tibetisch
 
-Unsere tibetischen Texte sind vom *Tibetan and Himalayan Library Text*, welcher auf der Derge-Ausgabe des Kangyur beruht. Man beachte, dass die elementaren Textnummern, die von THLIB benutzt werden, von den Nummern auf SuttaCentral und anderswo gewöhnlich um eins abweichen. Die Nummern, die SuttaCentral verwendet, entsprechen der „Masterkatalog-Nummer“ auf THLIB.
+Unsere tibetischen Texte sind vom *Tibetan and Himalayan Library Text*, welcher auf der Derge-Ausgabe des Kangyur beruht. Man beachte, dass die grundlegenden Textnummern, die von THLIB benutzt werden, von den Nummern auf SuttaCentral und anderswo gewöhnlich um eins abweichen. Die Nummern, die SuttaCentral verwendet, entsprechen der „Masterkatalog-Nummer“ auf THLIB.
 
 ### Sanskrit und andere
 
@@ -109,7 +109,7 @@ Da die Texte auf Sanskrit und in anderen indischen Sprachen keinen zusammenhäng
 
 ### Übersetzungen
 
-Übersetzungen stammen aus vielen verschiedenen Quellen, wie in jedem Text angegeben.
+Übersetzungen stammen aus vielen verschiedenen Quellen, die in jedem Text angegeben sind.
 
 <h2 id="Markup">Markup</h2>
 
