@@ -10,7 +10,7 @@ Ein Stolperstein für alle, die buddhistische Texte studieren, ist es, wie man s
 
 Wir versuchen, den einfachsten, logischsten und einheitlichsten Ansatz für unser primäres Nummerierungssystem zu benutzen. Das erfüllt den Zweck für die meisten Menschen, und wir empfehlen das auch, wenn jemand unsere Texte weiterleiten oder zitieren will. Manche Studierende werden aber Verweise in anderen Quellen nachschlagen wollen, daher geben wir zusätzliche Referenzen an, um es ihnen zu erleichtern.
 
-Hier sind die allgemeinen Prinzipien, an denen wir uns orientieren:
+Hier sind die allgemeinen Richtlinien, an denen wir uns orientieren:
 
 * Die weiter akzeptierten Nummerierungssysteme werden vorgezogen.
 * Semantische Nummerierung, die einer sinnvollen Strukturierung des Inhalts folgt (Kapitel/Abschnitt), wird vorgezogen vor Strukturen, die gedruckten Ausgaben folgen (Band/Seite).
