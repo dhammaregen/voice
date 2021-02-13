@@ -12,7 +12,7 @@ Wir versuchen, den einfachsten, logischsten und einheitlichsten Ansatz für unse
 
 Hier sind die allgemeinen Richtlinien, an denen wir uns orientieren:
 
-* Die weiter akzeptierten Nummerierungssysteme werden vorgezogen.
+* Die allgemeiner akzeptierten Nummerierungssysteme werden vorgezogen.
 * Semantische Nummerierung, die einer sinnvollen Strukturierung des Inhalts folgt (Kapitel/Abschnitt), wird vorgezogen vor Strukturen, die gedruckten Ausgaben folgen (Band/Seite).
 * Alte Nummerierungssysteme werden durch mehr Detailgenauigkeit aufgewertet, ohne sie inkompatibel zu machen.
 * Wo es sinnvoll ist, werden verschiedene Referenzsysteme bereitgestellt.
@@ -24,7 +24,7 @@ Wir führen Texte auf der Basis von Segmenten ein. Das heißt, dass der Quelltex
 
 Diese segmentierten Texte werden zuerst für Bhikkhu Sujatos neue englische Übersetzungen der vier Nikāyas eingeführt sowie für Bhikkhu Brahmalis Vinaya-Übersetzung. Sie werden nach und nach auf andere Texte ausgeweitet. Diese sind als Grundlage für eine neue Generation von Übersetzungen gedacht, die entstehen soll. Man beachte, dass es nicht leicht ist, eine alte Übersetzung im Nachhinein mit den neuen Segmenten zu paaren; es muss alles Segment für Segment von Hand gemacht werden. Daher werden wir auf absehbare Zeit auch unsegmentierte Texte behalten.
 
-Die segmentierten Texte tragen zu den bestehenden Referenzsystemen zusätzliche Detailgenauigkeit bei. Schauen wir uns das anhand eines Beispiels aus DN 1 Brahmajala an. Dieser Text hat die Abschnittsnummerierung von der Ausgabe der Pali Text Society übernommen. Es handelt sich hier um den zehnten Abschnitt, der dn1.10 benannt ist. Er wird nun in vier Segmente unterteilt, die dn1.10.1, dn1.10.2 usw. benannt sind. Die gleichen Segmentnummern gelten sowohl für den Palitext als auch für die Übesetzung. In der zugrundeliegenden Datei, die den Dateityp PO des Open Source-gettext-Übersetzungssystems verwendet, sieht das so aus:
+Die segmentierten Texte tragen zu den bestehenden Referenzsystemen zusätzliche Detailgenauigkeit bei. Schauen wir uns das anhand eines Beispiels aus DN 1 Brahmajala an. Dieser Text hat die Abschnittsnummerierung von der Ausgabe der Pali Text Society übernommen. Es handelt sich hier um den zehnten Abschnitt, der dn1.10 benannt ist. Er wird nun in vier Segmente unterteilt, die dn1.10.1, dn1.10.2 usw. benannt sind. Die gleichen Segmentnummern gelten sowohl für den Palitext als auch für die Übersetzung. In der zugrundeliegenden Datei, die den Dateityp PO des Open Source-gettext-Übersetzungssystems verwendet, sieht das so aus:
 
 ```
 #msgctxt "dn1:10.1"
@@ -44,13 +44,13 @@ msgid "Naccagītavāditavisūkadassanā paṭivirato samaṇo gotamo …."
 msgstr "‘He refrains from dancing, singing, music, and seeing shows.’"
 ```
 
-Ein Verweis auf DN 1.10 würde diese ganze Passage bezeichnen, wie in älteren Ausgaben. Aber wir fügen die Möglichkeit hinzu, auf kleinere Segmente zu verweisen. Man beachte, dass sich in dn1:10.3 eine abweichende Lesart findet. So können die Segmentnummern als geeignete allgemeine Adresse für Abweichungen, Kommentare und Ähnliches dienen, das dann alles leicht zwischen Text und Übersetzung jeder Sprache übertragbar ist.
+Ein Verweis auf DN 1.10 würde diese ganze Passage bezeichnen, wie in älteren Ausgaben. Aber wir fügen die Möglichkeit hinzu, auf kleinere Segmente zu verweisen. Man beachte, dass sich in dn1:10.3 eine abweichende Lesart findet. So können die Segmentnummern als geeignete allgemeine Adresse für Abweichungen, Kommentare und Ähnliches dienen, das dann alles leicht zwischen Text und Übersetzung in jede beliebige Sprache übertragbar ist.
 
 ## Pali
 
-In den meisten Fällen ist die Nummerierung der Pali-Suttas einfach und über verschiedenen Ausgaben hinweg einheitlich. „DN 2“ ist immer die zweite Lehrrede des Dīgha Nikāya, d. h. das Sāmaññaphala-Sutta. Aber es gibt ein paar Grenzfälle, wo Unterschiede vorkommen. Das hängt oft damit zusammen, dass es in den kürzeren Suttas viele Abkürzungen und Wiederholungen gibt, so dass nicht immer klar ist, wie die Texte genau zu zählen sind.
+In den meisten Fällen ist die Nummerierung der Pali-Suttas einfach und über verschiedenen Ausgaben hinweg einheitlich. „DN 2“ ist immer die zweite Lehrrede des Dīgha-Nikāya, d. h. das Sāmaññaphala-Sutta. Aber es gibt ein paar Grenzfälle, wo Unterschiede vorkommen. Das hängt oft damit zusammen, dass es in den kürzeren Suttas viele Abkürzungen und Wiederholungen gibt, so dass nicht immer klar ist, wie die Texte genau zu zählen sind.
 
-Im Allgemeinen folgen wir der Nummerierung, wie sie in unserer Paliausgabe zu finden ist, dem Mahāsaṅgīti-Text des Sechsten Konzils, der von der *Dhamma Society* angefertigt wurde. Das ist eine revidierte und korrigierte Version der digitalen Ausgabe des Sechsten Konzils, die vom *Vipassana Research Institute* angefertigt wurde, und folgt dem gleichen Nummerierungssystem. In den meisten Fällen stimmt es mit der Nummerierung überein, die in den Ausgaben der *Pali Text Society* (PTS) benutzt wird. Allerdings kann in den weniger gebräuchlichen Texten wie dem Abhidhamma die Nummerierung von der der PTS abweichen. Zusätzlich sind im Bereich der Hauptnikāyas die folgenden Punkte zu beachten:
+Im Allgemeinen folgen wir der Nummerierung, wie sie in unserer Paliausgabe zu finden ist, dem Mahāsaṅgīti-Text des Sechsten Konzils, der von der *Dhamma Society* angefertigt wurde. Das ist eine revidierte und korrigierte Version der digitalen Ausgabe des Sechsten Konzils, die vom *Vipassana Research Institute* angefertigt wurde, und folgt dem gleichen Nummerierungssystem. In den meisten Fällen stimmt sie mit der Nummerierung überein, die in den Ausgaben der *Pali Text Society* (PTS) benutzt wird. Allerdings kann in den weniger gebräuchlichen Texten wie dem Abhidhamma die Nummerierung von der der PTS abweichen. Zusätzlich sind im Bereich der Hauptnikāyas die folgenden Punkte zu beachten:
 
 ### Zwei Ebenen, keine drei, für AN 1 und AN 2
 
