@@ -68,7 +68,7 @@ Für den ersten Band des SN, den Sagātha-Vagga, gibt es für jedes Sutta zwei S
 
 ### Die Bodhi-Nummerierung für SN und AN
 
-Im SN und AN folgen wir durchgängig der Suttanummerierung, die in Bhikkhu Bodhis englischen Übersetzungen übernommen wurde und die in manchen Abschnitten von der PTS-Nummerierung abweicht. Sie ist ein rationaleres System, das sich hauptsächlich auf das stützt, was man in Ausgaben in lokalen Schriften und in der Chaṭṭha Saṅgāyana-Ausgabe findet. Auch hier werden da, wo sie verschieden sind, beide Nummern gezeigt. Die folgenden Abschnitte sind davon betroffen:
+Im SN und AN folgen wir durchgängig der Suttanummerierung, die in Bhikkhu Bodhis englischen Übersetzungen übernommen wurde und die in manchen Abschnitten von der PTS-Nummerierung abweicht. Sie ist ein rationaleres System, das sich hauptsächlich auf das stützt, was man in Ausgaben in lokalen Schriften und in der Chaṭṭha-Saṅgāyana-Ausgabe findet. Auch hier werden da, wo sie verschieden sind, beide Nummern gezeigt. Die folgenden Abschnitte sind davon betroffen:
 
 * SN: von SN 22.150 [SN 22.149] bis zum Ende des *Saṁyutta*
 * von SN 35.136 [SN 35.135] bis zum Ende des *Saṁyutta*
@@ -85,9 +85,9 @@ Zum Beispiel ist in der PTS-Ausgabe das Sutta mit dem Titel „Etaṁ mama“ im
 
 ### Mehrere Sätze von Versnummern
 
-Versnummern für Texte wie den Dhammapada, das Sutta Nipāta, die Thera- und Therīgāthā weichen leicht von der PTS-Ausgabe ab. Das hängt manchmal mit unterschiedlichen Entscheidungen der Herausgeber zusammen, wie Verse unterteilt werden sollen, und manchmal mit unterschiedlicher Handhabung von Abkürzungen. Wir schließen zu Referenzzwecken die PTS-Nummern ein.
+Versnummern für Texte wie den Dhammapada, das Sutta-Nipāta, die Thera- und Therīgāthā weichen leicht von der PTS-Ausgabe ab. Das hängt manchmal mit unterschiedlichen Entscheidungen der Herausgeber zusammen, wie Verse unterteilt werden sollen, und manchmal mit unterschiedlicher Handhabung von Abkürzungen. Wir schließen zu Referenzzwecken die PTS-Nummern ein.
 
-Man beachte auch, dass für das Sutta Nipāta Verweise entweder durch fortlaufende Zählung der Verse vom Anfang der Sammlung an erfolgen können oder mit Kapitel- und Suttanummer, und Zählung der Verse pro Sutta.
+Man beachte auch, dass für das Sutta-Nipāta Verweise entweder durch fortlaufende Zählung der Verse vom Anfang der Sammlung an erfolgen können oder mit Angabe von Kapitel- und Suttanummer und Zählung der Verse pro Sutta.
 
 ### Nummerierung von Abschnitten
 
