@@ -10,7 +10,7 @@ prev_aria: 'suttacentral Info'
 1. [Suttaparallelen](/dhammaregen/de/301-methodik-sc#Suttaparallelen)
 1. [Vinayaparallelen](/dhammaregen/de/301-methodik-sc#Vinayaparallelen)
 1. [Textquellen](/dhammaregen/de/301-methodik-sc#Textquellen)
-1. [Markup](/dhammaregen/de/301-methodik-sc#Markup)
+1. [Mark-up](/dhammaregen/de/301-methodik-sc#Markup)
 1. [Bibliografie](/dhammaregen/de/301-methodik-sc#Bibliografie)
 
 <h2 id="Hintergrund">Hintergrund</h2>
@@ -111,11 +111,11 @@ Da die Texte auf Sanskrit und in anderen indischen Sprachen keinen zusammenhäng
 
 Übersetzungen stammen aus vielen verschiedenen Quellen, die in jedem Text angegeben sind.
 
-<h2 id="Markup">Markup</h2>
+<h2 id="Mark-up">Mark-up</h2>
 
-Die Texte auf SuttaCentral haben ein klares, akkurates und ausführliches Markup und benutzen gültiges semantisches Normen-kompatibles HTML5. Es war eine unserer größten Aufgaben, die vielen Texte, die wir aus verschiedenen Quellen geerbt haben, umzuwandeln und sie alle in das gleiche Format zu bringen. Das ist außerordentlich komplex, da die Quelltexte selten ein irgendwie geartetes klares semantisches Markup haben. Sie reichen von nicht markiertem gewöhnlichem Text bis zu wortreichem Durcheinander, wie es von Textverarbeitungsprogrammen produziert wird. Unser Ziel ist, diese ganze komplexe Mischung in ein klares und einfaches Markup zu bringen, ohne dass Elemente verlorengehen.
+Die Texte auf SuttaCentral haben ein klares, akkurates und ausführliches Mark-up und benutzen gültiges semantisches Normen-kompatibles HTML5. Es war eine unserer größten Aufgaben, die vielen Texte, die wir aus verschiedenen Quellen geerbt haben, umzuwandeln und sie alle in das gleiche Format zu bringen. Das ist außerordentlich komplex, da die Quelltexte selten ein irgendwie geartetes klares semantisches Mark-up haben. Sie reichen von nicht markiertem gewöhnlichem Text bis zu wortreichem Durcheinander, wie es von Textverarbeitungsprogrammen produziert wird. Unser Ziel ist, diese ganze komplexe Mischung in ein klares und einfaches Mark-up zu bringen, ohne dass Elemente verloren gehen.
 
-Einige Schwesterprojekte von SuttaCentral — insbesondere CBETA — nutzen den akademischen *Text Encoding Initiative* (TEI)-XML-Standard für das Markup. Obwohl wir die Vorteile eines XML-Ansatzes schätzen, hat sich für uns herausgestellt, dass modernes HTML uns alle Möglichkeiten gibt, die wir brauchen. Gleichzeitig ist es beträchtlich einfacher in der Handhabung und den Einsatzmöglichkeiten. Unsere Quelltexte können so wie sie sind ohne Vorverarbeitung in einem Browser dargestellt werden. Aber obwohl wir TEI nicht benutzen, übernehmen wir viele Namen und Semantik-Elemente von TEI für textkritisches Markup.
+Einige Schwesterprojekte von SuttaCentral — insbesondere CBETA — nutzen den akademischen „*Text Encoding Initiative* (TEI)“-XML-Standard für das Mark-up. Obwohl wir die Vorteile eines XML-Ansatzes schätzen, hat sich für uns herausgestellt, dass modernes HTML uns alle Möglichkeiten gibt, die wir brauchen. Gleichzeitig ist es beträchtlich einfacher in der Handhabung und den Einsatzmöglichkeiten. Unsere Quelltexte können so wie sie sind ohne Vorverarbeitung in einem Browser dargestellt werden. Aber obwohl wir TEI nicht benutzen, übernehmen wir viele Namen und Semantik-Elemente von TEI für textkritisches Mark-up.
 
 Hier werde ich einen kurzen Überblick über die weniger offensichtlichen Details geben.
 
@@ -129,11 +129,11 @@ Unsere Texte in Originalsprachen enthalten eine Reihe textkritischer Information
 
 Textkritische Informationen sind in den Dateien mit Klassen markiert wie „var“ für abweichende Lesarten, „supplied“ für hinzugefügten Text usw. Typischerweise machen wir das optisch über den Stil erkennbar und zeigen ein Pop-up-Fenster, das die Bedeutung erklärt. Das meiste kann optional aktiviert werden.
 
-<a href="https://suttacentral.net/zz1/zz/test" target="_blank">Siehe Liste der textkritischen Markup-Klassen</a> (englisch).
+<a href="https://suttacentral.net/zz1/zz/test" target="_blank">Siehe Liste der textkritischen Mark-up-Klassen</a> (englisch).
 
 ### Strukturmerkmale und Sonstiges
 
-Wir benutzen semantisches Markup mit etwa hundert verschiedenen Klassen, um die genaue Struktur der Texte zu bezeichnen. Dazu gehören Dinge wie:
+Wir benutzen semantisches Mark-up mit etwa hundert verschiedenen Klassen, um die genaue Struktur der Texte zu bezeichnen. Dazu gehören Dinge wie:
 
 * Überschriften, richtig strukturiert mit hX-Tags. Palitexte haben eine so detaillierte Hierarchie, dass wir in manchen Fällen alle Tags bis zu h6 benutzen.
 * *Uddānas*, die Vaggas und ähnliche Struktureinheiten zusammenfassen.
@@ -379,7 +379,7 @@ SC ID: skt-sv-bu-pm-finot.
 * Wille, Klaus. *Survey of the Sanskrit Manuscripts in the Turfan Collection*, Vortrag anläßlich des Workshops Digitalisierung der chinesischen, tibetischen, syrischen und Sanskrit-Texte der Berliner Turfansammlung, Berlin, 02.06.2005  
 <a href="https://discourse.suttacentral.net/uploads/default/original/2X/9/9e4ffab8ef1fb6d9614c00d84d3164efedc0a513.pdf" target="_blank">Willie - Survey of Buddhist manuscripts in the Turfan collection.pdf</a> (96.2 KB).
 
-### Dhammapadaparallelen
+### Dhammapada-Parallelen
 
 * Ānandajoti, Bhikkhu. *Parallels to the Dhammapada Verses* (version 2.3, June 2016). Available, with a list of sources, on the author’s website:  
 <a href="https://www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-Parallels/index.htm" target="_blank">www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-Parallels/index.htm</a>.
