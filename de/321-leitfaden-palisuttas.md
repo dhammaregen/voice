@@ -63,6 +63,7 @@ Seitenblicke auf die verschiedenen chinesischen und anderen Parallelen vermeide 
 In Sutta-Studienkreisen werden die Namen der Sammlungen häufig als „Dīgha“, „Majjhima“ usw. abgekürzt, so wie auch das Wort „Sutta“ bei den Überschriften oft weggelassen wird. Streng genommen wäre es am besten, Palititel zu benutzen, wenn man sich auf den Originaltext bezieht, und die übersetzte Überschrift, wenn es um eine Übersetzung geht; aber diese Unterscheidung wird häufig vernachlässigt.
 
 <h2 id="item2">Eine zugängliche Übersetzung</h2>
+
 2015 entschied ich mich, frei zugängliche Übersetzungen der wichtigsten Pali-Lehrreden anzufertigen, damit alle diese Lehren in einer klaren, einheitlichen und akkuraten Fassung frei erhältlich sind. Mein Ziel war es, die vier Haupt-*Nikāyas* zu übersetzen, und zusätzlich die sechs frühen Bücher des Khuddaka-Nikāya: Theragāthā, Therīgāthā, Udāna, Itivuttaka, Dhammapada und Suttanipāta. Ich tat das, damit diese erstaunlichen Zeugnisse alter spiritueller Einsichten die größere Leserschaft erfreuen können, die sie mehr als verdienen.
 
 Als ich über den Stil meiner Übersetzung  nachdachte, betrachtete ich das gängige Erzählelement, das die Prosa-Suttas einleitet: Jemand „nähert sich“ dem Buddha, um eine Frage zu stellen oder eine Unterweisung zu hören. Es ist eine der Passagen, die so verbreitet sind, dass wir sie gewöhnlich übergehen. Dabei ist es keine Kleinigkeit, sich einem geistlichen Lehrer „zu nähern“. Es erfordert Zeit, Mühe, Neugier und Mut; viele dieser Menschen werden mehr als nur ein wenig nervös gewesen sein.
@@ -86,6 +87,7 @@ Ich denke immer noch, dass ich von meinem Ziel weit entfernt bin. Niemand sieht 
 In meiner Herangehensweise wurde ich besonders von meinen Mitmönchen Ajahn Brahm und Ajahn Brahmali beeinflusst. Von Ajahn Brahm habe ich den Wert eines einfachen Englisch schätzen gelernt; und den Wert der Freundlichkeit, die darin liegt, so zu reden, dass die Menschen es tatsächlich verstehen. Und mit Ajahn Brahmali, der zur gleichen Zeit an Übersetzungen des Vinaya gearbeitet hat, hatte ich viele erhellende Diskussionen über die Bedeutung verschiedener Worte und Wendungen. Eine Bemerkung, die er machte, blieb bei mir haften: Eine Übersetzung sollte *etwas* bedeuten. Selbst wenn wir nicht sicher sind, was der Text sagen will, können wir sicher sein, dass er eine Bedeutung hatte; daher ist eine Übersetzung rein aufgrund von Übereinstimmungen im Lexikon so gut wie wenn man es gar nicht übersetzt. Sag, was du denkst, was der Text bedeutet; und wenn du dich irrst, korrigiere es.
 
 <h2 id="item3">Planen Sie Ihre Reise oder spazieren Sie durch den Garten</h2>
+
 Die Lehre des Buddha ist stufenweise aufgebaut und führt von einfachen Prinzipien zu tiefen Erkenntnissen. Dieses Muster findet sich auf die eine oder andere Art in fast allen Lehrreden. Es trifft aber *nicht* auf die Lehrredensammlungen zu. Von einer Sammlung zur nächsten oder von einer Lehrrede zur nächsten findet man keine Abstufung im Schwierigkeitsgrad, keinen Aufbau von Vorkenntnissen bei den Studierenden.
 
 Im Gegenteil: Der Dīgha-Nikāya beginnt mit dem Brahmajala-Sutta und der Majjhima-Nikāya mit dem Mūlapariyāya-Sutta, die beide zu den tiefgründigsten und schwierigsten Lehrreden im gesamten Kanon gehören. Wer hier sorglos hineinspringt, findet sich in der Tat plötzlich in sehr tiefem Wasser wieder.
@@ -97,6 +99,7 @@ Das soll aber nicht heißen, dass es falsch wäre, einfach zufällig irgendwo ei
 In diesen einführenden Essays werden Sie viele Hinweise auf Suttas finden. Es ist nicht notwendig, jeden einzelnen Verweis nachzuschauen, um die Aufsätze zu verstehen. Aber wenn Sie es tun, bekommen Sie bereits einen guten Überblick über viele wichtige Texte und lernen, wie Sie die Stelle finden, die Sie suchen. Ich empfehle, zuerst jeden Aufsatz für sich zu lesen und bei einem zweiten Mal dann der Reihe nach die Suttaverweise nachzuschlagen und zu lesen.
 
 <h2 id="item4">Nachschlagen von Quellenangaben</h2>
+
 Wenn Sie sich eingehender mit den Suttas beschäftigen, werden Sie feststellen, dass die Referenzen für Texte und Passagen manchmal auf verwirrende Art angegeben werden. Auf SuttaCentral verwenden wir eine einfache und weitverbreitete Form der semantischen Quellenangabe. Mit „semantischer“ Quellenangaben ist gemeint, dass die Kennziffern auf sinnvollen Einteilungen beruhen, die in den Texten selbst liegen.
 
 Für die vier *Nikāyas* heißt das:
@@ -122,6 +125,7 @@ Es ist möglich, dass Sie verschiedenen anderen Bezugssystemen begegnen. In der 
 Traditionell wurden – und werden oft immer noch ­– Texte mit der langen Variante angegeben: nach *Nikāya*, dann *Saṁyutta* oder *Nipāta* und/oder *Paṇṇasaka* (falls zutreffend), dann *Vagga* und *Sutta*. Dieses System ist hilfreich, wenn man mit Manuskripten arbeitet, da man damit seine Suche Schritt für Schritt durch das Manuskript hindurch einengen kann, um das Gesuchte zu finden. Im Netz, und selbst in Büchern, ist das jedoch überflüssig. Nichtsdestotrotz können Sie in unserem Seitenstreifen entlang der traditionellen Struktur navigieren, wenn Sie möchten.
 
 <h2 id="item5">Strukturelemente</h2>
+
 Als Studierende buddhistischer Texte sind wir am Inhalt interessiert. Wir wollen erfahren, was der Buddha und seine Schüler zu sagen hatten und wie sie lebten. Durch die Art, wie die Texte zusammengestellt sind, stellen wir jedoch rasch fest, dass es nicht einfach ist, zu erkennen, wie verschiedene Texte miteinander in Beziehung stehen. Es lohnt sich, auch wenn es vielleicht trocken erscheint, sich ein wenig Zeit zu nehmen, um die *Struktur* der Texte zu betrachten.
 
 Frühe buddhistische Texte wurden nicht zum Lesen angeordnet, sondern für das mündliche Rezitieren und Auswendiglernen. Das vorrangige Anliegen bestand darin, die Texte in Blöcke zu unterteilen, die gelernt und gemeinsam aufgesagt werden konnten. Da die Texte im Gedächtnis bewahrt wurden, waren sie im Wesentlichen direkt abrufbar: Eine erfahrene Studierende konnte augenblicklich eine Passage von jeder beliebigen Stelle in den Texten erinnern, ohne dass sie die Seiten durchblättern oder in einem Verzeichnis nachsehen musste. So hatte das früheste Organisationssystem eine gewisse Ähnlichkeit damit, wie wir heute durch eine Suchmaschine an eine Information kommen.
@@ -131,6 +135,7 @@ Daraus folgt, dass wir von frühen buddhistischen Texten nicht erwarten können,
 Hier sind einige der Struktur- oder Formelemente, denen Sie in den frühen buddhistischen Texten begegnen werden.
 
 ### Metaphorik und Erzählung
+
 Die Suttas benutzen häufig ein ABA-Muster. Es wird eine Aussage getroffen; es wird ein Gleichnis gegeben; und die Aussage wird wiederholt.
 
 Dieses formale Muster unterstützt äußerst wirksam das Lernen. Zuerst bekommen wir die grundlegende Idee. Aber abstrakte philosophische und psychologische Aussagen sind ohne Zusammenhang schwer zu verstehen und zu behalten, daher veranschaulicht der Buddha seine These mit einem Gleichnis. Zuletzt wiederholt er noch einmal seine Botschaft.
@@ -142,6 +147,7 @@ Manchmal werden die Gleichnisse zu einer kurzen Parabel oder Fabel erweitert. Be
 Wenn Erzählungen in größerem Umfang entwickelt werden, geschieht das oft als Teil der Hintergrundgeschichte (*Nidāna*) und nicht in der Lehre des Buddha als solcher. Es ist ein Grundsatz der Geschichtswissenschaft, dass die Hintergrundgeschichte etwas späteren Datums ist als der Hauptinhalt der Lehre. Solche Geschichten weichen in den Parallelen erheblich voneinander ab, was zeigt, dass die Traditionen Erzählungen flexibler handhabten als die Lehre.
 
 ### Wiederholung
+
 Es wird nicht lange dauern, bis Sie feststellen, dass die Suttas zu Wiederholungen neigen. Zu *vielen* Wiederholungen. Das kann für eine neue Leserin eine große Hürde sein; daher wollen wir uns ein wenig Zeit nehmen, uns die Sache anzuschauen.
 
 Wie viele Muster, die man in der Natur findet, sind die Wiederholungen *fraktal*. Das heißt, sie treten auf allen Ebenen auf: auf der Ebene des Wortes, der Wendung, des Satzes, des Abschnitts, des Textteils, des gesamten Textes, sogar der Gruppe von Texten. Das zeigt, dass die Wiederholung nichts ist, was den Texten fremd wäre, etwas, das ihnen von einem übereifrigen Bearbeiter aufgezwungen worden wäre, sondern es wohnt ihnen von Anfang an inne.
@@ -153,6 +159,7 @@ Doch außer diesem spirituellen Aspekt dienen Wiederholungen auch einem klaren p
 Das Verstehen der historischen Rolle der Wiederholung hilft jedoch nicht, wenn wir einfach nur ein Sutta lesen wollen. Was sollen wir tun? Nun, es gibt nicht die eine Art, ein Sutta zu lesen. Manche Menschen wollen sie in voller Länge lesen und sich in jede Wiederholung versenken. Andere lesen sie lieber kürzer und kommen zum wichtigsten Punkt. Sie werden herausfinden, was für Sie am besten passt. Aber wenn Sie die Rolle der Wiederholungen verstehen, werden Sie sie hoffentlich nicht so störend finden.
 
 ### Abkürzung
+
 Die Kehrseite der Wiederholung ist die Abkürzung. Da die Wiederholungen so reichlich vorhanden sind, werden sie oft abgekürzt. Dieses Abkürzen ist keine moderne Erfindung; es findet sich überall in den Manuskripten, und tatsächlich gibt es keine Ausgabe, die alle Wiederholungen vollständig ausführt. Die Palitexte haben ihre eigene Konvention, mit der sie Abkürzungen anzeigen, nämlich die Silbe *pe*, die selbst eine Abkürzung von *peyyāla* ist.
 
 Im Großen und Ganzen sind die Abkürzungen in den Paliausgaben sowie die gelegentlichen Anleitungen, wie der Text voll auszuführen ist, vernünftig und im Vergleich der Ausgaben recht einheitlich. Moderne Übersetzungen folgen der Manuskripttradition, aber nicht sklavisch. Manchmal führt eine Übersetzung abgekürzte Passagen aus, oder sie kürzt solche ab, die im Original ausgeführt sind.
@@ -163,12 +170,15 @@ Es gibt sowohl „interne“ als auch „externe“ Abkürzungen. Mit internen A
 Bei externen Abkürzungen kann die abgekürzte Stelle nicht vollständig aus dem Kontext rekonstruiert werden; es ist vielmehr erforderlich, in einem anderen Text nachzuschauen, um die Leerstellen auszufüllen. Das ist ein weiteres Beispiel dafür, wie sich mündliche Überlieferung von geschriebenen Texten unterscheidet. Die Person, die den Text aufsagt, kennt natürlich, sagen wir, die Formel für die vier edlen Wahrheiten, daher besteht keine Notwendigkeit, sie jedes Mal hinzuschreiben; ein kleiner Anstoß fürs Gedächtnis genügt. Doch in modernen Ausgaben, und ganz besonders im Internet, kann eine Leserin von überallher auf einen bestimmten Text stoßen und hat die abgekürzte Stelle vielleicht nie vorher gesehen. Aus diesem Grund habe ich versucht, die Zahl der externen Abkürzungen in meinen Übersetzungen zu reduzieren.
 
 ### Überschriften
+
 Buddhistische Manuskripte haben selten Überschriften am Anfang wie moderne Texte. Vielmehr wird die Überschrift am Ende erfasst. In modernen Ausgaben wurden sie aber um der Klarheit willen an den Anfang gesetzt.
 
 In vielen Fällen, besonders bei den Überschriften von Suttas und *Vaggas*, haben wir im Manuskript gar keine eigentliche Überschrift, sondern ein Schlüsselwort aus den zusammenfassenden Versen (*Uddāna*) am Ende eines *Vagga* oder eines anderen Abschnitts. Diese Verse wurden von den Bearbeitern des Kanon eingefügt, um den Inhalt besser zu organisieren, ähnlich wie ein Inhaltsverzeichnis. Allerdings variieren die zusammenfassenden Verse zu einem gewissen Grad zwischen den Ausgaben, daher sind die Suttaüberschriften nicht immer einheitlich. Zusätzlich wird manchen Suttas im Text selbst mehr als nur eine Überschrift zugeschrieben – zum Beispiel <a href="https://suttacentral.net/dn1" target="_blank">DN 1</a> *Das Hauptnetz* (*Brahmajalasutta*) – oder es gibt abweichende Schreibweisen. Also Vorsicht, es ist durchaus üblich, dass man für ein und denselben Text verschiedene Überschriften findet!
 
 ### Gliederungseinheiten der Texte
+
 #### Vagga („Kapitel“)
+
 Der *Vagga* ist das am weitesten verbreitete und markanteste Strukturelement der frühen buddhistischen Texte. Gewöhnlich besteht er aus zehn Texten, sei es zehn Lehrreden, zehn Strophen, zehn Regeln usw. Die Zahl zehn wird dabei weitgehend durchgängig eingehalten, doch kann ein *Vagga* auch einmal mehr oder weniger als zehn enthalten.
 
 Der *Vagga* ist oft wenig mehr als eine bequeme Einteilung, mit der die Lehrreden sauber geordnet werden können. In solchen Fällen ist ein *Vagga* meist einfach nach seiner ersten Lehrrede benannt.
@@ -180,15 +190,19 @@ In manchen Fällen kann ein *Vagga* auf Pali einem ähnlichen *Vagga* in einer a
 Gelegentlich wird das Wort *Vagga* auf eine größere Texteinheit angewendet, die eine Anzahl von Abschnitten enthält, von denen jeder wiederum aus „kleinen“ *Vaggas* besteht. Beispiele für solche verschachtelten *Vagga*-Strukturen sind der Saṁyutta-Nikāya und die Khandhakas des Pali-Vinaya.
 
 #### Paṇṇāsaka („Fünfzig“)
+
 Das Wort *Paṇṇāsa* bedeutet „fünfzig“, und ein *Paṇṇāsaka* ist eine Gruppe von etwa fünfzig Suttas oder fünf *Vaggas*. Es wird benutzt, um Sammlungen mit vielen *Vaggas* zu gliedern. Die meisten Sammlungen mit einer großen Zahl von Lehrreden benutzen diese Struktur, wie zum Beispiel das „*Wurzel-Fünfziger*“ (*Mūlapaṇṇāsa*) des Majjhima-Nikāya. Das *Paṇṇāsaka* dient rein der Zweckmäßigkeit und entspricht keiner inhaltlichen Einteilung des Textes.
 
 #### Nipāta („Gruppe“)
+
 Die wörtliche Bedeutung von *Nipāta* ist „heruntergefallen“, und es ist ein Oberbegriff für Texte, die zusammen angeordnet sind. Im Aṅguttara wird er für jede Gruppe von Texten benutzt, die anhand einer Zahl zusammengestellt sind: die <a href="https://suttacentral.net/an1" target="_blank">Gruppe von Lehrreden, die aus einem Gegenstand bestehen</a>, usw. Ansonsten kommt er zum Beispiel im Titel des <a href="https://suttacentral.net/snp" target="_blank">Sutta-Nipāta</a> vor, der „Gruppe von Lehrreden“.
 
 #### Saṁyutta („Sammlung verbundener Lehrreden“)
+
 Während *Nipāta* eher allgemein ist, hat *Saṁyutta* eine speziellere Bedeutung: Es sind Texte, die anhand eines ähnlichen Motivs oder Themengebietes zusammengestellt sind. Der Saṁyutta-Nikāya besteht aus 56 solcher Sammlungen. Das vierzehnte *Saṁyutta* enthält zum Beispiel <a href="https://suttacentral.net/sn14" target="_blank">39 Lehrreden über die Elemente</a>.
 
 #### Nikāya oder Āgama („Abteilung“)
+
 Diese größte Gliederungseinheit ist in der Palitradition des Theravāda als *Nikāya* bekannt und in den nördlichen Traditionen als *Āgama*. Während der Begriff *Āgama* im modernen Theravāda nicht mehr gebräuchlich ist, kommt er doch in den Pali-Kommentaren regelmäßig vor.
 
 In allen anderen buddhistischen Schulen gibt es Sammlungen, die den vier *Nikāyas* der Palitradition gleichen. Doch obwohl die Natur der Sammlungen im Allgemeinen ähnlich ist und sie auf ähnliche Art gegliedert sind, weist der Inhalt im Einzelnen erhebliche Unterschiede auf. Es kommt häufig vor, dass ein Sutta, das bei einer Schule zum Beispiel im Majjhima ist, sich bei einer anderen im Saṁyutta oder im Dīgha wiederfindet. Dazu ist die Reihenfolge der Texte innerhalb der Sammlungen recht unterschiedlich. Daher scheint es, dass die *Nikāyas* und *Āgamas* eher Richtlinien zum Einordnen der Texte waren als feste Einheiten.
@@ -196,6 +210,7 @@ In allen anderen buddhistischen Schulen gibt es Sammlungen, die den vier *Nikāy
 Der fünfte Pali-*Nikāya*, der Khuddaka-Nikāya, ist flexibler und weist größere Unterschiede zwischen den Traditionen auf. Es scheint, dass er als ein Platz zum Sammeln von Versen und kleineren Texten entstanden ist, die andernorts nicht aufgenommen waren. Die Pali-Khuddakasammlung wurde jedoch eine brauchbare Stelle, um spätere Texte einzufügen, so dass sie nun der größte aller *Nikāyas* ist. Es gibt wohl gelegentliche Hinweise auf eine vergleichbare Sammlung der nördlichen Schulen, doch heute existiert keine in dieser Art. Dennoch haben viele einzelne Texte Parallelen, insbesondere der Dhammapada, der in vielen verschiedenen Ausgaben überlebt hat.
 
 <h2 id="item6">In den Tagen des Buddha: Eine Zeit des Umbruchs</h2>
+
 Jede Lehrrede beginnt mit einer kurzen Feststellung, die besagt, dass der Buddha sich „einmal“ an einem bestimmten Ort aufgehalten hat. Den Bearbeitern war somit daran gelegen, den Buddha und seine Lehren in einen bestimmten historischen und kulturellen Kontext einzuordnen. Moderne Wissenschaftler konnten ein recht verlässliches Bild vom Leben und von der Zeit des Buddha rekonstruieren, indem sie sich auf frühe buddhistische Texte stützten sowie auf Informationen, die aus brahmanischen und Jaina-Schriften gewonnen werden können.
 
 Leider ist die Archäologie nur von begrenztem Wert, da es aus den Tagen des Buddha nur wenige archäologische Überbleibsel gibt. Tatsächlich gibt es insgesamt nur sehr wenige Relikte aus dem alten Indien, die vor der Zeit Ashokas liegen – etwa 150 Jahre nach dem Buddha – bis zurück zur Industalkultur viele Jahrhunderte früher. Für die Zeit, die uns interessiert, bestehen die Funde aus ein paar Töpferwaren und ähnlichen kleinen Geräten sowie ein paar Überresten von Festungsanlagen um Kosambī. Die spärliche Beweislage kommt vor allem aus zwei Gründen zustande. Der erste liegt darin, dass Bauten in dieser Zeit vorwiegend aus Holz und anderem wenig haltbarem Material errichtet wurden. Und der zweite ist, dass archäologische Arbeiten in Indien nur sehr vereinzelt und unvollständig durchgeführt wurden.
@@ -207,6 +222,7 @@ Nach seinem Erwachen wanderte der Buddha durch die Gangesebene. Das Gebiet, das 
 Nicht nur der Buddha war auf dieses Gebiet beschränkt. Es scheint, dass auch der Handel und andere enge kulturelle Kontakte sich normalerweise innerhalb seiner Grenzen abspielten. Gelegentliche Hinweise auf weiter entfernte Orte – Südindien oder die Griechen – sind vage und oft legendenhaft. Erst im Jahrhundert nach dem Tod des Buddha wurden die nordindischen Königreiche vereint und es eröffneten sich regelmäßige internationale Handelswege, zunächst nach Europa und ein paar Jahrhunderte später nach Südostasien und China.
 
 <h2 id="item7">Wirtschaft und Politik</h2>
+
 Obwohl Städte und Stadtleben in den Texten eine wichtige Rolle spielen, hatten Städte doch erst kleine Ausmaße. Die Wirtschaft war großenteils bäuerlich und Landwirtschaft hatte eine herausragende Bedeutung.
 
 Es gibt im Palikanon jedoch Aufzählungen von Berufen, die eine facettenreiche Spanne von Beschäftigungen zeigen: Buchhalter, Juweliere, Bauunternehmer, Soldaten, Ärzte, Regierungsbeamte und viele mehr.
@@ -220,6 +236,7 @@ Diese technologischen und wirtschaftlichen Verschiebungen spiegelten sich in der
 Noch bedeutsamer war, dass zum Lebensende des Buddha hin Magadha ankündigte, die Republik der Vajjier erobern zu wollen. Die Geschichte bezeugt den Erfolg dieser Strategie: In den Jahrzehnten nach dem Tod des Buddha eroberte Magadha nahezu alle sechzehn Länder, errichtete seine unangefochtene Vorherrschaft in der Region und baute indienweite Handelsnetze auf. Das Königreich, das daraus hervorging, war so mächtig, dass die Truppen Alexanders des Großen sich beim bloßen Hören der Gerüchte über die militärische Macht von Magadha auflehnten.
 
 <h2 id="item8">Gesellschaftliches Leben</h2>
+
 Die wachsende Vielschichtigkeit des wirtschaftlichen und politischen Lebens zog entsprechende Veränderungen der gesellschaftlichen Rollen und Verantwortlichkeiten nach sich. Wie in jeder Gesellschaft in Zeiten des Umbruchs versuchten die Menschen in der Zeit des Buddha, ihre traditionellen Werte und Strukturen mit den neuen Gegebenheiten ins Gleichgewicht zu bringen. Es scheint, dass es den Menschen zum großen Teil einigermaßen gut ging. Dennoch gab es Armut und Hungersnot, und zusammen mit Ungerechtigkeit, Banditenwesen und wirtschaftlicher Unsicherheit stellten sie eine reale Gefahr dar. Wir hören häufig Klagen darüber, wie unberechenbar Vermögen war, sei es in der alten Form als Vieh und Land oder in neuerer Form als Geld und Karriere.
 
 Der Buddha war kein sozialer Revolutionär und hat nicht offen den Umsturz gesellschaftlicher Systeme betrieben, selbst derer nicht, die er als ungerecht ansah. Typischerweise hat er sich für eine gerechtere und fairere Anwendung bestehender Normen ausgesprochen. Anstatt zu sagen, alle Gesellschaften sollten demokratisch sein, hat er zum Beispiel von der moralischen Verpflichtung eines Königs gesprochen, sich um sein Volk zu kümmern.
@@ -233,20 +250,25 @@ Viele der extremeren Formen sexueller Diskriminierung sieht man in den frühen T
 Indien hatte noch kein voll ausgebildetes Kastensystem entwickelt, doch es gab eine viel einfachere vierstufige Einteilung der Gesellschaft:
 
 #### Adlige (_Khattiya_)
+
    Grundbesitzer (Land = *khetta*), typischerweise wohlhabend und mächtig, betätigten sich in Politik, Krieg und Produktion. Der Buddha kam aus einem adligen Stamm. Die Adligen setzten sich selbst auf die höchste Stufe in der Gesellschaft.
 
 #### Brahmanen (_Brāhmaṇa_)
+
    Angehörige einer Priesterklasse mit Erbpriestertum. Die Brahmanen waren Hüter der „Veden“ genannten heiligen Texte und führten Rituale und Zeremonien für ihre verschiedenen Gottheiten durch. Doch zur Zeit des Buddha hatten viele Brahmanen ganz normale weltliche Berufe und ihre religiöse Rolle war untergeordnet. Sie glaubten, dass sie die Kinder Gottes (Brahmās) seien.
 
 #### Kaufleute (_Vessa_):
+
    Betätigten sich im Handel und Geschäftsleben.
 
 #### Arbeiter (_Sudda_)
+
 Verrichteten körperliche Arbeit.
 
 Nicht jeder passte in dieses klare Schema. Wir hören von Ausgestoßenen und verschiedenen Stammesvölkern. Zusätzlich gab es Sklaven oder Leibeigene. Und schließlich waren da die Asketen (*Samaṇa*) wie der Buddha, die sich als Menschen sahen, die jegliche Vorstellung einer Kaste hinter sich gelassen hatten.
 
 <h2 id="item9">Die zahlreichen spirituellen Pfade des alten Indien</h2>
+
 Die Veränderungen um die Zeit des Buddha beschränkten sich nicht auf den weltlichen Bereich. Das religiöse Leben des alten Indien war gleichermaßen dynamisch. Es wäre daher falsch, anzunehmen, dass Indien zur Zeit des Buddha in erster Linie eine hinduistische Gesellschaft war. Einige der Elemente, die den heutigen Hinduismus ausmachen, kann man erkennen, doch die indische Religion, wie spirituelle und religiöse Übung überall, war stets im Fluss und in Entwicklung begriffen.
 
 In der Zeit des Buddha, und tatsächlich bis heute, bildeten die alten vorbuddhistischen Veden die Grundlage für das religiöse Leben der Brahmanen und ihrer Anhänger. Rituale wie das *Agnihotra*, das tägliche Gießen von Ghee ins Feuer als Opfer für den Feuergott Agni, haben ihren Ursprung lange bevor die indoiranischen Völker überhaupt nach Indien kamen und werden bis heute ausgeübt.
@@ -272,6 +294,7 @@ Viele der Gesprächspartner in den frühen Texten erklärten sich am Ende zu Anh
 Unter den komplexen Reihen religiöser Praktiken lassen sich drei Hauptbereiche unterscheiden.
 
 ### Animismus
+
 Die am weitesten verbreitete Volksreligion in den Dörfern und Städten des alten Indien war der Glaube an die allgegenwärtige Anwesenheit von Geistern in der Natur. Solche Gottheiten konnten Wetterphänomene verkörpern oder in Pflanzen, Flüssen oder Höhlen leben. Sie konnten für Überfluss sorgen oder auch grimmige und bedrohliche Formen annehmen. Sie waren unzuverlässig, doch man konnte ihnen mit einfachen Opfergaben wie Reis, Blumen oder Ghee schmeicheln.
 
 Animistische Vorstellungen waren von örtlichen Legenden und Ritualen abgeleitet, nicht von einer religiösen Philosophie. Doch die höheren religiösen Wege wie der Buddhismus oder der Jainismus gestanden diesen Glaubensformen, statt sie zu unterdrücken, gerne eine Nebenrolle in ihrer Weltordnung zu, solange sie schädigende Praktiken wie Menschen- oder Tieropfer unterbanden.
@@ -279,6 +302,7 @@ Animistische Vorstellungen waren von örtlichen Legenden und Ritualen abgeleitet
 Überall in den buddhistischen Texten hören wir von *Yakkhas* (Geistern), *Nāgas* (Drachen), *Gandhabbas* (Elfen), *Garudas* (Phönixen) und vielen mehr. Die buddhistische Haltung solchen Wesen gegenüber wird am besten als „gut nachbarschaftlich“ beschrieben. Weder sie noch irgendwelche höheren Wesen werden verehrt, und man sucht bei ihnen nicht die Erlösung. Sie werden vielmehr mit Respekt und Würde behandelt, denn wer weiß? Wenn es sie wirklich gibt, ist es gut, du hast sie auf deiner Seite.
 
 ### Brahmanismus
+
 Die Kaste, die sich selbst „Brahmanen“ nannte, hatte ein altes Korpus heiliger Weisheitslehren übernommen, das als die Veden bekannt ist. Es bestand aus mündlich überlieferten Textreihen, deren wichtigster Text der Ṛg Veda war. In den frühen buddhistischen Texten gibt es drei Veden: Ṛg, Sāma und Yajur; der Atharva wird erwähnt, wurde aber noch nicht als Veda betrachtet.
 
 Der Ṛg Veda wuchs aus dem kulturell-religiösen Umfeld der alten indoeuropäischen Völker. Er teilt ein gemeinsames Erbe mit den avestischen Texten des iranischen Zoroastrismus und, entfernter, mit den Mythologien Europas.
@@ -294,6 +318,7 @@ Brahmanen waren üblicherweise Familienmenschen, die ein sesshaftes Leben führt
 In den Generationen, die dem Buddha vorausgingen, hatte die brahmanische Philosophie in den Upaniṣaden mit ihren hochentwickelten Debatten und der mystischen Philosophie der wesensmäßigen Einheit von Selbst und Kosmos einen Höhepunkt erreicht. Diese Texte bilden den unmittelbaren dialektischen Bezugsrahmen für die Philosophie des Buddha. Yājñavalkya, eine Schlüsselfigur unter den upaniṣadischen Philosophen, lebte in der Gegend von Mithila, die auch der Buddha durchwanderte, nicht mehr als ein oder zwei Jahrhunderte vor ihm. Auf einige frühe Upaniṣaden wird anscheinend in <a href="https://suttacentral.net/dn13" target="_blank">DN 13</a> *Das dreifache Wissen* (*Tevijjasutta*) Bezug genommen, und die upaniṣadische Lehre vom „Selbst“ (*Ātman*) wurde vom Buddha in augenfälliger Weise in seiner charakteristischsten Lehre zurückgewiesen: nicht-Selbst (*Anattā*).
 
 ### Die Samaṇas
+
 Von den Brahmanen klar zu unterscheiden und oft im Widerspruch zu ihnen war eine vielschichtige Gruppe religiöser Bewegungen, die als *Samaṇas* oder „Asketen“ bekannt waren. Aus der Zeit des Buddha werden sechs hervorstechende asketische Schulen bezeugt. In Anbetracht der zahlreichen Ähnlichkeiten zwischen seiner eigenen Bewegung und den ihren verstand der Buddha sich selbst auch als Asketen.
 
 Wie die buddhistischen Mönche und Nonnen lebten die anderen *Samaṇas* typischerweise in Enthaltsamkeit, entweder alleine oder in klösterlichen Gemeinschaften, und vertrauten für ihre Nahrung auf Almosen. Die berühmteste Bewegung – und die einzige, die bis heute überlebt hat – war der Jainismus. Er entwickelte sich unter dem Anführer Mahāvīra, der in den buddhistischen Texten als Nigaṇṭha Nātaputta bekannt ist.
@@ -303,6 +328,7 @@ Den Asketen gemeinsam war eine ikonoklastische Haltung, und alle lehnten das bra
 Ihre Lehrsysteme können gekünstelt und obskur erscheinen, ihre Übungen manchmal bizarr und unsinnig; dennoch stellt die asketische Bewegung ein dauerhaftes Zeugnis für die Vielfalt, Kraft und Erneuerungsfähigkeit des religiösen Lebens im alten Indien dar.
 
 <h2 id="item10">Kosmologie</h2>
+
 Ein wiederkehrendes Motiv in vielen religiösen Strömungen Indiens ist ein Interesse für Kosmologie. Von einer religiösen Philosophie erwartete man, dass sie ein Bild der Welt im großen Maßstab zeichnete und den Platz der Menschheit darin aufzeigte. Wie bei allen Aspekten des religiösen Lebens waren solche Kosmologien zum Teil traditionsübergreifend, zum Teil waren sie typisch für eine bestimmte Tradition.
 
 Manche Traditionen behaupteten eine materialistische Weltordnung und wiesen die Idee der Wiedergeburt in einen anderen Daseinszustand zurück; sie versicherten, dass nur dieses Leben wirklich sei.
@@ -340,15 +366,19 @@ Die frühen Texte versuchen nicht, diese Bereiche in ausführlicher Weise system
 Hier ist ein allgemeiner Überblick über die wichtigsten Bereiche, die man in den Suttas findet. Es ist entscheidend, nicht zu vergessen, dass aus buddhistischer Sicht all diese Bereiche, selbst die höchsten, unbeständig sind und keine wahre Freiheit begründen. Es sind keine getrennten metaphysischen Ebenen, sondern bloße Stationen, an denen das Bewusstsein auf seiner langen Reise einige Zeit zubringen kann.
 
 #### Brahmāwelten
+
 Die höchsten himmlischen Welten, die Zuständen der Versenkungsmeditation (*Jhāna*) entsprechen und nur von denen erreicht werden, die *Jhāna* üben. Zu den Brahmāwelten gehören der Bereich der leuchtenden Form (*Rūpaloka*) und die formlosen Bereiche (*Arūpaloka*). Ersterer wird durch die vier Hauptvertiefungen erreicht. Das Wort „Form“ bezieht sich in diesem Zusammenhang auf das verfeinerte strahlende Echo oder den Abglanz des ursprünglichen Meditationsgegenstandes, von dem aus diese Zustände sich entwickeln. Die formlosen Zustände liegen jenseits davon und werden erreicht, wenn selbst dieses subtile Leuchten verschwindet.
 
 #### Himmlische Welten mit Sinnenfreuden
+
 Daraus werden viele erwähnt, am häufigsten der Bereich der Dreiunddreißig, der von Sakka regiert wird. Von vielen Wesen aus den indischen animistischen Glaubensformen heißt es, sie lebten auf den unteren Ebenen dieser Bereiche.
 
 #### Menschenwelt
+
 Der wichtigste Bereich, in dem Buddhas erscheinen und der geistliche Weg gelehrt wird.
 
 #### Niedere Bereiche
+
 Dazu gehören das Tierreich, das Geisterreich und die Höllen. Der Bereich der *Asuras* – Titanen oder Dämonen – wird von den späteren Kosmologien gewöhnlich hier eingeordnet, aber die frühen Texte behandeln ihn als einen Himmel.
 
 Der Buddha lehrte, dass Gutes tun und Schlechtes vermeiden der Weg zu einer Wiedergeburt in einem der glücklichen Bereiche sei; dazu gehören die Menschenwelt und alle höheren Bereiche. Doch der Lauf des Umherwanderns ist unvorhersagbar, daher gewährt kein himmlischer Bereich eine sichere Zuflucht.
@@ -358,6 +388,7 @@ Die Wiedergeburt ist weit davon entfernt, als Trost für naive Anhänger zu gelt
 In der Kernlehre von den vier edlen Wahrheiten wird der Ursprung allen Leidens zum Verlangen zurückverfolgt, das mit Wiedergeburt verbunden ist (*yāyaṁ taṇhā ponobbhavikā*). Das Üben des edlen achtfachen Pfades ist das Einzige, das es ermöglicht, dieses Verlangen loszulassen und frei von Leiden zu sein. Das ist es, was der Buddha „Erlöschen“ oder „Stillen“ nannte (Pali: *Nibbāna*; Sanskrit *Nirvāṇa*).
 
 <h2 id="item11">Über die Pali-Kommentare</h2>
+
 Die kanonischen Palitexte sind von einem umfangreichen und detaillierten Satz von Kommentaren (*Aṭṭhakathā*) und Subkommentaren (*Ṭīkā*) begleitet. Diese Texte sind für die meisten Menschen noch mysteriöser als der Kanon selbst, daher will ich ein paar Worte dazu sagen.
 
 Die wichtigsten Kommentare wurden im 5. Jahrhundert von dem Mönch Buddhaghosa im Kloster Mahāvihāra in Anuradhapura, damals Hauptstadt von Sri Lanka, zusammengestellt. Buddhaghosa übernahm eine Reihe älterer Kommentare in der alten singhalesischen Sprache, die heute verloren sind. Diese waren über die Jahrhunderte in Sri Lanka zusammengestellt worden, großenteils etwa zwischen 200 v. Chr. und 200 n. Chr.; das heißt, der Hauptinhalt der Kommentare war einige Jahrhunderte vor Buddhaghosa bereits geschlossen.
@@ -377,6 +408,7 @@ Das ist mir immer als ein vernünftiger Rat erschienen, und ich habe versucht, i
 In diesen Leitfäden lasse ich die kommentarischen Erklärungen fast völlig beiseite. An einigen Stellen weichen die Erläuterungen, die ich gebe, von denen in den Kommentaren ab. Ich bin mir dessen bewusst und habe über die meisten dieser Dinge anderswo geschrieben, aber ich möchte die Leitfäden nicht damit belasten, jede Kontroverse neu zu verhandeln. Ich widerspreche den Kommentaren nicht aus Unwissenheit oder Sturheit, sondern weil ich nach vielen Jahren des Studiums, der Betrachtung, Diskussion und Übung bei manchen Dingen zu einer anderen Ansicht gekommen bin.
 
 <h2 id="item12">Eine kurze und unvollständige Textgeschichte</h2>
+
 Die Bedeutung der *Nikāyas* wurde von europäischen Wissenschaftlern schon früh erkannt. Die Einzelheiten der Ausgaben und Übersetzungen will ich in den Aufsätzen über die einzelnen *Nikāyas* besprechen und hier einige allgemeine Bemerkungen machen.
 
 Im 19. Jahrhundert wurden europäische Wissenschaftler auf die Palitradition aufmerksam und sahen darin eine verlässliche Informationsquelle über den Buddha, seine Zeit und seine Lehren. Ein englischer Verwaltungsbeamter in Sri Lanka, Thomas Rhys Davids, lernte von den Mönchen Pali, ursprünglich als Hilfe, um die Rechtspraktiken in Sri Lanka besser zu verstehen. Als er die Bedeutung dieser Texte erkannte, kehrte er nach England zurück und gründete die *Pali Text Society (PTS)*, die weitgehend von asiatischen Spendern finanziert wurde. Sie erhielt Palmblattmanuskripte, auf deren Grundlage die PTS gedruckte Ausgaben der wichtigsten Palitexte erstellte.
