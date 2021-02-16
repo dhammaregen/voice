@@ -74,7 +74,7 @@ Ich denke nicht. Ich denke, der Buddha wird klar und freundlich gesprochen haben
 
 Eine zugängliche Übersetzung bringt die Bedeutung des Textes auf einfache und freundliche Art zum Ausdruck und berücksichtigt die Eigenheiten der Zielsprache. Sie sollte nicht nur technisch gesehen korrekt sein, sondern sollte wie etwas klingen, das jemand tatsächlich sagen würde.
 
-Das bedeutet, sie sollte anstreben, sich ganz von den Formalismen, technischen Einzelheiten und indischen Eigentümlichkeiten zu lösen, die buddhistische Übersetzungen dominiert haben; diese wurden dem Englischen\* von Übersetzern aufgenötigt, die für Indologen, Sprachwissenschaftler und buddhistische Philosophen schrieben. [\* Gilt in ähnlicher Weise auch für Deutsch. A. d. Ü.] Solche Übersetzungen lassen mit tausend Papierschnitten den Text sterben; mit jeder Unklarheit wird die Leserin zurückgedrängt, aus dem Text herausgenommen, dazu gedrängt, mit dem Text zu arbeiten, anstatt hineingezogen zu werden.
+Das bedeutet, sie sollte anstreben, sich ganz von den Formalismen, technischen Einzelheiten und indischen Eigentümlichkeiten zu lösen, die buddhistische Übersetzungen dominiert haben; diese wurden dem Englischen\* von Übersetzern aufgenötigt, die für Indologen, Sprachwissenschaftler und buddhistische Philosophen schrieben. [\*Gilt in ähnlicher Weise auch für Deutsch. A. d. Ü.] Solche Übersetzungen lassen mit tausend Papierschnitten den Text sterben; mit jeder Unklarheit wird die Leserin zurückgedrängt, aus dem Text herausgenommen, dazu gedrängt, mit dem Text zu arbeiten, anstatt hineingezogen zu werden.
 
 So haben jene, die dem Buddha zuhörten, es nicht erlebt. Sie wurden nicht mit der Rauigkeit zweifelhafter Ausdrucksweisen traktiert, noch wurde ihnen zugemutet, ständig die Fußnoten nachzuschauen. Sie wurden nach innen und oben gezogen und erlebten durch und durch die umwandelnde Kraft des Dhamma, wie er in den Worten des Erwachten lebendig wurde. Wir können nicht hoffen, diese Erfahrung vollständig wieder aufleben zu lassen; zumindest aber können wir versuchen, die Dinge nicht schlimmer zu machen als nötig.
 
@@ -112,7 +112,7 @@ Feinere Angaben sind mit den Abschnittsnummern möglich. Diese folgen früheren 
 - Im Majjhima sind es die Abschnittsnummern, die von Bhikkhu Ñāṇamoḷi eingeführt wurden und auch in Bhikkhu Bodhis Ausgabe verwendet werden.
 - Im Saṁyutta und Aṅguttara sind es die Absatznummern, die im Mahāsaṅgīti-Palitext zu finden sind.
 
-Jeder dieser Abschnitte ist weiter unterteilt, so dass jeder Abschnitt mehrere „Segmente“ enthält. Das sind kurze Textstücke, gewöhnlich etwa in der Länge eines Satzes. In meinen Übersetzungen stimmen die Segmente mit dem zugrundeliegenden Palitext überein.\* [\* Gilt auch für Anagarika Sabbamittas deutsche Übersetzung. A. d. Ü.]
+Jeder dieser Abschnitte ist weiter unterteilt, so dass jeder Abschnitt mehrere „Segmente“ enthält. Das sind kurze Textstücke, gewöhnlich etwa in der Länge eines Satzes. In meinen Übersetzungen stimmen die Segmente mit dem zugrundeliegenden Palitext überein.\* [\*Gilt auch für Anagarika Sabbamittas deutsche Übersetzung. A. d. Ü.]
 
 In unserem System sind die Zahlen nach einem Doppelpunkt die Abschnitts- und Segmentnummern, das heißt die Untereinheiten in einem Sutta. Ein paar Beispiele:
 - DN 3 bedeutet „die dritte Lehrrede in der Sammlung der Langen Lehrreden (Dīgha-Nikāya)“.
@@ -122,7 +122,7 @@ In unserem System sind die Zahlen nach einem Doppelpunkt die Abschnitts- und Seg
 
 Es ist möglich, dass Sie verschiedenen anderen Bezugssystemen begegnen. In der wissenschaftlichen Arbeit wird zu Texten häufig mit Band und Seite der *Pali Text Society (PTS)*-Ausgabe des ursprünglichen Palitextes Bezug genommen. Diese Übereinkunft ist bedauerlich und schwerfällig, da sie Quellenangaben an eine bestimmte gedruckte Ausgabe bindet. Ich hoffe, dass sie bald zugunsten eines korrekten semantischen Referenzsystems aufgegeben wird. Die PTS-Band- und Seitenzahlen werden jedoch auf SuttaCentral angezeigt, falls Sie eine alte Angabe nachschauen müssen.
 
-Traditionell wurden – und werden oft immer noch ­– Texte mit der langen Variante angegeben: nach *Nikāya*, dann *Saṁyutta* oder *Nipāta* und/oder *Paṇṇasaka* (falls zutreffend), dann *Vagga* und *Sutta*. Dieses System ist hilfreich, wenn man mit Manuskripten arbeitet, da man damit seine Suche Schritt für Schritt durch das Manuskript hindurch einengen kann, um das Gesuchte zu finden. Im Netz, und selbst in Büchern, ist das jedoch überflüssig. Nichtsdestotrotz können Sie in unserem Seitenstreifen entlang der traditionellen Struktur navigieren, wenn Sie möchten.
+Traditionell wurden – und werden oft immer noch – Texte mit der langen Variante angegeben: nach *Nikāya*, dann *Saṁyutta* oder *Nipāta* und/oder *Paṇṇasaka* (falls zutreffend), dann *Vagga* und *Sutta*. Dieses System ist hilfreich, wenn man mit Manuskripten arbeitet, da man damit seine Suche Schritt für Schritt durch das Manuskript hindurch einengen kann, um das Gesuchte zu finden. Im Netz, und selbst in Büchern, ist das jedoch überflüssig. Nichtsdestotrotz können Sie in unserem Seitenstreifen entlang der traditionellen Struktur navigieren, wenn Sie möchten.
 
 <h2 id="item5">Strukturelemente</h2>
 
