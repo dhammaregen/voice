@@ -30,7 +30,7 @@ Deutsch von Anagarika Sabbamitta
 ## Abstract
 Im Folgenden untersuchen wir, ob der Gebrauch des Vokativs *bhikkhave* oder des Nominativs *bhikkhu* in buddhistischen kanonischen Texten darauf schließen lässt, dass weibliche Ordensangehörige von der Zuhörerschaft ausgeschlossen sind. Neben diesem grundlegenden Punkt betrachten wir auch den Vokativ von Eigennamen und das Fehlen des Ausdrucks *arahantī* in der Pāli-Lehrredenliteratur.<sup class="footnote-ref"><a id="fnref2" href="#fn2">[2]</a></sup>
 
-[Anm. d. Ü.: Der Vokativ ist einer von acht Fällen zur Deklination von Substantiven im Pali und wird für die Anrede von Personen benutzt.]
+[A. d. Ü.: Der Vokativ ist einer von acht Fällen zur Deklination von Substantiven im Pali und wird für die Anrede von Personen benutzt.]
 
 ## Einleitung
 Die Begriffe *bhikkhave* und *bhikkhu*, insbesondere in der Art Art, in der sie in der buddhistischen Pāliliteratur auftreten, scheinen oberflächlich betrachtet eine Ausdrucksweise zu sein, die Frauen ausschließt. Die Vokativ-Anrede für Mönche (*bhikkhave* und seine Entsprechungen), die in der *Sutta*-Literatur so oft vorkommt, scheint darauf hinzuweisen, dass die vorgetragenen Unterweisungen ausschließlich an männliche Ordinierte gerichtet sind. In ähnlicher Weise scheint auch der Gebrauch des Nominativs *bhikkhu* (und seiner Entsprechungen) in Darlegungen, die sich auf die Lehre beziehen, anzuzeigen, dass einzig und allein Mönche die Zielgruppe derer sind, die die Lehre darlegen. Doch in beiden Fällen ist ein solches Verständnis des jeweiligen Begriffs problematisch.
