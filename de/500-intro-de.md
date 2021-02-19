@@ -10,7 +10,7 @@ next_aria: 'sonstiges'
 
 *Dhammaregen* und SuttaCentral Voice beherbergen neue segmentierte deutsche Übersetzungen der Suttas des Palikanon von Anagarika Sabbamitta. Auf Voice findet man zusätzlich alle bestehenden deutschen Übersetzungen dieser Texte, die auf SuttaCentral zu finden sind.
 
-[**Zu den Suttas**](/sutta)
+[**Zu den Suttas**](https://dhammaregen.github.io/sutta)
 
 Bisher ligen folgende Suttas auf *Dhammaregen* vor.
 - **AN**: Einer-, Zweier-,  Dreier-, Vierer- und Fünferbuch; Sechserbuch in Arbeit; AN 7.36; AN 8.53, AN 8.63; AN 10.48, AN 10.60-61; AN 11.15
