@@ -12,6 +12,8 @@ next_aria: 'sonstiges'
 
 [**Zu den Suttas**](https://dhammaregen.github.io/sutta)
 
+Bitte klicken Sie auf „Such mir etwas aus!“ oder finden Sie Suchbegriffe über das Suchfeld. Sie können auch Sutta-Kennziffern in das Suchfeld eingeben.
+
 Bisher ligen folgende Suttas auf *Dhammaregen* vor.
 - **AN**: Einer-, Zweier-,  Dreier-, Vierer- und Fünferbuch; Sechserbuch in Arbeit; AN 7.36; AN 8.53, AN 8.63; AN 10.48, AN 10.60-61; AN 11.15
 - **SN**: SN 1.1; SN 3.21; SN 5; SN 6.1; SN 10.8; SN 12.1-33; SN 22.59; SN 35.28; SN 42.11; SN 45.8; SN 46.55; SN 47.9; SN 56.1, SN 56.11, SN 56.47-48
