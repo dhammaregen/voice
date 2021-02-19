@@ -8,7 +8,7 @@ next_aria: 'sonstiges'
 ---
 # Über die deutschen Sutta-Übersetzungen auf *Dhammaregen* und Voice
 
-*Dhammaregen* und SuttaCentral Voice beherbergen neue segmentierte deutsche Übersetzungen der Suttas des Palikanon von Anagarika Sabbamitta. Auf Voice findet man zusätzlich alle bestehenden deutschen Übersetzungen dieser Texte, die auf SuttaCentral zu finden sind.
+*Dhammaregen* und SuttaCentral Voice beherbergen neue segmentierte deutsche Übersetzungen der Suttas des Palikanon von Anagarika Sabbamitta. Auf Voice findet man zusätzlich alle bestehenden deutschen Übersetzungen dieser Texte, wie sie auf SuttaCentral zu finden sind.
 
 [**Zu den Suttas**](https://dhammaregen.github.io/sutta)
 
