@@ -22,9 +22,9 @@ Auf *Dhammaregen* finden Sie Informationen über:
   <summary>Mehr über <em>Dhammaregen</em></summary><br>
   Alle deutschen Übersetzungen von Texten und Essays auf <em>Dhammaregen</em> sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.<br><br>
 
-Für Fragen oder Anregungen zu den segmentierten deutschen Übersetzungen auf Voice oder andere Fragen zu frühen buddhistischen Texten senden Sie eine Email an <dhammaregen@gmail.com> oder wenden Sie sich an das SuttaCentral-Diskussionsforum <a href="https://discourse.suttacentral.net" target="_blank">Discourse.SuttaCentral</a>.  
+Für Fragen oder Anregungen zu den segmentierten deutschen Übersetzungen auf *Dhammaregen* und Voice oder andere Fragen zu frühen buddhistischen Texten senden Sie eine Email an <dhammaregen@gmail.com> oder wenden Sie sich an das SuttaCentral-Diskussionsforum <a href="https://discourse.suttacentral.net" target="_blank">Discourse.SuttaCentral</a>.  
 
-Sie können auch unsere <a href="https://github.com/dhammaregen/dhammaregen" target="_blank">GitHub-Datenbank</a> einsehen und mit <a href="https://github.com/dhammaregen/dhammaregen/issues/new" target="_blank">einem neuen Themenvorschlag</a> Verbesserungsvorschläge einreichen.  
+Sie können auch unsere <a href="https://github.com/dhammaregen/dhammaregen" target="_blank">GitHub-Datenbank</a> einsehen und mit <a href="https://github.com/dhammaregen/dhammaregen/issues/new" target="_blank">einem neuen Themenvorschlag („GitHub issue“)</a> Verbesserungsvorschläge einreichen.  
 
 *Dhammaregen* nutzt Google Analytics für statistische Erhebungen, die der Weiterentwicklung der Webseite dienen. Personenbezogene Daten werden nicht erhoben.
 </details></p>
