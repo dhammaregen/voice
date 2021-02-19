@@ -321,7 +321,7 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
     <a class="footnote-backref" href="#fnref1">↩</a>
   </li>
   <li id="fn2" class="footnote-item">
-  	In diesem Artikel sind die Teile 1, 2, 4, und 5 von Alice Collett und die Teile 3, 6, und 7 von Anālayo. Alice Collett legte eine frühere Fassung einiger Teile dieses Papiers unter dem Titel „<em>Aṭṭhakathā</em> Exegesis of <em>Bhikkhave</em>“ beim XVII. Kongress der Internationalen Vereinigung für Buddhismuskunde (International Association of Buddhist Studies) der Universität Wien im August 2014 vor. Den folgenden Menschen möchte sie für ihren freundlichen Beitrag zu dem Papier danken: Bhikkhu Bodhi, Simon Brodbeck, Paul Dundas, Timothy Lenz, Patrick Olivelle, Blair Silverlock und Martin Seeger.
+  	In diesem Artikel sind die Teile 1, 2, 4, und 5 von Alice Collett und die Teile 3, 6, und 7 von Anālayo. Alice Collett stellte eine frühere Fassung einiger Teile dieses Papers unter dem Titel „<em>Aṭṭhakathā</em> Exegesis of <em>Bhikkhave</em>“ beim XVII. Kongress der Internationalen Vereinigung für Buddhismuskunde (International Association of Buddhist Studies) der Universität Wien im August 2014 vor. Den folgenden Menschen möchte sie für ihren freundlichen Beitrag zu dem Papier danken: Bhikkhu Bodhi, Simon Brodbeck, Paul Dundas, Timothy Lenz, Patrick Olivelle, Blair Silverlock und Martin Seeger.
   	<a class="footnote-backref" href="#fnref2">↩</a>
   </li>
   <li id="fn3" class="footnote-item">
@@ -337,7 +337,7 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref5">↩</a>
   </li>
   <li id="fn6" class="footnote-item">
-  	Der Unterschied zwischen der Pāliversion und der chinesischen kann dadurch zustande kommen, dass die Übersetzer, die den indischen Text ins Chinesische übertrugen, den Vokativ wegließen.
+  	Der Unterschied zwischen der Pāliversion und der chinesischen rührt möglicherweise daher, dass die Übersetzer, die den Text aus den indischen Sprachen ins Chinesische übertrugen, den Vokativ wegließen.
   	<a class="footnote-backref" href="#fnref6">↩</a>
   </li>
   <li id="fn7" class="footnote-item">
@@ -369,7 +369,7 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref13">↩</a>
   </li>
   <li id="fn14" class="footnote-item">
-  	Warder (165 Anmerkung 4) kommentiert in Bezug auf einen anderen solchen Fall, wo der Plural <em>Vāseṭṭhā</em> die Art darstellt, die beiden Brahmanenfreunde Vāseṭṭha und Bhāradvāja anzureden, dass das ein Fall von „Vokativ Plural“ sei (gefunden in C e und S e  und vermerkt als Variante in der E e-Ausgabe bei DN III 81 Anmerkung 1); „der zweite Name wird so verstanden, als sei er im ersten eingeschlossen“.
+  	Warder (165 Anmerkung 4) kommentiert in Bezug auf einen anderen solchen Fall, wo der Plural <em>Vāseṭṭhā</em> die Art darstellt, die beiden Brahmanenfreunde Vāseṭṭha und Bhāradvāja anzureden, dass das ein Fall von „Vokativ Plural“ sei (gefunden in C e und S e  und vermerkt als Variante in der E e-Ausgabe bei DN III 81 Anmerkung 1); „der zweite Name wird so verstanden, als sei er im ersten mit enthalten“.
   	<a class="footnote-backref" href="#fnref14">↩</a>
   </li>
   <li id="fn15" class="footnote-item">
@@ -377,11 +377,11 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref15">↩</a>
   </li>
   <li id="fn16" class="footnote-item">
-  	Wie Blair Silverlock feststellt, könnte das Problem damit zu tun haben, wie die Gāndhārī-Kopisten Plural- und Singularformen aufgezeichnet haben. Ich möchte Blair dafür danken, dass er mir freundlicherweise einige Abschnitte seiner Doktorarbeit, die demnächst fertig werden soll, über die Rolle Nr. 12 der Älteren Sammlung zur Verfügung gestellt hat.
+  	Wie Blair Silverlock feststellt, könnte das Problem damit zu tun haben, wie die Gāndhārī-Kopisten Plural- und Singularformen aufgezeichnet haben. Ich möchte Blair dafür danken, dass er mir freundlicherweise einige Abschnitte seiner fast fertigen Doktorarbeit über die Rolle Nr. 12 der Älteren Sammlung zur Verfügung gestellt hat.
   	<a class="footnote-backref" href="#fnref16">↩</a>
   </li>
   <li id="fn17" class="footnote-item">
-  	Ich möchte Patrick Olivelle für seine Bemerkungen zu diesem Thema danken.
+  	Ich möchte Patrick Olivelle für seine Anmerkungen zu diesem Thema danken.
   	<a class="footnote-backref" href="#fnref17">↩</a>
   </li>
   <li id="fn18" class="footnote-item">
@@ -389,11 +389,11 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref18">↩</a>
   </li>
   <li id="fn19" class="footnote-item">
-  	Ich möchte Paul Dundas für seine Bemerkungen zu diesem Thema danken.
+  	Ich möchte Paul Dundas für seine Anmerkungen zu diesem Thema danken.
   	<a class="footnote-backref" href="#fnref19">↩</a>
   </li>
   <li id="fn20" class="footnote-item">
-  	Eine andere Form eines idiomatischen Vokativ Plural, für die es Hinweise gibt, ist der <em>Pluralis Majestatis</em>, der Respekt vor Verstorbenen ausdrückt, wie Schopen (176-7) und ich (Collett, in Kürze erscheinend) in Bezug auf Inschriften bemerkt haben. Es gibt auch Anhaltspunkte dafür in anderen Sanskritarbeiten, aber dieser Gebrauch spielt für unsere oben genannten Erkenntnisse keine Rolle, da der Plural in diesen Fällen eindeutig an Lebende gerichtet ist.
+  	Eine andere Form eines idiomatischen Vokativ Plural, für die es Hinweise gibt, ist der <em>Pluralis Majestatis</em>, der Respekt vor Verstorbenen ausdrückt, wie Schopen (176-7) und ich (Collett, in Kürze erscheinend) in Bezug auf Inschriften bemerkt haben. Es gibt auch Anhaltspunkte dafür in anderen Sanskritarbeiten, aber dieser Gebrauch spielt für unsere oben genannten Erkenntnisse keine Rolle, da der Plural in diesen Fällen eindeutig gebraucht wird, um Lebende anzureden.
   	<a class="footnote-backref" href="#fnref20">↩</a>
   </li>
   <li id="fn21" class="footnote-item">
@@ -429,15 +429,15 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref28">↩</a>
   </li>
   <li id="fn29" class="footnote-item">
-  	Der übersetzte Abschnitt ist vom SĀ 615 bei T II 172a 26 bis b 10 entnommen. Hier und anderswo übernehme ich das Pāli für Eigennamen und Lehrbegriffe (mit Ausnahme anglisierter Termini wie Dharma), um den Vergleich mit den Parallelen in den Pāli-Lehrreden zu vereinfachen; das bedeutet keine Stellungnahme zu der Frage, welches die ursprüngliche Sprache des Textes war, auf den sich die chinesische Übersetzung stützte.
+  	Der übersetzte Abschnitt ist vom SĀ 615 bei T II 172a 26 bis b 10 entnommen. Hier und anderswo übernehme ich das Pāli für Eigennamen und Lehrbegriffe (mit Ausnahme anglisierter Termini wie Dharma), um den Vergleich mit den Parallelen in den Pāli-Lehrreden zu erleichtern; das ist nicht als Stellungnahme zu der Frage beabsichtigt, welches die ursprüngliche Sprache des Textes war, auf den sich die chinesische Übersetzung stützte.
   	<a class="footnote-backref" href="#fnref29">↩</a>
   </li>
   <li id="fn30" class="footnote-item">
-  	Mit der Überschrift, die ich ergänze, folge ich Akanuma (65), der Originaltext hat keine Überschrift.
+  	Mit der von mir hinzugefügten Überschrift folge ich Akanuma (65), der Originaltext weist keine Überschrift auf.
   	<a class="footnote-backref" href="#fnref30">↩</a>
   </li>
   <li id="fn31" class="footnote-item">
-  	Die Parallele SN 47.10 bei SN V 154, 20 berichtet einfach, dass Ānanda seine Roben und Schale nahm und zu einem gewissen klösterlichen Quartier der <em>Bhikkhunīs</em> ging.
+  	Die Parallele SN 47.10 bei SN V 154, 20 berichtet lediglich, dass Ānanda seine Roben und Schale nahm und zu einer gewissen klösterlichen Unterkunft der <em>Bhikkhunīs</em> ging.
   	<a class="footnote-backref" href="#fnref31">↩</a>
   </li>
   <li id="fn32" class="footnote-item">
@@ -449,7 +449,7 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref33">↩</a>
   </li>
   <li id="fn34" class="footnote-item">
-  	In der entsprechenden Antwort in SN 47.10 bei SN V 155, 2 bezieht sich Ānanda auf <em>Bhikkhus</em> und <em>Bhikkhunīs</em>, die in dieser Weise üben.
+  	In der entsprechenden Antwort in SN 47.10 bei SN V 155, 2 bezieht sich Ānanda auf <em>Bhikkhus</em> und <em>Bhikkhunīs</em>, die auf diese Weise üben.
   	<a class="footnote-backref" href="#fnref34">↩</a>
   </li>
   <li id="fn35" class="footnote-item">
@@ -469,11 +469,11 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref38">↩</a>
   </li>
   <li id="fn39" class="footnote-item">
-  	SN 47.10 bei SN V 156, 4 weist nur darauf hin, dass der <em>Bhikkhu</em> den Geist auf ein inspirierendes Zeichen lenken sollte (<em>nimitta</em>).
+  	SN 47.10 bei SN V 156, 4 weist lediglich darauf hin, dass der <em>Bhikkhu</em> den Geist auf ein inspirierendes Zeichen richten sollte (<em>nimitta</em>).
   	<a class="footnote-backref" href="#fnref39">↩</a>
   </li>
   <li id="fn40" class="footnote-item">
-  	Meine Übersetzung [bezieht sich auf die englische Vorlage; A.d.Ü.] gründet sich auf die Annahme, dass ein Verweis auf 身 hier einen Instrumentalfall <em>kāyena</em> aus dem Original in der indischen Sprache wiedergibt; das dient in solchen Zusammenhängen als idiomatischer Ausdruck, um persönliche, unmittelbare Erfahrung auszudrücken; vgl. Schmithausen (214 und 249 ad. Anmerkung 50), Radich (263), Harvey (180 Anmerkung 10) und Anālayo (<em>Comparative</em> 379f Anmerkung 203).
+  	Meine Übersetzung [bezieht sich auf die englische Vorlage; A.d.Ü.] gründet auf der Annahme, dass ein Verweis auf 身 hier einen Instrumentalfall <em>kāyena</em> aus dem Original in der indischen Sprache wiedergibt, was in solchen Zusammenhängen als idiomatischer Ausdruck zum Ausdruck persönlicher unmittelbarer Erfahrung dient; vgl. Schmithausen (214 und 249 ad. Anmerkung 50), Radich (263), Harvey (180 Anmerkung 10) und Anālayo (<em>Comparative</em> 379f Anmerkung 203).
   	<a class="footnote-backref" href="#fnref40">↩</a>
   </li>
   <li id="fn41" class="footnote-item">
@@ -501,7 +501,7 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref46">↩</a>
   </li>
   <li id="fn47" class="footnote-item">
-  	Eine ähnliche Schlussfolgerung wurde kürzlich von Ānandajoti (4) vorgeschlagen, da in MN 146 bei MN III 275, 26 eine Unterweisung an <em>Bhikkhunīs</em> über die Entwicklung der Einsicht nur das Pflegen der Faktoren des Erwachens durch einen <em>Bhikkhu</em> beschreibt und so klarmacht, dass „das Wort <em>bhikkhu</em> hier die Nonnen einschließen muss, die er mit dem Dhammavortrag anspricht und ermuntert. Wenn es in den Lehrreden <em>bhikkhu</em> heißt, sollte das daher … so verstanden werden, dass es sich sowohl auf männliche als auch weibliche Entsagung Übende bezieht, und … für die Übersetzung wäre <em>Ordensmitglied</em> ein angemessenerer Ausdruck als <em>Mönch</em>, es sei denn, wir wissen ausdrücklich, dass die Nonnen abwesend sind.“
+  	Eine ähnliche Schlussfolgerung wurde kürzlich von Ānandajoti (4) vorgeschlagen, da in MN 146 bei MN III 275, 26 eine Unterweisung an <em>Bhikkhunīs</em> über die Entwicklung der Einsicht nur das Kultivieren der Faktoren des Erwachens durch einen <em>Bhikkhu</em> beschreibt und so klarmacht, dass „das Wort <em>bhikkhu</em> hier die Nonnen einschließen muss, die er mit dem Dhammavortrag anspricht und ermuntert. Wenn es in den Lehrreden <em>bhikkhu</em> heißt, sollte das daher … so verstanden werden, dass es sich sowohl auf männliche als auch weibliche Entsagung Übende bezieht, und … für die Übersetzung <em>Ordensmitglied</em> ein angemessenerer Ausdruck als <em>Mönch</em> wäre, es sei denn, wir wissen ausdrücklich, dass die Nonnen abwesend sind.“
   	<a class="footnote-backref" href="#fnref47">↩</a>
   </li>
   <li id="fn48" class="footnote-item">
@@ -509,7 +509,7 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref48">↩</a>
   </li>
   <li id="fn49" class="footnote-item">
-  	Pace Wilson (71 und 21), der anmerkt, dass „das <em>Satipatthana-Sutta</em> und die anderen Hauptquellen zur Achtsamkeit im Palikanon bemerkenswerterweise männlich sind: von einem männlichen Buddha an männliche Ordinierte erteilt“ … „in dieser klassischen Darstellung werden Mönche in der Achtsamkeit unterwiesen, nicht die buddhistische Gemeinschaft im Allgemeinen.“ Dass das Üben von Achtsamkeit durch Laien nicht erst eine moderne Erscheinung ist, kann man zum Beispiel in MN 51 bei MN I 340, 13 sehen, wo ein Laienschüler vor dem Buddha beschreibt, wie er seine <em>Satipaṭṭhāna</em>-Übung „mit einem fest verankerten Geist“, <em>supaṭṭhitacitta</em>, unternehme, ein Ausdruck, der auf ein beträchtliches Maß an Fertigkeit in dieser Übung hinweist. Weitere Beispiele wären SN 47.29 bei SN V 177, 18 und SN 47.30 bei SN V 178, 6, in denen Laien vorkommen, die die vier <em>Satipaṭṭhānas</em> üben; das Gleiche wird auch in einer Parallele zu SN 47.30, SĀ 1038 bei T II 271a 17, berichtet. Ich habe bereits in Anālayo (<em>Satipaṭṭhāna</em> 275f) auf diese Pāli-Lehrreden aufmerksam gemacht sowie auf die Tatsache, dass <em>Satipaṭṭhāna</em>-Anleitungen nicht so zu verstehen sind, dass sie die Laien ausschließen, eine Position, die vom Kommentar Ps I 241, 2 bestätigt wird.
+  	Pace Wilson (71 und 21), der anmerkt, dass „das <em>Satipatthana-Sutta</em> und die anderen Hauptquellen zur Achtsamkeit im Palikanon bemerkenswerterweise auffallend männlich dominiert sind: von einem männlichen Buddha an männliche Ordinierte erteilt“ … „in dieser klassischen Darstellung werden Mönche in der Achtsamkeit unterwiesen, nicht die buddhistische Gemeinschaft im Allgemeinen.“ Dass das Üben von Achtsamkeit durch Laien nicht erst eine moderne Erscheinung ist, kann man zum Beispiel in MN 51 bei MN I 340, 13 sehen, wo ein Laienschüler vor dem Buddha beschreibt, wie er seine <em>Satipaṭṭhāna</em>-Übung „mit einem fest verankerten Geist“, <em>supaṭṭhitacitta</em>, unternehme, ein Ausdruck, der auf ein beträchtliches Maß an Fertigkeit in dieser Übung hinweist. Weitere Beispiele wären SN 47.29 bei SN V 177, 18 und SN 47.30 bei SN V 178, 6, in denen Laien vorkommen, die die vier <em>Satipaṭṭhānas</em> üben; das Gleiche wird auch in einer Parallele zu SN 47.30, SĀ 1038 bei T II 271a 17, berichtet. Ich habe bereits in Anālayo (<em>Satipaṭṭhāna</em> 275f) auf diese Pāli-Lehrreden aufmerksam gemacht sowie auf die Tatsache, dass <em>Satipaṭṭhāna</em>-Anleitungen nicht so zu verstehen sind, dass sie die Laien ausschließen, eine Position, die vom Kommentar Ps I 241, 2 bestätigt wird.
   	<a class="footnote-backref" href="#fnref49">↩</a>
   </li>
   <li id="fn50" class="footnote-item">
@@ -541,7 +541,7 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref56">↩</a>
   </li>
   <li id="fn57" class="footnote-item">
-  	Lehrredenversionen: AN 8.51 bei AN IV 276, 10 , MĀ 116 bei T I 605a 13 , T 60 bei T I 856a 11 und T 1463 bei T XXIV 803b 10 (in MĀ 116 und T 60 sowie in T 1451 nimmt diese Aussage die Form einer Frage von Seiten Mahāpajāpatīs an, die von der Antwort des Buddha indirekt bestätigt wird). <em>Vinaya</em>-Versionen: T 1421 bei T XXII 185c 17 , T 1428 bei T XXII 923a 24 , T 1451 bei T XXIV 350b 15 , Vin II 254, 33 und der bei Roth (<em>Bhikṣuṇī-Vinaya</em> 13, 5 ) bearbeitete Sankrittext.
+  	Lehrredenversionen: AN 8.51 bei AN IV 276, 10 , MĀ 116 bei T I 605a 13 , T 60 bei T I 856a 11 und T 1463 bei T XXIV 803b 10 (in MĀ 116 und T 60 sowie in T 1451 nimmt diese Aussage die Form einer Frage von Seiten Mahāpajāpatīs an, die von der Antwort des Buddha indirekt bestätigt wird). <em>Vinaya</em>-Versionen: T 1421 bei T XXII 185c 17 , T 1428 bei T XXII 923a 24 , T 1451 bei T XXIV 350b 15 , Vin II 254, 33 und der bei Roth (<em>Bhikṣuṇī-Vinaya</em> 13, 5 ) bearbeitete Sanskrittext.
   	<a class="footnote-backref" href="#fnref57">↩</a>
   </li>
   <li id="fn58" class="footnote-item">
@@ -560,15 +560,15 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref61">↩</a>
   </li>
   <li id="fn62" class="footnote-item">
-  	Banks Findly (68f) untersucht verschiedene Fälle, in denen mit anderen Worten als dem Beinamen <em>Arahant</em> dargestellt wird, dass einzelne <em>Bhikkhunīs</em> das äußerste Ziel erreicht haben, und sie erwähnt auch einige Passagen, die diese Fähigkeit für Frauen im Allgemeinen bestätigen. Der Einschluss der letzten dieser Quellenangaben, Ud 7.10 bei Ud 79, 20, scheint allerdings auf einem Missverständnis zu beruhen, da sie nur verschiedene Stufen der Verwirklichung bis zur Nichtwiederkehr betrifft, die von Laienfrauen erreicht wurden, nicht das Erreichen der <em>Arahant</em>schaft. Vgl. ausführlicher Anālayo („Structural“ 61f note 2).
+  	Banks Findly (68f) untersucht verschiedene Fälle, in denen mit anderen Worten als dem Beinamen <em>Arahant</em> dargestellt wird, dass einzelne <em>Bhikkhunīs</em> das äußerste Ziel erreicht haben, und sie erwähnt auch einige Passagen, die diese Fähigkeit für Frauen im Allgemeinen bestätigen. Die Zurechnung der letzten dieser Quellenangaben, Ud 7.10 bei Ud 79, 20, scheint allerdings auf einem Missverständnis zu beruhen, da sie nur verschiedene Stufen der Verwirklichung bis zur Nichtwiederkehr betrifft, die von Laienfrauen erreicht wurden, nicht das Erreichen der <em>Arahant</em>schaft. Vgl. ausführlicher Anālayo („Structural“ 61f note 2).
   	<a class="footnote-backref" href="#fnref62">↩</a>
   </li>
   <li id="fn63" class="footnote-item">
-  	Das ist <em>Pācittiya</em> 8 in Vin IV 25, 22, wo es darum geht, jemandem, der keine höhere Ordination erhalten hat, Mitteilung über <em>Uttarimanussadhamma</em> zu machen; für eine vergleichende Untersuchung der Parallelen in den <em>Vinayas</em> anderer Schulen vgl. Pachow (124f), und für den Ausdruck <em>uttarimanussadhamma</em> vgl. Anālayo („Uttarimanussadhamma“).
+  	Das ist <em>Pācittiya</em> 8 in Vin IV 25, 22, wo es darum geht, <em>Uttarimanussadhamma</em> gegenüber jemandem zu erklären, der keine höhere Ordination erhalten hat; für eine vergleichende Untersuchung der Parallelen in den <em>Vinayas</em> anderer Schulen vgl. Pachow (124f), und für den Ausdruck <em>uttarimanussadhamma</em> vgl. Anālayo („Uttarimanussadhamma“).
   	<a class="footnote-backref" href="#fnref63">↩</a>
   </li>
   <li id="fn64" class="footnote-item">
-  	Banks Findly (70) stützt ihre These mit der Bemerkung, dass „im Theragāthā mehrfach <em>Bhikkhus</em> sagen: ‚Ich bin ein <em>Arahant</em>, der Gaben würdig‘“; anschließend bezieht sie sich in ihren Anmerkungen 77 und 78 auf Th 296, Th 336, Th 516 und fügt AN 4.374 und AN 5.23 als Vorkommen „an anderer Stelle im Kanon“ hinzu. Im Licht der oben erwähnten <em>Vinaya</em>-Klausel können diese Strophen des <em>Theragāthā</em> allerdings nicht an Laien gerichtet gewesen sein, die zur gleichen Zeit lebten wie die <em>Bhikkhus</em>, die die jeweilige Strophe sprachen, da das bedeuten würde, dass <em>Arahants</em> dabei gezeigt würden, wie sie eine <em>Pācittiya</em>-Regel brechen; das kann man gefahrlos als eine äußerst unwahrscheinliche Deutung dieser Strophen beiseite lassen. Die erste der angegebenen Quellen aus dem <em>Aṅguttara-Nikāya</em> scheint falsch zu sein (4.374 muss wohl Band und Seitenzahl bedeuten, da in E e die Vierer nur bis Lehrrede Nr. 271 gehen; AN IV 374 hat überhaupt keinen Bezug dazu, der Gaben würdig zu sein). Die andere Quellenangabe zum <em>Aṅguttara-Nikāya</em> (AN 10.16 bei AN V 23, 1) nennt zehn Menschen, die der Gaben würdig sind: ein Tathāgata und neun Arten von Schülern auf verschiedenen Stufen des Fortschritts. Diese Passage setzt die Tatsache, der Gaben würdig zu sein, zum spirituellen Fortschritt in Beziehung, ohne dabei nach Geschlechtern zu unterscheiden. Somit weist sie auf das genaue Gegenteil von Banks Findlys Schlussfolgerung hin. Ähnliche Aufzählungen von Menschen, die als der Gaben würdig angesehen werden, findet man in DN 23 bei DN III 253, 27, DN 23 bei DN III 255, 3, AN 2.4 bei AN I 63, 6, AN 7.14 bei AN IV 10, 21, AN 7.16 bei AN IV 13, 10, AN 7.80 bei AN IV 145, 16, AN 8.59 bei AN IV 292, 8, AN 9.10 bei AN IV 373, 1 und Sn 227. All diese Passagen beziehen durchgängig die Frage, ob jemand der Gaben würdig ist, auf das Erreichen verschiedener Stufen der Verwirklichung, ohne den geringsten Hinweis auf irgendeine Art von geschlechtsbezogener Diskriminierung.
+  	Banks Findly (70) stützt ihre These mit der Feststellung, dass „im Theragāthā mehrfach <em>Bhikkhus</em> sagen: ‚Ich bin ein <em>Arahant</em>, der Gaben würdig‘“; anschließend bezieht sie sich in ihren Anmerkungen 77 und 78 auf Th 296, Th 336, Th 516 und fügt AN 4.374 und AN 5.23 als weitere Beispiele „an anderer Stelle im Kanon“ hinzu. Im Licht der oben erwähnten <em>Vinaya</em>-Klausel können diese Strophen des <em>Theragāthā</em> allerdings nicht an Laien gerichtet gewesen sein, die zur gleichen Zeit lebten wie die <em>Bhikkhus</em>, die die jeweilige Strophe sprachen, da das bedeuten würde, dass <em>Arahants</em> dabei gezeigt würden, wie sie eine <em>Pācittiya</em>-Regel brechen; das kann man gefahrlos als eine äußerst unwahrscheinliche Deutung dieser Strophen beiseite lassen. Die erste der angegebenen Quellen aus dem <em>Aṅguttara-Nikāya</em> scheint falsch zu sein (4.374 muss wohl Band und Seitenzahl bedeuten, da in E e die Vierer nur bis Lehrrede Nr. 271 gehen; AN IV 374 hat überhaupt keinen Bezug dazu, der Gaben würdig zu sein). Die andere Quellenangabe zum <em>Aṅguttara-Nikāya</em> (AN 10.16 bei AN V 23, 1) nennt zehn Menschen, die der Gaben würdig sind: ein Tathāgata und neun Arten von Schülern auf verschiedenen Stufen des Fortschritts. Diese Passage setzt die Tatsache, der Gaben würdig zu sein, eindeutig zum spirituellen Fortschritt in Beziehung, ohne dabei nach Geschlechtern zu unterscheiden. Somit weist sie auf das genaue Gegenteil von Banks Findlys Schlussfolgerung hin. Ähnliche Aufzählungen von Menschen, die als der Gaben würdig angesehen werden, findet man in DN 23 bei DN III 253, 27, DN 23 bei DN III 255, 3, AN 2.4 bei AN I 63, 6, AN 7.14 bei AN IV 10, 21, AN 7.16 bei AN IV 13, 10, AN 7.80 bei AN IV 145, 16, AN 8.59 bei AN IV 292, 8, AN 9.10 bei AN IV 373, 1 und Sn 227. All diese Passagen beziehen durchgängig die Frage, ob jemand der Gaben würdig ist, auf das Erreichen verschiedener Stufen der Verwirklichung, ohne den geringsten Hinweis auf irgendeine Art von geschlechtsbezogener Diskriminierung.
   	<a class="footnote-backref" href="#fnref64">↩</a>
   </li>
   <li id="fn65" class="footnote-item">
@@ -580,7 +580,7 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref66">↩</a>
   </li>
   <li id="fn67" class="footnote-item">
-  	Der Stand, von den Āsavas frei zu sein, wird in SN 5.3 bei SN I 130, 23 Kisāgotamī zugeschrieben mit Hilfe des Ausdrucks <em>viharāmi anāsavā</em>. Dieser Ausdruck hat mit <em>viharāmi anāsavo</em> ein Gegenstück, das sich genau in dem oben in Anmerkung 64 erwähnten Th 336 findet (vgl. auch Th 47). Daher muss, genauso wie der <em>Bhikkhu</em>-Sprecher von Th 336 einer Gabe würdig ist, weil er ohne die Einflüsse lebt, auch Kisāgotamī als der Gaben würdig angesehen werden.
+  	Der Zustand des Freiseins von den Āsavas wird in SN 5.3 bei SN I 130, 23 Kisāgotamī mit Hilfe des Ausdrucks <em>viharāmi anāsavā</em> zugeschrieben. Dieser Ausdruck hat mit <em>viharāmi anāsavo</em> ein Gegenstück, das sich genau in dem oben in Anmerkung 64 erwähnten Th 336 findet (vgl. auch Th 47). Daher muss, genauso wie der <em>Bhikkhu</em>-Sprecher von Th 336 einer Gabe würdig ist, weil er ohne die Einflüsse lebt, auch Kisāgotamī als der Gaben würdig angesehen werden.
   	<a class="footnote-backref" href="#fnref67">↩</a>
   </li>
   <li id="fn68" class="footnote-item">
@@ -596,7 +596,7 @@ Wir möchten mit einer Bemerkung zur Frage der Übersetzung und der folgenden Fr
   	<a class="footnote-backref" href="#fnref70">↩</a>
   </li>
   <li id="fn71" class="footnote-item">
-  	Sp I 215, 24 erklärt, dass die Erwähnung der beiden, die fortzogen und <em>Arahants</em> wurden, Bījaka und seine Mutter meint. Clarke (192 Anmerkung 99) bemerkt, dass parallele Stellen in den <em>Vinayas</em> von Dharmaguptaka, Mahīśāsaka, Mūlasarvāstivāda und Sarvāstivāda nur für den Sohn die Verwirklichung der <em>Arahant</em>schaft erwähnen; vgl. T 1428 bei T XXII 570a 28 , T 1421 bei T XXII 3a 29 , T 1442 bei T XXIII 629a 15 und T 1435 bei T XXIII 1b 16. Damit fällt der Theravāda-<em>Vinaya</em> damit auf, dass er ausdrücklich die Verwirklichung der <em>Arahant</em>schaft durch die Mutter erwähnt. Anderswo verwendet der Mūlasarvāstivāda-<em>Vinaya</em>, Dutt (22, 9 ), den Ausdruck <em>arahantinī</em>; ein Gebrauch, der bereits von Edgerton (67) und Finnegan (200 Anmerkung 10) bemerkt wurde; für eine Untersuchung von <em>arahatīs</em> vgl. auch Feer.
+  	Sp I 215, 24 erklärt, dass die Erwähnung der beiden, die fortzogen und <em>Arahants</em> wurden, Bījaka und seine Mutter meint. Clarke (192 Anmerkung 99) bemerkt, dass parallele Stellen in den <em>Vinayas</em> von Dharmaguptaka, Mahīśāsaka, Mūlasarvāstivāda und Sarvāstivāda nur für den Sohn die Verwirklichung der <em>Arahant</em>schaft erwähnen; vgl. T 1428 bei T XXII 570a 28 , T 1421 bei T XXII 3a 29 , T 1442 bei T XXIII 629a 15 und T 1435 bei T XXIII 1b 16. Damit fällt der Theravāda-<em>Vinaya</em> dadurch auf, dass er ausdrücklich auch die Verwirklichung der <em>Arahant</em>schaft durch die Mutter erwähnt. Anderswo verwendet der Mūlasarvāstivāda-<em>Vinaya</em>, Dutt (22, 9 ), den Ausdruck <em>arahantinī</em>; ein Gebrauch, der bereits von Edgerton (67) und Finnegan (200 Anmerkung 10) bemerkt wurde; für eine Auseinandersetzung mit <em>arahatīs</em> vgl. auch Feer.
   	<a class="footnote-backref" href="#fnref71">↩</a>
   </li>
 </ol>
