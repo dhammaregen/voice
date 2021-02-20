@@ -23,7 +23,7 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
 
-[Weshalb brauchen wir neue deutsche Sutta-Übersetzungen?](/dhammaregen/de/500-weshalb) – Überlegungnen von Anagarika Sabbamitta
+[Weshalb brauchen wir neue deutsche Sutta-Übersetzungen?](/dhammaregen/de/500-weshalb) – Überlegungen von Anagarika Sabbamitta
 
 ---
 #### Andere deutsche Übersetzungen von Anagarika Sabbamitta auf SuttaCentral
