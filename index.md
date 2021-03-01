@@ -7,7 +7,7 @@
 
 *Dhammaregen* ist ursprünglich als deutschsprachige Begleitwebseite zu SuttaCentral Voice entstanden. Sie wurde weiterentwickelt zu einer Webseite, die neben den ursprünglichen Informatiionen auch neue deutsche Sutta-Übersetzungen von Anagarika Sabbamitta beherbergt.
 
-*Dhammaregen* enthält Informationen und Hintergründe zu SuttaCentral Voice, SuttaCentral, der "großen Schwester" von Voice, den Pali-Quelltexten und den deutschen Übersetzungen.
+*Dhammaregen* enthält Informationen und Hintergründe zu SuttaCentral Voice, SuttaCentral, der „großen Schwester“ von Voice, den Pali-Quelltexten und den deutschen Übersetzungen.
 
 <a href="https://suttacentral.net/" target="_blank">SuttaCentral</a> ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen. <a href="https://voice.suttacentral.net/" target="_blank">SuttaCentral Voice</a> ist eine Anwendung zur Sprachausgabe für Quelltexte auf Pali und verschiedene Übersetzungen.
 
