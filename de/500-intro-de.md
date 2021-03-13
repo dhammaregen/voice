@@ -16,7 +16,7 @@ Bitte klicken Sie auf „Such mir etwas aus!“ oder finden Sie Suchbegriffe üb
 
 Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 - **AN**: Einer-, Zweier-,  Dreier-, Vierer- und Fünferbuch; Sechserbuch in Arbeit; AN 7.36, AN 7.66; AN 8.53, AN 8.63; AN 9.1; AN 10.48, AN 10.60-61; AN 11.15
-- **SN**: SN 1.1; SN 3.21; SN 5; SN 6.1; SN 10.8; SN 12.1-33; SN 22.59; SN 35.28; SN 42.11; SN 45.8; SN 46.55; SN 47.1-20; SN 56.1, SN 56.11, SN 56.47-48
+- **SN**: SN 1.1; SN 3.21; SN 5; SN 6.1; SN 10.8; SN 12.1-33; SN 22.59; SN 35.28; SN 42.11; SN 45.8; SN 46.55; SN 47.1-40; SN 56.1, SN 56.11, SN 56.47-48
 - **MN**: MN 2, MN 7, MN 10, MN 23, MN 33
 - **DN**: DN 6-7, DN 10, DN 12, DN 14-15, DN 17-21, DN 23-25, DN 28-34
 - **KN**: Kp; Thag 1.43, Thag 15.2; Thig Einerbuch; Thig 3.8, Thig 6.8
