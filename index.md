@@ -1,4 +1,4 @@
-> „Es ist, wie wenn es auf einem Berggipfel stark regnet, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie den Ozean.
+> „Es ist, wie wenn es auf einem Berggipfel stark regnet, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer.
 > 
 > Ebenso füllt der Faktor des Umgangs mit guten Menschen, wenn er voll wird, den Faktor auf, der wahren Lehre zuzuhören. Wenn der Faktor, der wahren Lehre zuzuhören, voll wird, füllt er … Wissen und Freiheit auf.“
 <p style="text-align: right;"><a href="https://voice.suttacentral.net/scv/index.html?r=0.34937488233542635#/sutta?search=an10.61" target="_blank">Auf Voice hören</a></p>
