@@ -43,7 +43,7 @@ Sie finden auf SuttaCentral allgemeine Einführungen zu den drei Abschnitten ode
 </details>
 
 <details>
-<summary><h3>Essays von Bhikkhu Sujato zu den Pali-Suttas</h3></summary>
+<summary><h3>Essays von Bhikkhu Sujato und Bhikkhu Bodhi zu den Pali-Suttas</h3></summary>
 Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas verfasst, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln:
 
 * [Ein Leitfaden zu den Pali‐Suttas](/dhammaregen/de/321-leitfaden-palisuttas)
@@ -51,6 +51,7 @@ Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas ve
 * <a href="https://suttacentral.net/mn-guide-sujato" target="_blank">The Middle Discourses: conversations on matters of deep truth</a> (Englisch)
 * <a href="https://suttacentral.net/sn-guide-sujato" target="_blank">The Linked Discourses: the blueprint for Buddhist philosophy</a> (Englisch)
 * <a href="https://suttacentral.net/an-guide-sujato" target="_blank">The Numbered Discourses: things that are useful every day</a> (Englisch)
+* <a href="https://suttacentral.net/an-introduction-bodhi" target="_blank">A Thematic Guide to the Aṅguttara Nikāya</a> (Englisch)
 </details><br>
 
 ## Indexe
