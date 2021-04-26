@@ -2,9 +2,9 @@
 prev: 'Voice benutzen'
 prev_href: '200-using-voice'
 prev_aria: 'voice benutzen'
-next: 'Deutsche Übers.'
-next_href: '500-intro-de'
-next_aria: 'deutsche übersetzungen'
+next: 'Sonstiges'
+next_href: '400-other'
+next_aria: 'sonstiges'
 ---
 # Über die Webseite SuttaCentral
 <a href="https://suttacentral.net" target="_blank">SuttaCentral</a> ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen in frühen Texten. In diesen einführenden Texten können Sie mehr über die Idee und den Aufbau von SuttaCentral erfahren.
@@ -15,16 +15,16 @@ SuttaCentral hat verschiedene Seiten mit Hinweisen zur Benutzung der Webseite un
 <details>
 <summary><h3 style="margin-top: 0.4em;">Einführende Texte zu SuttaCentral</h3></summary>
 
-* [Über SuttaCentral](/dhammaregen/de/301-uber-sc): Idee und Entstehung der Webseite SuttaCentral.
-* [Einführung zu SuttaCentral](/dhammaregen/de/301-einfuhrung-sc): Über die Inhalte von SuttaCentral.
-* [Methodik und Quellen](/dhammaregen/de/301-methodik-sc): Die Entdeckung von Parallelen zwischen frühen buddhistischen Texten aus verschiedenen Überlieferungen als Keim, aus dem SuttaCentral sich entwickelt hat; Textquellen und Bibliografie.
-* [Nummerierung der Suttas](/dhammaregen/de/301-nummerierung-sc): Richtlinien für die Kennziffern früher buddhistischer Texte.
-* [Abkürzungen](/dhammaregen/de/301-abkurzungen-sc): Unverwechselbare Kürzel für alle Texteinheiten.
-* [Sprachen auf SuttaCentral](/dhammaregen/de/301-sprachen-sc): Alte Sprachen (Quellsprachen) und Sprachen, in die übersetzt wurde.
-* [Lizenzen](/dhammaregen/de/301-lizenzen-sc): Urheberrecht auf SuttaCentral.
-* [Zum Herunterladen](/dhammaregen/de/301-herunterladen-sc): EPUBs, PDFs und mehr.
-* [Würdigung](/dhammaregen/de/301-wurdigung-sc): Menschen und Organisationen, die SuttaCentral möglich gemacht haben.
-* [Spenden an SuttaCentral](/dhammaregen/de/301-spenden-sc): Wie Sie SuttaCentral unterstützen können.
+* [Über SuttaCentral](/voice/de/301-uber-sc): Idee und Entstehung der Webseite SuttaCentral.
+* [Einführung zu SuttaCentral](/voice/de/301-einfuhrung-sc): Über die Inhalte von SuttaCentral.
+* [Methodik und Quellen](/voice/de/301-methodik-sc): Die Entdeckung von Parallelen zwischen frühen buddhistischen Texten aus verschiedenen Überlieferungen als Keim, aus dem SuttaCentral sich entwickelt hat; Textquellen und Bibliografie.
+* [Nummerierung der Suttas](/voice/de/301-nummerierung-sc): Richtlinien für die Kennziffern früher buddhistischer Texte.
+* [Abkürzungen](/voice/de/301-abkurzungen-sc): Unverwechselbare Kürzel für alle Texteinheiten.
+* [Sprachen auf SuttaCentral](/voice/de/301-sprachen-sc): Alte Sprachen (Quellsprachen) und Sprachen, in die übersetzt wurde.
+* [Lizenzen](/voice/de/301-lizenzen-sc): Urheberrecht auf SuttaCentral.
+* [Zum Herunterladen](/voice/de/301-herunterladen-sc): EPUBs, PDFs und mehr.
+* [Würdigung](/voice/de/301-wurdigung-sc): Menschen und Organisationen, die SuttaCentral möglich gemacht haben.
+* [Spenden an SuttaCentral](/voice/de/301-spenden-sc): Wie Sie SuttaCentral unterstützen können.
 </details><br>
 
 ## Essays zu den frühen buddhistischen Texten auf SuttaCentral
@@ -46,7 +46,7 @@ Sie finden auf SuttaCentral allgemeine Einführungen zu den drei Abschnitten ode
 <summary><h3>Essays von Bhikkhu Sujato und Bhikkhu Bodhi zu den Pali-Suttas</h3></summary>
 Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas verfasst, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln:
 
-* [Ein Leitfaden zu den Pali‐Suttas](/dhammaregen/de/321-leitfaden-palisuttas)
+* [Ein Leitfaden zu den Pali‐Suttas](/voice/de/321-leitfaden-palisuttas)
 * <a href="https://suttacentral.net/dn-guide-sujato" target="_blank">The Long Discourses: Dhamma as literature and compilation</a> (Englisch)
 * <a href="https://suttacentral.net/mn-guide-sujato" target="_blank">The Middle Discourses: conversations on matters of deep truth</a> (Englisch)
 * <a href="https://suttacentral.net/sn-guide-sujato" target="_blank">The Linked Discourses: the blueprint for Buddhist philosophy</a> (Englisch)
