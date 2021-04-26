@@ -15,7 +15,7 @@ Es gibt mehrere buddhistische Traditionen, von denen jede einen Satz alter Schri
 
 SuttaCentral beherbergt Texte in den Originalsprachen, Übersetzungen in moderne Sprachen sowie komplexe Reihen von Parallelen, die die Beziehung zwischen den Genannten aufzeigen.
 
-![download link](/dhammaregen/assets/img/Life_of_Buddha_Burmese_Manuscript_22_Volume_1_Wellcom.webp?raw=true)
+![download link](/voice/assets/img/Life_of_Buddha_Burmese_Manuscript_22_Volume_1_Wellcom.webp?raw=true)
 
 ## Themen
 
@@ -27,7 +27,7 @@ Es gibt wohl zahlreiche Zusammenfassungen und Interpretationen seiner Lehre, abe
 
 ## Inhalt
 
-![download link](/dhammaregen/assets/img/birchbark_w400.webp?raw=true)
+![download link](/voice/assets/img/birchbark_w400.webp?raw=true)
 
 Buddhistische Texte werden üblicherweise in die „Drei Körbe“ eingeordnet, die auf Pali *tipiṭaka* und auf Sanskrit *tripiṭaka* genannt werden. Das sind:
 
@@ -51,11 +51,11 @@ SuttaCentral stützt sich auf diese lange Geschichte und präsentiert hauptsäch
 
 ## Beziehungen
 
-![download link](/dhammaregen/assets/img/dn20.webp?raw=true)
+![download link](/voice/assets/img/dn20.webp?raw=true)
 
 Suttas sind keine unabhängigen Einheiten. Sie formen ein ausgedehntes Netz von untereinander verwobenen Lehren. Oft liegt der Schlüssel zum Verständnis einer Passage in einem anderen Text. In dieser Weise gleichen die buddhistischen Kanons ein wenig dem Internet, in dem einzelne Seiten durch ein Netz verborgener Links verknüpft sind.
 
-Die meisten Suttas erscheinen in sehr ähnlicher Form in mehr als einer Sammlung. Wir benutzen den Begriff „Parallele“ für Textvarianten, die offenbar von einem gemeinsamen Vorläufer abstammen. Oft liegen die Texte so nahe beieinander, dass das leicht zu ermitteln ist. Manchmal allerdings ist die Beziehung zwischen zwei bestimmten Texten weniger eng. Solche Fälle bezeichnen wir als „ähnliche Parallelen“. Das sagt nichts über die Art der Beziehung zwischen der ähnlichen Parallele und dem Ausgangstext aus. Es legt einfach nahe, dass es für jemanden, der den Ausgangstext studiert, auch von Interesse sein könnte, sich die ähnliche Parallele anzuschauen. Eine ausführlichere Diskussion des Themas finden Sie [auf unserer Seite zur Methodik](/dhammaregen/de/301-methodik-sc).
+Die meisten Suttas erscheinen in sehr ähnlicher Form in mehr als einer Sammlung. Wir benutzen den Begriff „Parallele“ für Textvarianten, die offenbar von einem gemeinsamen Vorläufer abstammen. Oft liegen die Texte so nahe beieinander, dass das leicht zu ermitteln ist. Manchmal allerdings ist die Beziehung zwischen zwei bestimmten Texten weniger eng. Solche Fälle bezeichnen wir als „ähnliche Parallelen“. Das sagt nichts über die Art der Beziehung zwischen der ähnlichen Parallele und dem Ausgangstext aus. Es legt einfach nahe, dass es für jemanden, der den Ausgangstext studiert, auch von Interesse sein könnte, sich die ähnliche Parallele anzuschauen. Eine ausführlichere Diskussion des Themas finden Sie [auf unserer Seite zur Methodik](/voice/de/301-methodik-sc).
 
 Zu bestimmen, welche Texte als Parallelen anzusehen sind, ist keine einfache Sache. Oft stimmen Texte in vielen Einzelheiten überein, und in anderen unterscheiden sie sich. Ab wann ist ein Text keine vollständige Parallele mehr, sondern eine ähnliche Parallele? Und ab wann wird er bloß zu einem Text, der gewisse ähnliche Merkmale aufweist? Auf solche Fragen gibt es keine eindeutigen Antworten. Diese Kennzeichnung herzustellen, stützt sich vielmehr auf die gesammelten Erkenntnisse und Erfahrungen einer aufeinanderfolgenden Reihe von Wissenschaftlern. Es wird zwangsläufig Meinungsverschiedenheiten über einzelne Fragen geben; aber in der Hauptsache gibt es einen breiten Konsens darüber, was eine Parallele ausmacht. Letzten Endes geht es darum, dass diese Kennzeichnung Studierenden hilft, miteinander verbundene Texte in verschiedenen Sammlungen zu studieren und davon zu lernen.
 
