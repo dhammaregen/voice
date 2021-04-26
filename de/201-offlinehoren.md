@@ -15,7 +15,7 @@ Zum Offlinehören mit einem Handy oder einem anderen Audiogerät laden Sie am be
 
 Öffnen Sie die Voice-Webseite auf einem Desktop-Computer und suchen Sie ein oder mehrere Suttas. Neben der Wiedergabe-Schaltfläche sehen Sie einen Download-Pfeil, mit dem Sie das ausgewählte Sutta (die ausgewählten Suttas) herunterladen können.
 
-<img src="/dhammaregen/assets/img/download.png?raw=true" width="100%"/>
+<img src="/voice/assets/img/download.png?raw=true" width="100%"/>
 
 Kopieren Sie die heruntergeladene Audiodatei auf Ihr Handy oder Audiogerät (zum Hören auf dem iPhone s. unten).
 
