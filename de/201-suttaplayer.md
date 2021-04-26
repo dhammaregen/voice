@@ -7,7 +7,7 @@ next_href: '201-einstellungen'
 next_aria: 'einstellungen'
 ---
 # Suttaplayer
-<img src="/dhammaregen/assets/img/suttaplayer.png?raw=true" width="100%"/>
+<img src="/voice/assets/img/suttaplayer.png?raw=true" width="100%"/>
 
 Der Suttaplayer spielt Sutta-Textsegmente ab, wobei abwechselnd Pali und die Übersetzung gelesen wird. Mit der <kbd>Wiedergabe/Pause</kbd>-Schaltfläche links unten können Sie die Wiedergabe starten oder pausieren. Die Wiedergabe läuft segmentweise ab bis zum Ende des Sutta oder der Wiedergabeliste.
 
@@ -27,4 +27,4 @@ In den Einstellungen können Sie den Suttaplayer konfigurieren:
 
 ### Grenzen
 
-Die Wiedergabe mit dem Suttaplayer erfordert eine Internetverbindung, da der Ton für jedes gesprochene Textsegment nach Bedarf abgerufen wird. Diese "Sprache-auf-Abruf"-Interaktion erlaubt, schnell durch ein Sutta zu springen, indem von verschiedenen Stellen Tonhäppchen genommen werden. Das geht allerdings nicht ohne Internetverbindung. Wenn Sie z. B. Suttas im Gehen hören wollen, können Sie [Offlinehören](/dhammaregen/de/201-offlinehoren) versuchen.
+Die Wiedergabe mit dem Suttaplayer erfordert eine Internetverbindung, da der Ton für jedes gesprochene Textsegment nach Bedarf abgerufen wird. Diese "Sprache-auf-Abruf"-Interaktion erlaubt, schnell durch ein Sutta zu springen, indem von verschiedenen Stellen Tonhäppchen genommen werden. Das geht allerdings nicht ohne Internetverbindung. Wenn Sie z. B. Suttas im Gehen hören wollen, können Sie [Offlinehören](/voice/de/201-offlinehoren) versuchen.
