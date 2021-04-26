@@ -6,12 +6,12 @@ prev_aria: 'suttacentral Info'
 # Methodik und Quellen
 <a href="https://suttacentral.net/methodology" target="_blank">Originaltext</a>
 
-1. [Hintergrund](/dhammaregen/de/301-methodik-sc#Hintergrund)
-1. [Suttaparallelen](/dhammaregen/de/301-methodik-sc#Suttaparallelen)
-1. [Vinayaparallelen](/dhammaregen/de/301-methodik-sc#Vinayaparallelen)
-1. [Textquellen](/dhammaregen/de/301-methodik-sc#Textquellen)
-1. [Mark-up](/dhammaregen/de/301-methodik-sc#Markup)
-1. [Bibliografie](/dhammaregen/de/301-methodik-sc#Bibliografie)
+1. [Hintergrund](/voice/de/301-methodik-sc#Hintergrund)
+1. [Suttaparallelen](/voice/de/301-methodik-sc#Suttaparallelen)
+1. [Vinayaparallelen](/voice/de/301-methodik-sc#Vinayaparallelen)
+1. [Textquellen](/voice/de/301-methodik-sc#Textquellen)
+1. [Mark-up](/voice/de/301-methodik-sc#Markup)
+1. [Bibliografie](/voice/de/301-methodik-sc#Bibliografie)
 
 <h2 id="Hintergrund">Hintergrund</h2>
 
