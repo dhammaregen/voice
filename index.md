@@ -1,13 +1,10 @@
-> „Es ist, wie wenn es auf einem Berggipfel stark regnet, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer.
-> 
-> Ebenso füllt der Faktor des Umgangs mit guten Menschen, wenn er voll wird, den Faktor auf, der wahren Lehre zuzuhören. Wenn der Faktor, der wahren Lehre zuzuhören, voll wird, füllt er … Wissen und Freiheit auf.“
-<p style="text-align: right;"><a href="https://voice.suttacentral.net/scv/index.html?r=0.34937488233542635#/sutta?search=an10.61" target="_blank">Auf Voice hören</a></p>
-
 <h1 style="text-align:center;">Willkommen bei <em>Dhammaregen.github.io/voice</em>!</h1>
 
 *Dhammaregen.github.io/voice* ist eine deutschsprachige Begleitwebseite zu Voice.suttacentral.net. Es enthält Informationen und Hintergründe zu Voice.suttacentral.net und SuttaCentral, der „großen Schwester“ von Voice.
 
 <a href="https://suttacentral.net/" target="_blank">SuttaCentral</a> ist eine internationale Webseite mit frühen buddhistischen Texten in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen. <a href="https://voice.suttacentral.net/" target="_blank">Voice.suttacentral.net</a> ist eine Anwendung zur Sprachausgabe für Quelltexte auf Pali und verschiedene Übersetzungen.
+
+Die *Dhammaregen*-Hauptseite finden Sie [hier](/dhammaregen).
 
 Auf *Dhammaregen.github.io/voice* finden Sie Informationen über:
 
