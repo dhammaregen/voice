@@ -11,7 +11,7 @@ Auf *Dhammaregen.github.io/voice* finden Sie Informationen über:
 - [**Voice.suttacentral.net**](/voice/de/100-intro-voice)  
 - [**SuttaCentral**](/voice/de/300-intro-sc)
 
-  Alle deutschen Übersetzungen von Texten und Essays auf <em>Dhammaregen.github.io/voice</em> sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.<br><br>
+Alle deutschen Übersetzungen von Texten und Essays auf <em>Dhammaregen.github.io/voice</em> sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.<br><br>
 
 Die GitHub-Datenbank dieser Webseite finden Sie <a href="https://github.com/dhammaregen/voice" target="_blank">hier</a>.  
 
