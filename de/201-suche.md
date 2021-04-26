@@ -29,7 +29,7 @@ Wenn Sie eine bestimmte Übersetzung suchen, geben Sie Sprache und Übersetzer a
 * <kbd>mn23/de/mettiko</kbd> ist die deutsche Übersetzung von MN 23 von Bhikkhu Mettiko.
 * <kbd>mn23/de/sabbamitta</kbd> ist die deutsche Übersetzung von MN 23 von Anagarika Sabbamitta.
 
-Wenn Sie nach einer anderen Sprache suchen wollen, ändern Sie bitte die Übersetzungssprache in den [Einstellungen](/dhammaregen/de/201-einstellungen).
+Wenn Sie nach einer anderen Sprache suchen wollen, ändern Sie bitte die Übersetzungssprache in den [Einstellungen](/voice/de/201-einstellungen).
 
 </details><!--COMMENT: Sutta Search-->
 
@@ -53,7 +53,7 @@ Die Suche nach Schlüsselwörtern ist langsamer als die Suche nach einer Wendung
 
 Die Suchergebnisse werden nach Relevanz angeordnet. Der Relevanzwert ist einfach die Summe aus der Anzahl der Treffer und dem Anteil der Segmente, die einen Treffer enthalten. Suttas, in denen der Suchbegriff häufig vorkommt, haben die höchste Relevanz.
 
-Voice zeigt normalerweise bis zu fünf Suchergebnisse an. Benutzen Sie die [Einstellungen](/dhammaregen/de/201-einstellungen), wenn Sie die maximale Zahl der Suchergebnisse erhöhen wollen. Für mehr Suchergebnisse dauert es länger.
+Voice zeigt normalerweise bis zu fünf Suchergebnisse an. Benutzen Sie die [Einstellungen](/voice/de/201-einstellungen), wenn Sie die maximale Zahl der Suchergebnisse erhöhen wollen. Für mehr Suchergebnisse dauert es länger.
 </details><!--COMMENT:Number of Search Results-->
 
 <details><summary><h3>Erweiterte Suche</h3></summary>
