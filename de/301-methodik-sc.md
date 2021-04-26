@@ -10,7 +10,7 @@ prev_aria: 'suttacentral Info'
 1. [Suttaparallelen](/voice/de/301-methodik-sc#Suttaparallelen)
 1. [Vinayaparallelen](/voice/de/301-methodik-sc#Vinayaparallelen)
 1. [Textquellen](/voice/de/301-methodik-sc#Textquellen)
-1. [Mark-up](/voice/de/301-methodik-sc#Markup)
+1. [Mark-up](/voice/de/301-methodik-sc#Mark-up)
 1. [Bibliografie](/voice/de/301-methodik-sc#Bibliografie)
 
 <h2 id="Hintergrund">Hintergrund</h2>
