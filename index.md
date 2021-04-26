@@ -6,7 +6,7 @@ SuttaCentral ist eine internationale Webseite mit frühen buddhistischen Texten 
 
 Auf der [*Dhammaregen*-Hauptseite](/dhammaregen) finden Sie neue deutsche Übersetzungen der Suttas des Palikanon sowie zahlreiche Hintergrundinformationen.
 
-Alle deutschen Übersetzungen von Texten und Essays auf <em>Dhammaregen.github.io/voice</em> sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.<br><br>
+Alle deutschen Übersetzungen von Texten und Essays auf <em>Dhammaregen.github.io/voice</em> sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.
 
 Die GitHub-Datenbank dieser Webseite finden Sie <a href="https://github.com/dhammaregen/voice" target="_blank">hier</a>.  
 
