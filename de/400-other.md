@@ -1,10 +1,10 @@
 ---
-prev: 'Deutsche Übers.'
-prev_href: '500-intro-de'
-prev_aria: 'deutsche übersetzungen'
+prev: 'SuttaCentral'
+prev_href: '300-intro-sc'
+prev_aria: 'über suttacentral'
 next: 'Zu Voice'
 next_href: 'https://voice.suttacentral.net'
-next_aria: 'zur voice webseite'
+next_aria: 'zur voice-webseite'
 ---
 # Sonstiges
 
@@ -13,7 +13,7 @@ next_aria: 'zur voice webseite'
 * <a href="https://sc-voice.github.io/sc-voice/en/401-translating-voice-ui" target="_blank">Translating Voice UI</a>: Helfen Sie uns, Voice international zu machen; enthält einige Richtlinien für die Übersetzung der Voice-Benutzeroberfläche in andere Sprachen (Englisch).
 
 ## Würdigung
-* [Dank](/dhammaregen/de/401-dank): Menschen, die zur Entwicklung von SuttaCentral Voice beigetragen haben und beitragen.
+* [Dank](/voice/de/401-dank): Menschen, die zur Entwicklung von SuttaCentral Voice beigetragen haben und beitragen.
 
 ## Technik und Entwicklung
 * <a href="https://sc-voice.github.io/sc-voice/en/490-dev-install" target="_blank">Installation: Developer</a>: enthält Instruktionen, wie man eine Entwicklerumgebung für Voice einrichtet (Englisch).
