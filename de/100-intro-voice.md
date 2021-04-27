@@ -3,7 +3,7 @@ next: 'Voice benutzen'
 next_href: '200-using-voice'
 next_aria: 'voice benutzen'
 ---
-# Über Voice.suttacentral.net 
+# Über die Webseite Voice.suttacentral.net 
 Mit Voice können Sie die Worte des Buddha durchsuchen und anhören. Voice ist eine Begleitwebseite zu <a href="https://suttacentral.net" aria-label="suttacentral.net" target="_blank">SuttaCentral</a>, das den gewaltigen Ozean der frühen buddhistischen Texte („FBT“) zusammen mit Übersetzungen in moderne Sprachen sowie zahlreichen Parallelen beherbergt und für alle frei zugänglich macht. Voice ist für die Benutzung durch Hören entwickelt und erweitert die Texte auf SuttaCentral um den Zugang für Bildschirmleser wie JAWS, NVDA oder ChromeVox. Doch auch sehende Benutzer können darin eine hilfreiche Art finden, die Lehren des Buddha zu erkunden und zu studieren.
 
 Zur Zeit des Buddha hat man den Dhamma gehört, sich eingeprägt und für andere aufgesagt. Tatsächlich war das Hören, Sicheinprägen und Aufsagen des Dhamma ein Kernelement der Übung.
