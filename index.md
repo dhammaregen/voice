@@ -12,4 +12,6 @@ Die GitHub-Datenbank dieser Webseite finden Sie <a href="https://github.com/dham
 
 <a href="https://sc-voice.github.io/sc-voice/" target="-blank">&#x2b95; Zur Sprachauswahl</a>
 
+[Impressum und Datenschutzerklärung](/voice/de/500-impressum)
+
 <a href="https://www.pexels.com/photo/boulder-environment-flow-landscape-464327/" target="_blank"><img src="/voice/assets/img/waterfall-large.png" class="rain-img"/></a>
