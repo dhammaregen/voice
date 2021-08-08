@@ -3,7 +3,7 @@ Erfüllung rechtlicher Auflagen
 
 ### Impressum
 
-Diese Webseite ist eine Begleitwebseite zu <a href="https://voice.suttacentral.net" target="_blank">Voice.suttacentral.net</a>. Ihr Ziel ist, interessierten Besuchern Informationen zur Benutzung von Voice sowie zusätzlich relevante Informationen zur Verfügung zu stellen.
+Diese Webseite ist eine Begleitwebseite zu <a href="https://voice.suttacentral.net" target="_blank">Voice.suttacentral.net</a>. Ihr Ziel ist es, interessierten Besuchern Informationen zur Benutzung von Voice sowie zusätzlich relevante Informationen zur Verfügung zu stellen.
 
 Geschäftliche oder kommerzielle Interessen werden nicht verfolgt, auch soll nicht für eine bestimmte Religionszugehörigkeit geworben werden.
 
