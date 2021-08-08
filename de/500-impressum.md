@@ -1,5 +1,4 @@
 # Impressum und Datenschutzerklärung
-Erfüllung rechtlicher Auflagen
 
 ### Impressum
 
