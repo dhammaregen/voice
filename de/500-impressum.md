@@ -8,8 +8,8 @@ Geschäftliche oder kommerzielle Interessen werden nicht verfolgt, auch soll nic
 
 Kontakt:  
 Maria Backes  
-St. Ingberter Str. 34 b  
-66583 Spiesen-Elversberg  
+c/o Gerhart-Hauptmann-Straße 25  
+66386 St. Ingbert  
 Deutschland  
 [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com)
 
@@ -23,8 +23,8 @@ Diese Webseite legt Wert auf den Schutz der persönlichen Daten ihrer Besucherin
 
 Für die Datenverarbeitung auf dieser Webseite verantwortlich ist:  
 Maria Backes  
-St. Ingberter Str. 34 b  
-66583 Spiesen-Elversberg  
+c/o Gerhart-Hauptmann-Straße 25  
+66386 St. Ingbert  
 Deutschland  
 [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com)
 
@@ -37,7 +37,8 @@ Der Hoster dieser Webseite erhebt in sogenannten Logfiles folgende Daten, die ih
 IP-Adresse, die Adresse der vorher besuchten Webseite (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich-Mean-Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Webseite, von der die Anforderung kommt, und Informationen zu Browser und Betriebssystem.
 
 Das ist erforderlich, um diese Webseite anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht dem berechtigten Interesse der Webseitenbetreiberin im Sinne des Art. 6 Abs. 1 Buchst. f DSGVO.
-Es erfolgt kein Tracking, und von Seiten der Webseitenbetreiberin besteht kein Zugriff auf die erhobenen Daten.
+
+Es erfolgt kein Tracking, und von Seiten der Webseitenbetreiberin besteht kein direkter Zugriff auf die erhobenen Daten, sondern lediglich auf eine anonymisierte, statistische Zusammenfassung. Diese beinhaltet die Adresse der vorher besuchten Seite, die Häufigkeit der jeweils aufgerufenen Seiten und die Anzahl eindeutiger Besucher. Diese Daten werden nicht mit anderen Daten zusammengeführt.
 
 Die Webseite wird mit folgendem Hoster zur Verfügung gestellt:  
 GitHub Inc.  
